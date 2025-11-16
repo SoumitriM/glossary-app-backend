@@ -1,0 +1,9724 @@
+[
+  {
+    "id": "4193761d-79d5-48e3-a510-dc433bde8cf3",
+    "en": [
+      {
+        "word": "Central Student Advisory Service",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentrale Studienberatung",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "soumitri12",
+    "lastModifiedAt": "16.11.2025, 12:56:00"
+  },
+  {
+    "id": "ae22e8ae-0f52-4e42-93f8-d3cd97153ca2",
+    "en": [
+      {
+        "word": "elective course",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wahlkurs",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "soumitri12",
+    "lastModifiedAt": "16.11.2025, 12:56:06"
+  },
+  {
+    "id": "a6888292-62fb-4380-88e8-f3c971d462c5",
+    "en": [
+      {
+        "word": "front office (of xyz)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorzimmer (von xyz)",
+        "comment": "Kontext: Präsidium"
+      }
+    ]
+  },
+  {
+    "id": "6a26615b-2bc2-44b0-bd5f-7fc930bb190a",
+    "en": [
+      {
+        "word": "Vice-President for Transfer and Sustainability",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vizepräsident für Transfer und Nachhaltigkeit",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsidentin für Transfer und Nachhaltigkeit",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsident*in für Transfer und Nachhaltigkeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "980b8945-2d1d-42bc-872b-b5f62449f229",
+    "en": [
+      {
+        "word": "Vice-President for Teaching, Studies and Quality Management",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vizepräsident für Lehre, Studium und Qualitätsmanagement",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsidentin für Lehre, Studium und Qualitätsmanagement",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsident*in für Lehre, Studium und Qualitätsmanagement",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a538fc18-3044-4537-a91b-0ebf066356f0",
+    "en": [
+      {
+        "word": "Vice-President for Research and Academic Careers",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vizepräsident für Forschung und Akademische Karrierewege",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsidentin für Forschung und Akademische Karrierewege",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsident*in für Forschung und Akademische Karrierewege",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "519742ab-9ac4-442e-bf95-de1470b5b5e9",
+    "en": [
+      {
+        "word": "attempt",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Versuch",
+        "comment": "Kontext: Prüfung"
+      }
+    ]
+  },
+  {
+    "id": "93541637-8045-4138-be9f-5e4f1715bb3d",
+    "en": [
+      {
+        "word": "teaching unit",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Unterrichtseinheit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ec87385d-a374-4a6f-9196-06813b2e3e98",
+    "en": [
+      {
+        "word": "tutorial group",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Übungsgruppe",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1b78ebc4-0d1d-4e54-8446-9fcea48cdd78",
+    "en": [
+      {
+        "word": "participant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Teilnehmer",
+        "comment": ""
+      },
+      {
+        "word": "Teilnehmerin",
+        "comment": ""
+      },
+      {
+        "word": "Teilnehmer*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "98f5016c-b446-4f11-aafe-32c96c8d62f4",
+    "en": [
+      {
+        "word": "timetable",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stundenplan",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fb3d5246-0aa1-4767-a700-1e37da1fb227",
+    "en": [
+      {
+        "word": "studies and teaching",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studium und Lehre",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "eada6277-5dfa-4190-b6f5-b67496ad7fae",
+    "en": [
+      {
+        "word": "extracurricular studies",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studium Generale",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "07fce582-3821-41b4-8575-1c142fa950ff",
+    "en": [
+      {
+        "word": "Student Service (STS)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studierendenservice (STS)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9b6489ad-3588-415c-87af-9037b7822dea",
+    "en": [
+      {
+        "word": "study status",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienstatus",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e4a0f347-e544-47ca-b803-e4164fa59183",
+    "en": [
+      {
+        "word": "secretary of the Vice-President",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sekretär des Vizepräsidenten",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär der Vizepräsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär der*des Vizepräsident*in",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin des Vizepräsidenten",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin der Vizepräsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin der*des Vizepräsident*in",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in des Vizepräsidenten",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in der Vizepräsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in der*des Vizepräsident*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "90154b6a-7cda-4afd-b977-28eb608b094e",
+    "en": [
+      {
+        "word": "secretary of the President",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sekretär des Präsidenten",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär der Präsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär der*des Präsident*in",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin des Präsidenten",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin der Präsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin der*des Präsident*in",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in des Präsidenten",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in der Präsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in der*des Präsident*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "64948278-69ad-4745-85de-edf1e6ab9bd9",
+    "en": [
+      {
+        "word": "specialisation selection",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Schwerpunktwahl",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fd6c28a8-1a46-4fbb-a7ad-9e39bd862ff8",
+    "en": [
+      {
+        "word": "specialisation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Schwerpunkt",
+        "comment": "Kontext: Studium"
+      }
+    ]
+  },
+  {
+    "id": "86e43476-5a7b-49cf-bdda-73ce5fd280a6",
+    "en": [
+      {
+        "word": "head of unit",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sachgebietsleitung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3c7aa39f-6b29-42c4-816d-6db76f42ef54",
+    "en": [
+      {
+        "word": "unit",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sachgebiet",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "32f79574-9eaa-40d9-81b5-fa5d1c3bda3d",
+    "en": [
+      {
+        "word": "re-enrolment deadline",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Rückmeldefrist",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d0564d67-aff9-4a98-86eb-7f8b346dfcc6",
+    "en": [
+      {
+        "word": "revision period",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Revisionsphase",
+        "comment": ""
+      },
+      {
+        "word": "zweite Anmeldephase",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "269126de-11d6-49f3-924d-3e58228d33f7",
+    "en": [
+      {
+        "word": "assistant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Referent",
+        "comment": ""
+      },
+      {
+        "word": "Referentin",
+        "comment": ""
+      },
+      {
+        "word": "Referent*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bd1c4678-3238-4835-a8a7-d99ce3934862",
+    "en": [
+      {
+        "word": "room allocation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Raumplanung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "780a7173-988f-4768-bc84-9c73b93371a2",
+    "en": [
+      {
+        "word": "examination attempt",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsversuch",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0fb89aa1-62d2-41ab-bf10-2908ace2e279",
+    "en": [
+      {
+        "word": "Examinations Management",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsmanagement",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0486d9ed-ef0a-4ff8-9e28-7d8e3aa95dfa",
+    "en": [
+      {
+        "word": "examination regulations",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsordnung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c66519b6-73e9-4d9a-a2d9-f5750412bb4a",
+    "en": [
+      {
+        "word": "examination type/type of examination",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsart",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "07bb5572-1c0d-4849-b2b4-fad1a2faa126",
+    "en": [
+      {
+        "word": "examiner",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfer",
+        "comment": ""
+      },
+      {
+        "word": "Prüferin",
+        "comment": ""
+      },
+      {
+        "word": "Prüfer*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4cac82f1-0411-431f-adb4-f4376f22c9f6",
+    "en": [
+      {
+        "word": "compulsory course",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Pflichtkurs",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "845a0a97-41c0-4249-b42d-b29e3e9103bd",
+    "en": [
+      {
+        "word": "organisational unit",
+        "comment": ""
+      },
+      {
+        "word": "orga unit",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Organisationseinheit",
+        "comment": "verwaltungsrechtliche Einheit an Hochschulen in NRW"
+      },
+      {
+        "word": "Orga-Einheit",
+        "comment": "verwaltungsrechtliche Einheit an Hochschulen in NRW"
+      }
+    ]
+  },
+  {
+    "id": "ce266c7f-45fd-4bde-bf28-531edc3cd51b",
+    "en": [
+      {
+        "word": "minor subject selection",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Nebenfachwahl",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "baedf26d-5cd6-49f0-b9fd-aa8a4c3bf583",
+    "en": [
+      {
+        "word": "minor subject examination regulations",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Nebenfach-Prüfungsordnung",
+        "comment": ""
+      },
+      {
+        "word": "NF-PO",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "dc3755e2-9a44-46c5-bb90-1d2c0da78998",
+    "en": [
+      {
+        "word": "module frequency",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Modultaktung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c583dc93-27d9-4fb6-b53a-e69470145bd3",
+    "en": [
+      {
+        "word": "module duration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Moduldauer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "efc6fd40-6e32-4070-87a7-4a31ab15de32",
+    "en": [
+      {
+        "word": "module component",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Modulbaustein",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ed2eaa45-de47-4ee1-ba13-95fb2ae9647f",
+    "en": [
+      {
+        "word": "modules on offer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Modulangebot",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0486ebcc-2350-408f-b0b8-1f0d73cb32d3",
+    "en": [
+      {
+        "word": "module",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Modul",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fe22fe5c-7460-4eaa-b216-72b513149ebf",
+    "en": [
+      {
+        "word": "classes on offer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehrveranstaltungsangebot",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6ebe0d42-9b98-4b10-9278-72f18387f42c",
+    "en": [
+      {
+        "word": "credit semester",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Leistungssemester",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b47d509b-a3e6-4369-b312-e608f51d3e43",
+    "en": [
+      {
+        "word": "academic record",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Leistungskonto",
+        "comment": "Kontext: Campusmanagementsystem PAUL"
+      }
+    ]
+  },
+  {
+    "id": "677325e2-bb86-4f43-baa5-bf4a1c7c47c5",
+    "en": [
+      {
+        "word": "class manager",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehrveranstaltungsmanager",
+        "comment": "Kontext: Campusmanagementsystem PAUL"
+      }
+    ]
+  },
+  {
+    "id": "7aac7df4-0fbc-4c41-a605-c820c5828b2a",
+    "en": [
+      {
+        "word": "course type",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kurstyp",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f5f12ee1-0c89-4802-b469-3103e4b48e79",
+    "en": [
+      {
+        "word": "course programme",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kursprogramm",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "862a6a45-8c64-4be6-9abd-7ab28bc62057",
+    "en": [
+      {
+        "word": "course area",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kursbereich",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b664e28e-6aa6-4b63-89c6-4c646afa6b7f",
+    "en": [
+      {
+        "word": "courses on offer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kursangebot",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2ff3058c-80ac-4016-8d71-688f42641276",
+    "en": [
+      {
+        "word": "Studies and Quality Management (SK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kommission für Lehre, Studium und Qualitätsmanagement (SK)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c41d72c9-200f-4dfb-b468-e64e0ea68fdf",
+    "en": [
+      {
+        "word": "Committee for Research and Academic Careers (FK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kommission für Forschung und akademische Karrierewege (FK)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "46bd40cc-2f94-4d12-85cf-a5046fa4239f",
+    "en": [
+      {
+        "word": "internal notification system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "internes Benachrichtungssystem",
+        "comment": "Kontext: Campusmanagementsystem PAUL"
+      }
+    ]
+  },
+  {
+    "id": "1ea8f9e9-f340-4d96-a713-32971b7a3e93",
+    "en": [
+      {
+        "word": "auditor",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hörer",
+        "comment": ""
+      },
+      {
+        "word": "Hörerin",
+        "comment": ""
+      },
+      {
+        "word": "Hörer*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c506462f-5a96-4a74-87cf-262a84744c84",
+    "en": [
+      {
+        "word": "major subject examination regulations",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hauptfach-Prüfungsordnung",
+        "comment": ""
+      },
+      {
+        "word": "HF-PO",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9760b283-d5f1-422c-80bc-8845d86d54ee",
+    "en": [
+      {
+        "word": "administration of the Executive Board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Geschäftsstelle des Präsidiums",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5520ecb1-1db8-4872-aabd-f78aa9a79ba8",
+    "en": [
+      {
+        "word": "fees",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gebühren",
+        "comment": "Kontext: Studium, Einschreibung"
+      }
+    ]
+  },
+  {
+    "id": "a349e2a7-1a91-4f72-aea7-baeca0f7f7ff",
+    "en": [
+      {
+        "word": "PLAZ-Direktorium",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "PLAZ Board of Directors",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a7712004-3eda-4d28-8bfe-8e9e93760d76",
+    "en": [
+      {
+        "word": "Director of PLAZ – Professional School of Education",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Direktor der PLAZ - Professional School of Education",
+        "comment": ""
+      },
+      {
+        "word": "Direktorin der PLAZ - Professional School of Education",
+        "comment": ""
+      },
+      {
+        "word": "Direktor*in der PLAZ - Professional School of Education",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "dde6e88f-9f8a-44df-86c6-edf2b4e5d453",
+    "en": [
+      {
+        "word": "head of section",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dezernent",
+        "comment": ""
+      },
+      {
+        "word": "Dezernentin",
+        "comment": ""
+      },
+      {
+        "word": "Dezernent*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8bfa412f-fb10-465b-9c33-b4f189089da2",
+    "en": [
+      {
+        "word": "section",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dezernat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9aec1e21-8248-4fca-879d-c902eef83669",
+    "en": [
+      {
+        "word": "Consilium Decanale",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Consilium decanale",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f37b3d34-c4be-48e7-8804-e812c697f874",
+    "en": [
+      {
+        "word": "campus management system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Campusmanagementsystem",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bd747386-99ac-4b48-a2b8-2304dcafcd47",
+    "en": [
+      {
+        "word": "evaluation system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bewertungssystem",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6c8fe2aa-b934-4686-a5d2-4411a373650b",
+    "en": [
+      {
+        "word": "user account",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Benutzerkonto",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "015878a7-25b0-49dd-bc7d-9338c401ef6c",
+    "en": [
+      {
+        "word": "registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Anmeldung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "21c0383c-2919-40a9-b691-920ae191d3a5",
+    "en": [
+      {
+        "word": "registration period",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Anmeldephase",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "521c7ea3-3266-40a9-a5c4-8267c54047c2",
+    "en": [
+      {
+        "word": "registration group",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Anmeldegruppe",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e9f4a263-c187-438a-89b5-f30773435904",
+    "en": [
+      {
+        "word": "on offer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Angebot",
+        "comment": "Kontext: Studiengänge, Kurse, etc."
+      }
+    ]
+  },
+  {
+    "id": "2db76e63-ade5-4231-8a37-a6014310c353",
+    "en": [
+      {
+        "word": "Official Announcement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Amtliche Mitteilung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a60cee25-97ba-412a-bba3-126094ff21c4",
+    "en": [
+      {
+        "word": "final examination",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Abschlussprüfung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f10115d2-0241-4340-ae32-7e7f32b12e12",
+    "en": [
+      {
+        "word": "final modules on offer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Abschlussmodulangebot",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6ae4d176-6239-49de-88e7-a65beee7a519",
+    "en": [
+      {
+        "word": "final module",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Abschlussmodul",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "20149a07-4f4c-4a92-a2c0-b265ba26f0d1",
+    "en": [
+      {
+        "word": "(federal) state",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "(Bundes)-Land",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "507e90dd-a16c-42d3-bc7d-6f9def7f5263",
+    "en": [
+      {
+        "word": "seconded civil servant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "abgeordneter Beamter",
+        "comment": ""
+      },
+      {
+        "word": "abgeordnete Beamtin",
+        "comment": ""
+      },
+      {
+        "word": "abgeordnete*r Beamt*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3ca8fc73-8487-44c2-83b6-b1b220c48e31",
+    "en": [
+      {
+        "word": "(final) thesis",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Abschlussarbeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c5e33d94-a91a-4af2-9dd0-a8093751232b",
+    "en": [
+      {
+        "word": "degree certificate",
+        "comment": "Zeugnis"
+      },
+      {
+        "word": "academic transcript",
+        "comment": "Oberbegriff"
+      }
+    ],
+    "de": [
+      {
+        "word": "Abschlusszeugnis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c2d71376-1a32-43f7-99e1-a9ed764648ed",
+    "en": [
+      {
+        "word": "academic teaching",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "akademische Lehre",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2ef08b59-4c74-43a6-9638-1396c65dbb39",
+    "en": [
+      {
+        "word": "former rector",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Altrektor",
+        "comment": ""
+      },
+      {
+        "word": "Altrektor",
+        "comment": ""
+      },
+      {
+        "word": "Altrektor*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "09cfb5e5-d8af-43ec-a05b-1c6a4814c5d0",
+    "en": [
+      {
+        "word": "classical languages",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Altsprachen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bc873656-6a58-4b5f-9269-df0f2be6c882",
+    "en": [
+      {
+        "word": "alumnus",
+        "comment": ""
+      },
+      {
+        "word": "alumna",
+        "comment": ""
+      },
+      {
+        "word": "alum",
+        "comment": ""
+      },
+      {
+        "word": "alumni",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Alumnus",
+        "comment": ""
+      },
+      {
+        "word": "Alumna",
+        "comment": ""
+      },
+      {
+        "word": "Alum",
+        "comment": ""
+      },
+      {
+        "word": "Alumni",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "cc7f027f-83d0-4ba1-8db9-ba2ee6ad5177",
+    "en": [
+      {
+        "word": "official secrecy",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Amtsverschwiegenheit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "92e8fa8f-f427-4f62-8888-828c9618f6f5",
+    "en": [
+      {
+        "word": "change of gender designation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Änderung des Geschlechts",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "719d4701-13a0-455e-a0f6-fee6f2b89333",
+    "en": [
+      {
+        "word": "change of name",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Änderung des Namens",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ac6f4050-afdd-494e-af9b-81ed8724fefb",
+    "en": [
+      {
+        "word": "change of voting rights",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Änderung des Wahlrechts",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f41ad318-90b2-4f48-baa3-220259c4dc85",
+    "en": [
+      {
+        "word": "offers for new employees",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Angebote für neue Mitarbeitende",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d47c47c1-71f8-4b21-a58e-946800f30130",
+    "en": [
+      {
+        "word": "University member",
+        "comment": ""
+      },
+      {
+        "word": "member of the University",
+        "comment": "als Ansprache zu nutzen, z.B. in Rundmails"
+      }
+    ],
+    "de": [
+      {
+        "word": "Angehöriger",
+        "comment": ""
+      },
+      {
+        "word": "Angehörige",
+        "comment": ""
+      },
+      {
+        "word": "Angehörige*r der Universität",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a089cdc5-14bd-48dd-8f7f-be62e9dc3de8",
+    "en": [
+      {
+        "word": "adequacy decision",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Angemessenheitsbeschluss",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "2161a1d7-ffc1-4ef6-8f43-a4858fc7cdaf",
+    "en": [
+      {
+        "word": "English Studies",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Anglistik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "141d2ce2-495b-48b2-a9ad-3405ac4e921d",
+    "en": [
+      {
+        "word": "point of contact",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Anlaufstelle",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "30ee9396-1b53-4780-827d-671d0802361a",
+    "en": [
+      {
+        "word": "directions and campus map",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Anreise/Lageplan",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "72b5f226-ce21-458e-9327-011f87386d1a",
+    "en": [
+      {
+        "word": "start-up funding",
+        "comment": "für Unternehmensgründungen"
+      },
+      {
+        "word": "initial funding",
+        "comment": "für Forschungsprojekte"
+      }
+    ],
+    "de": [
+      {
+        "word": "Anschubfinanzierung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c1645e48-5542-4b76-818e-474b8845f3cb",
+    "en": [
+      {
+        "word": "contact person",
+        "comment": "vorzugsweise"
+      },
+      {
+        "word": "contact",
+        "comment": ""
+      },
+      {
+        "word": "person/office to contact",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Ansprechpartner",
+        "comment": ""
+      },
+      {
+        "word": "Ansprechpartnerin",
+        "comment": ""
+      },
+      {
+        "word": "Ansprechpartner*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "25b071c5-d71d-4496-957a-2483e65d24ef",
+    "en": [
+      {
+        "word": "point of contact in the ZIM",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ansprechpartner",
+        "comment": ""
+      },
+      {
+        "word": "Ansprechpartnerin",
+        "comment": ""
+      },
+      {
+        "word": "Ansprechpartner*in im ZIM",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "dc469397-8a19-46bf-8f7a-ff15e9425f6f",
+    "en": [
+      {
+        "word": "equivalence agreement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Äquivalenzvereinbarung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "046c683d-6d42-4bb1-8edd-7927cf4d6dff",
+    "en": [
+      {
+        "word": "workspace",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Arbeitsraum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "071ee3d4-3b89-4c4b-a2c1-af1d10d506d0",
+    "en": [
+      {
+        "word": "AStA Stadtcampus",
+        "comment": "study/event space of the AStA in the city centre"
+      }
+    ],
+    "de": [
+      {
+        "word": "AStA Stadtcampus",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "97c7d109-6338-459d-a621-5c119fac2583",
+    "en": [
+      {
+        "word": "audit family-friendly university",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "audit familiengerechte hochschule",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "07c8f2f3-bba5-4530-b701-ea6b77559970",
+    "en": [
+      {
+        "word": "contract/contractual research",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Auftragsforschung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "60b0d228-c505-4ac2-9ca1-d4a41a06c8a7",
+    "en": [
+      {
+        "word": "data processing agreement (DPA)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Auftragsverarbeitungsvertrag (AVV)",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "f6e43661-182f-4ed7-ae05-3764de28c3ca",
+    "en": [
+      {
+        "word": "spin-off",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ausgründung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a1522590-fc79-4cd0-9aea-814f3ff7ee3a",
+    "en": [
+      {
+        "word": "state-recognised international higher education institution",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "ausländische staatliche Hochschule",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "209a4b3d-7e3c-4638-b14d-7e374cb406eb",
+    "en": [
+      {
+        "word": "International Student Union (ASV)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ausländische Studierenden-Vertretung (ASV)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7aa45277-517f-4b37-8021-b03682654f0b",
+    "en": [
+      {
+        "word": "call for proposals",
+        "comment": ""
+      },
+      {
+        "word": "call for applications",
+        "comment": "Kontext: DAAD"
+      }
+    ],
+    "de": [
+      {
+        "word": "Ausschreibung",
+        "comment": "Kontext: Forschung"
+      }
+    ]
+  },
+  {
+    "id": "ded18ba1-7e55-48ac-b11f-5425824ce2ab",
+    "en": [
+      {
+        "word": "selection procedure",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Auswahlverfahren",
+        "comment": "eine*r/s Kandidat*in/en, z.B. für einen Studienplatz/einen Preis/etc."
+      }
+    ]
+  },
+  {
+    "id": "dba450e3-179e-4381-84e2-8c0397b9f5bb",
+    "en": [
+      {
+        "word": "autonomous learning",
+        "comment": "only as an add-on to a language course"
+      }
+    ],
+    "de": [
+      {
+        "word": "Autonomes Lernen",
+        "comment": "nur in Verbindung mit einem Sprachkurs"
+      }
+    ]
+  },
+  {
+    "id": "26243cf7-d154-49ff-b3b9-f085990c9764",
+    "en": [
+      {
+        "word": "bachelor's thesis",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bachelorarbeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ad138c03-3cf1-43d3-97cd-ae4613080a97",
+    "en": [
+      {
+        "word": "civil servant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Beamter",
+        "comment": ""
+      },
+      {
+        "word": "Beamtin",
+        "comment": ""
+      },
+      {
+        "word": "Beamt*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "be9a80c3-7f9c-4b11-add1-43c01765f421",
+    "en": [
+      {
+        "word": "Research Data Management (RDM) Officer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Beauftragter",
+        "comment": ""
+      },
+      {
+        "word": "Beauftragte",
+        "comment": ""
+      },
+      {
+        "word": "Beauftragte*r für Forschungsdatenmanagement (FDM)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "098e7cb5-4d16-4d62-aa7b-a4b1bd836387",
+    "en": [
+      {
+        "word": "accompanying research",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Begleitforschung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e9f04737-73e6-4aec-925f-3320dcd563a4",
+    "en": [
+      {
+        "word": "professionally and vocationally qualified individuals",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "beruflich Qualifizierte",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "62093680-df4b-459a-88d1-f8bb3483309c",
+    "en": [
+      {
+        "word": "professional and vocational qualification",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Berufliche Qualifikation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f3ebc0a8-ade7-46af-a870-74077e39332a",
+    "en": [
+      {
+        "word": "professional fieldwork placement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Berufsfeldpraktikum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "687c8fe4-0361-44bc-aaf3-8d1bf8201ba1",
+    "en": [
+      {
+        "word": "work placement in the pedagogical field for teacher education students",
+        "comment": "B.Ed."
+      }
+    ],
+    "de": [
+      {
+        "word": "Berufsfeldpraktikum",
+        "comment": "Kontext: Lehramt UPB"
+      }
+    ]
+  },
+  {
+    "id": "c06838ef-20c8-4f7c-ab59-c379ed2344ce",
+    "en": [
+      {
+        "word": "professionally relevant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "berufsrelevant",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1dc7cdcc-9a8d-4389-bcfd-8214f85b011b",
+    "en": [
+      {
+        "word": "Professorial Appointment Committee",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Berufungskommission",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6e574d5c-e79b-4ae0-bca0-c6baacabf028",
+    "en": [
+      {
+        "word": "appointment procedure",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Berufungsverfahren",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3a887563-3ac9-4ff0-9baa-74927cf49403",
+    "en": [
+      {
+        "word": "procurement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Beschaffung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d557eb06-c905-4d0b-8505-cd84a797cf84",
+    "en": [
+      {
+        "word": "employee",
+        "comment": "bevorzugt"
+      },
+      {
+        "word": "staff (member)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Beschäftigter",
+        "comment": ""
+      },
+      {
+        "word": "Beschäftigte",
+        "comment": ""
+      },
+      {
+        "word": "Beschäftigte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7d90b354-d368-42f9-a246-6b1c893e9d92",
+    "en": [
+      {
+        "word": "confirmation",
+        "comment": ""
+      },
+      {
+        "word": "certificate",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Bescheinigung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1b2e53d6-c38f-40b8-811d-31eb6fd66954",
+    "en": [
+      {
+        "word": "constitute a quorum",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "beschlussfähig sein",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a4a9ccbf-738e-46d7-802e-cf879c8c8e5a",
+    "en": [
+      {
+        "word": "doctoral supervisor",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Betreuer",
+        "comment": ""
+      },
+      {
+        "word": "Betreuerin",
+        "comment": ""
+      },
+      {
+        "word": "Betreuer*in der Promotion",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6c76e54a-c1c4-487c-95f1-92990df8ef43",
+    "en": [
+      {
+        "word": "supervision agreement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Betreuungsvereinbarung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "aee7260e-34bc-44e8-bc68-210a8c0856bc",
+    "en": [
+      {
+        "word": "applicant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bewerber",
+        "comment": ""
+      },
+      {
+        "word": "Bewerberin",
+        "comment": ""
+      },
+      {
+        "word": "Bewerber*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "91d8c904-0a3e-4bcb-abc3-94ecbe72c02c",
+    "en": [
+      {
+        "word": "application",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bewerbung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "607f1750-c94e-438c-b215-4b627832fe25",
+    "en": [
+      {
+        "word": "application deadline",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bewerbungsfrist",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2d7f1837-7c93-4df0-ad61-f70e54100a5d",
+    "en": [
+      {
+        "word": "library",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bibliothek",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9aa1bce6-de87-439b-9c9b-793e1e477f1d",
+    "en": [
+      {
+        "word": "library card",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bibliotheksausweis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6b281c0c-5ba1-48dd-8e3a-77b07984e3f6",
+    "en": [
+      {
+        "word": "educational institution",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bildungseinrichtung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ee061fa9-7a63-4493-a6a6-ed90a0733df4",
+    "en": [
+      {
+        "word": "educational research",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bildungsforschung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1d2512c4-2881-4924-a392-4616e4a11e13",
+    "en": [
+      {
+        "word": "educational institution",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bildungsinstitution",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3c7c17aa-8ad4-4fbc-8666-39577561ae55",
+    "en": [
+      {
+        "word": "education system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bildungssystem",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "42d54ac3-74ed-47d2-a8ab-30317a848754",
+    "en": [
+      {
+        "word": "improvement of the allocation grade",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bonierung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c0828f4f-373e-4f43-9fd9-245891c64421",
+    "en": [
+      {
+        "word": "accountant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Buchhalter",
+        "comment": ""
+      },
+      {
+        "word": "Buchhalterin",
+        "comment": ""
+      },
+      {
+        "word": "Buchhalter*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5410d74e-01e7-4e32-ad39-f5dec35d1849",
+    "en": [
+      {
+        "word": "Federal Ministry of Education and Research (BMBF)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Bundesministerium für Bildung und Forschung (BMBF)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b0d938ca-b3e5-4d52-b72d-6b7424ac041c",
+    "en": [
+      {
+        "word": "data protection",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Datenschutz",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "47d55b31-1db5-46eb-b08e-ed55afaed3ca",
+    "en": [
+      {
+        "word": "data protection officer",
+        "comment": "Großschreibung wenn Titel; ansonsten: Kleinschreibung, z.B.: 'Paderborn University's Data Protection Officer"
+      }
+    ],
+    "de": [
+      {
+        "word": "Datenschutzbeauftragter",
+        "comment": ""
+      },
+      {
+        "word": "Datenschutzbeauftragte",
+        "comment": ""
+      },
+      {
+        "word": "Datenschutzbeauftragte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b0b97fff-f076-4e1d-8356-cf0caefa24eb",
+    "en": [
+      {
+        "word": "data protection law",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Datenschutzrecht",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "577e1787-3b0d-4b89-9ce8-1b5ff1f135a0",
+    "en": [
+      {
+        "word": "dean",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Dekan",
+        "comment": ""
+      },
+      {
+        "word": "Dekanin",
+        "comment": ""
+      },
+      {
+        "word": "Dekan*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d28cd7b3-1320-4c96-bf4d-faeb0fb284fe",
+    "en": [
+      {
+        "word": "dean's office",
+        "comment": "groß, wenn ein bestimmtes Dekanat innerhalb der UPB gemeint ist"
+      }
+    ],
+    "de": [
+      {
+        "word": "Dekanat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7980de8f-f9ad-417a-8b58-3edb7f33a2e0",
+    "en": [
+      {
+        "word": "Department of Chemistry",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Department Chemie",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "32b87fde-70be-466a-937a-76d845c1c783",
+    "en": [
+      {
+        "word": "Department of Physics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Department Physik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "10812218-bd2f-4c2f-a9a1-438b8f54abe6",
+    "en": [
+      {
+        "word": "Department of Exercise and Health",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Department Sport & Gesundheit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "777077bf-1d8a-4932-bbc3-74b09c4871d9",
+    "en": [
+      {
+        "word": "German Research Foundation (DFG)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Deutsche Forschungsgemeinschaft (DFG)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fc8b7fdb-2143-4ae0-b488-c8ff605cc410",
+    "en": [
+      {
+        "word": "German Academic Exchange Service (DAAD)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Deutscher Akademische Austauschdienst (DAAD)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "00eb7921-61ea-48d6-9444-0ebacae19c95",
+    "en": [
+      {
+        "word": "Deutsches Studierendenwerk (DSW)",
+        "comment": "association that represents the socio-political interests of students, as stipulated in its statutes"
+      }
+    ],
+    "de": [
+      {
+        "word": "Deutsches Studierendenwerk (DSW)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "32e51078-b7d6-4c42-86a6-76fc9483c820",
+    "en": [
+      {
+        "word": "DFG Research Unit",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "DFG-Forschungsgruppe",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d4565741-759d-404d-8ba3-eddc1c029aa7",
+    "en": [
+      {
+        "word": "DFG Priority Programme",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "DFG-Schwerpunktprogramm",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "98bf0e20-df05-4850-9084-fc2c0fe38d32",
+    "en": [
+      {
+        "word": "business trip",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dienstreise",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a067745a-4c7b-4e32-bf3c-7e335eaf41aa",
+    "en": [
+      {
+        "word": "discipline",
+        "comment": "Fachrichtung"
+      },
+      {
+        "word": "field",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Disziplin",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8bfe85d8-d814-4202-82cd-52ec6c70e470",
+    "en": [
+      {
+        "word": "interdisciplinary",
+        "comment": "bevorzugt"
+      },
+      {
+        "word": "cross-disciplinary",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "disziplinübergreifend",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e55984a2-6b00-4a3d-83d5-7a08b39e968a",
+    "en": [
+      {
+        "word": "doctoral candidate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Doktorand",
+        "comment": ""
+      },
+      {
+        "word": "Doktorandin",
+        "comment": ""
+      },
+      {
+        "word": "Doktorand*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8d3b9ac0-0ab1-431e-a4f1-1380cf914012",
+    "en": [
+      {
+        "word": "(university) lecturer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dozent",
+        "comment": ""
+      },
+      {
+        "word": "Dozentin",
+        "comment": ""
+      },
+      {
+        "word": "Dozent*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7dc286f4-8591-46bc-8acd-f479abf58c3e",
+    "en": [
+      {
+        "word": "Dr.",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dr.",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "65cfd853-9a4d-4d77-8516-89d44e268da3",
+    "en": [
+      {
+        "word": "alumnus",
+        "comment": ""
+      },
+      {
+        "word": "alumna",
+        "comment": ""
+      },
+      {
+        "word": "alumni",
+        "comment": ""
+      },
+      {
+        "word": "former students",
+        "comment": ""
+      },
+      {
+        "word": "former professors",
+        "comment": ""
+      },
+      {
+        "word": "former staff members",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Ehemaliger",
+        "comment": ""
+      },
+      {
+        "word": "Ehemalige",
+        "comment": ""
+      },
+      {
+        "word": "Ehemalige*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4fa63951-85ae-47d4-9e38-1c398828f628",
+    "en": [
+      {
+        "word": "admissions examination",
+        "comment": ""
+      },
+      {
+        "word": "aptitude test",
+        "comment": ""
+      },
+      {
+        "word": "admissions examination",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Eignungsprüfung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c25b07fa-4a54-4474-b55f-b2f76cb2e326",
+    "en": [
+      {
+        "word": "enrolment deadline",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Einschreibefrist",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a1f76a29-533f-4a08-94ee-6a421a4b090b",
+    "en": [
+      {
+        "word": "placement certificate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Einstufungsbescheinigung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b5439d0f-945c-437a-b0c7-e5f6e4bb8240",
+    "en": [
+      {
+        "word": "declaration of consent to the transfer of data",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Einverständniserklärung zur Datenweitergabe",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "25bc4469-bd3c-4a0d-887b-449541b6b289",
+    "en": [
+      {
+        "word": "declaration of consent",
+        "comment": "Kontext: Datenschutz"
+      }
+    ],
+    "de": [
+      {
+        "word": "Einwilligungserklärung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a9955276-beb5-432c-97df-6cb8f659a30b",
+    "en": [
+      {
+        "word": "Electrical Engineering",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Elektrotechnik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "34acf6d3-190b-4fe0-bd4b-5f3b2eb550a6",
+    "en": [
+      {
+        "word": "Emmy Noether Independent Junior Research Groups",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Emmy Noether Nachwuchsgruppen",
+        "comment": "Kontext: DFG"
+      }
+    ]
+  },
+  {
+    "id": "1ef197cd-03f2-4ee1-b078-909647614754",
+    "en": [
+      {
+        "word": "Emmy Noether Independent Junior Research Group Leader",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Emmy Noether Nachwuchsgruppenleitung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5205ed79-fb65-438e-807d-9be7964c2b29",
+    "en": [
+      {
+        "word": "English Linguistics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Englische Sprachwissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ac42accb-0579-40fc-bc97-f40f7e918332",
+    "en": [
+      {
+        "word": "ERC (European Research Council) grant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "ERC (European Research Council) Grant",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d3afa96b-acd0-4c3a-8bd5-4383a8d06e24",
+    "en": [
+      {
+        "word": "regular students",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ersthörerschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1b040e51-f428-4b9f-848d-9d654322e70b",
+    "en": [
+      {
+        "word": "complimentary degree programme",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Erweiterungsstudium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d8f0f5aa-f81b-446b-b18c-b024d09d2df2",
+    "en": [
+      {
+        "word": "parent or guardian",
+        "comment": ""
+      },
+      {
+        "word": "legal guardian",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Erziehungsberechtigter",
+        "comment": ""
+      },
+      {
+        "word": "Erziehungsberechtigte",
+        "comment": ""
+      },
+      {
+        "word": "Erziehungsberechtigte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4b895145-e4e6-4545-b29a-5ee402ae1069",
+    "en": [
+      {
+        "word": "Education Studies",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Erziehungswissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a8ff4076-bfc4-430d-b030-1f6949542375",
+    "en": [
+      {
+        "word": "Ethics Committee",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ethik-Kommission",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e036e79c-981f-4553-a9c5-de9d10300a72",
+    "en": [
+      {
+        "word": "EU collaborative project",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "EU-Verbundprojekt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "91feb6de-9afd-4bd2-b202-0052e4379061",
+    "en": [
+      {
+        "word": "evaluation report",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Evaluationsbericht",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6a560443-34be-4005-b33b-e0bd3f395968",
+    "en": [
+      {
+        "word": "Protestant Religious Education",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Evangelische Religionslehre",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "72a3b845-1b50-4a12-b2b2-0de0d1fa5db1",
+    "en": [
+      {
+        "word": "(business) start-ups",
+        "comment": ""
+      },
+      {
+        "word": "starting a business",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Existenzgründung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3bbabfc0-5909-4eb0-9574-74ccfd659e47",
+    "en": [
+      {
+        "word": "de-registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Exmatrikulation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "21cdd1c7-deb3-4313-b984-862f556ee7dc",
+    "en": [
+      {
+        "word": "confirmation of de-registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Exmatrikulationsbescheinigung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "03233094-992c-4901-bd7f-8ddd8692e994",
+    "en": [
+      {
+        "word": "de-register",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "exmatrikulieren",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a91da121-25cd-4a92-b99c-0e33c66831c5",
+    "en": [
+      {
+        "word": "Excellence Strategy",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Exzellenzwettbewerb",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9b710a70-8c1b-41d9-8ebc-c9bb678d404d",
+    "en": [
+      {
+        "word": "subject area",
+        "comment": "auch Fachgebiet"
+      },
+      {
+        "word": "discipline",
+        "comment": ""
+      },
+      {
+        "word": "field",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Fach",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b3c1b983-1949-4f44-aca8-a9d76988d30c",
+    "en": [
+      {
+        "word": "subject combinations",
+        "comment": ""
+      },
+      {
+        "word": "combination of subjects/disciplines",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fächerkombinationen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c897ceb6-2bab-4af8-974c-97b6ed59b485",
+    "en": [
+      {
+        "word": "interdisciplinary",
+        "comment": "bevorzugt"
+      },
+      {
+        "word": "multidisciplinary",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "fächerübergreifend",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "43a98ba4-7219-4faf-9b09-02eab46b1f8e",
+    "en": [
+      {
+        "word": "subject-restricted higher education entrance qualification",
+        "comment": "fachgebundene Hochschulreife, fgHR"
+      }
+    ],
+    "de": [
+      {
+        "word": "fachgebundene Hochschulreife (fgHR)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "42968d8b-4283-4518-9212-75b34140074c",
+    "en": [
+      {
+        "word": "entrance qualification for a university of applied sciences",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fachhochschulreife",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "62e33aaa-7951-49d3-8d87-513535df3fda",
+    "en": [
+      {
+        "word": "review board election",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fachkollegienwahl",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9b554387-a19a-4835-98c9-695650fff741",
+    "en": [
+      {
+        "word": "review board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fachkollegium",
+        "comment": ""
+      },
+      {
+        "word": "Fachkollegien",
+        "comment": "Kontext: DFG"
+      }
+    ]
+  },
+  {
+    "id": "72f479a5-0d36-41b7-ad96-6674162b414f",
+    "en": [
+      {
+        "word": "(course) semester",
+        "comment": "subject semester = Nebenfach"
+      }
+    ],
+    "de": [
+      {
+        "word": "Fachsemester",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "07fb5135-1821-49a7-80d9-44443c2f9b91",
+    "en": [
+      {
+        "word": "faculty",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fakultät",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "37103402-b420-4f26-9704-c02fa6b2413e",
+    "en": [
+      {
+        "word": "Faculty of Computer Science",
+        "comment": ""
+      },
+      {
+        "word": "Electrical Engineering and Mathematics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fakultät für Elektrotechnik",
+        "comment": ""
+      },
+      {
+        "word": "Informatik und Mathematik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "adfbac3d-acc8-464c-8865-fd8e22e47f3c",
+    "en": [
+      {
+        "word": "Faculty of Arts and Humanities",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fakultät für Kulturwissenschaften",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4a6eccc4-2b67-4e76-8324-23882b0e5dd7",
+    "en": [
+      {
+        "word": "Faculty of Mechanical Engineering",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fakultät für Maschinenbau",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b5f72dc0-34a9-450a-9bac-4b5a9569920d",
+    "en": [
+      {
+        "word": "Faculty of Science",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fakultät für Naturwissenschaften",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5047ab72-20af-4584-96f1-c24e623bf01b",
+    "en": [
+      {
+        "word": "Faculty of Business Administration and Economics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Fakultät für Wirtschaftswissenschaften",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e5afd6b1-b582-4f72-ab09-16f5b5e287a6",
+    "en": [
+      {
+        "word": "cross-faculty",
+        "comment": ""
+      },
+      {
+        "word": "across several faculties",
+        "comment": ""
+      },
+      {
+        "word": "interdisciplinary",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "fakultätsübergreifend",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3872a605-2dc4-47c8-87db-a7602d741ee4",
+    "en": [
+      {
+        "word": "family-friendly university",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Familiengerechte Hochschule",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5ff9f3df-57fa-4ac6-a34a-18cdcbd5478f",
+    "en": [
+      {
+        "word": "sponsor",
+        "comment": "privater Förderer"
+      },
+      {
+        "word": "research funding organisation",
+        "comment": "Förderer öffentlicher Mittel, z.B. DFG als Förderer"
+      }
+    ],
+    "de": [
+      {
+        "word": "Förderer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "de93c5f9-d878-4c37-b52d-fb404f74e959",
+    "en": [
+      {
+        "word": "sponsoring",
+        "comment": ""
+      },
+      {
+        "word": "funding",
+        "comment": ""
+      },
+      {
+        "word": "promotion ;",
+        "comment": "i.S.v. von Fähigkeiten fördern"
+      }
+    ],
+    "de": [
+      {
+        "word": "Fördern",
+        "comment": "Substantiv"
+      }
+    ]
+  },
+  {
+    "id": "3fff40a7-823c-4c71-a665-da011f8f3c76",
+    "en": [
+      {
+        "word": "sponsor",
+        "comment": ""
+      },
+      {
+        "word": "fund",
+        "comment": ""
+      },
+      {
+        "word": "support",
+        "comment": "Kontext: (finanzielle) Mittel"
+      },
+      {
+        "word": "promote",
+        "comment": ""
+      },
+      {
+        "word": "foster",
+        "comment": ""
+      },
+      {
+        "word": "encourage",
+        "comment": "Kontext: Fähigkeiten, Aktivitäten, etc."
+      }
+    ],
+    "de": [
+      {
+        "word": "fördern",
+        "comment": "Verb"
+      }
+    ]
+  },
+  {
+    "id": "fecf5094-fb4f-46d6-ac95-0beef8506aa7",
+    "en": [
+      {
+        "word": "funding/grant programme",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Förderprogramm",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5f88a6ae-0052-4079-aeef-8c46cff565bc",
+    "en": [
+      {
+        "word": "form",
+        "comment": ""
+      },
+      {
+        "word": "document",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Formular",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4df1e29b-e98a-47ea-b944-b245959b1c6a",
+    "en": [
+      {
+        "word": "form (sheet)",
+        "comment": ""
+      },
+      {
+        "word": "document (by subject)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Formular (thematisch)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fcd6c812-11f5-4418-9ffc-38bd930a7ef6",
+    "en": [
+      {
+        "word": "researcher",
+        "comment": "bevorzugt"
+      },
+      {
+        "word": "academic",
+        "comment": ""
+      },
+      {
+        "word": "scientist",
+        "comment": "Naturwissenschaftler*in"
+      }
+    ],
+    "de": [
+      {
+        "word": "Forscher",
+        "comment": ""
+      },
+      {
+        "word": "Forscherin",
+        "comment": ""
+      },
+      {
+        "word": "Forscher*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3a768fae-b11f-4746-b882-77b0f9ee2894",
+    "en": [
+      {
+        "word": "research",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "db376539-2016-4c1e-a898-be89f377ff72",
+    "en": [
+      {
+        "word": "research and innovation transfer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungs- und Innovationstransfer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bfaca48f-71b0-43b2-a8ca-2c58c59adda9",
+    "en": [
+      {
+        "word": "research activity",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsaktivität",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2a812c44-e287-4215-9c04-cbcc4aa06cd2",
+    "en": [
+      {
+        "word": "research visit",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsaufenthalt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7e03e5f1-e7ac-4732-90a2-3849bb01f3a4",
+    "en": [
+      {
+        "word": "research data",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsdaten",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7db3a378-9a42-431e-b5e3-48ca02078407",
+    "en": [
+      {
+        "word": "research data management (RDM)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsdatenmanagement (FDM)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2440e590-222c-4519-bc34-7e3918f6d317",
+    "en": [
+      {
+        "word": "research organisation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungseinrichtung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "45f751a3-2143-4857-8097-45b89a13f317",
+    "en": [
+      {
+        "word": "research funding",
+        "comment": "Förderung mit Geld"
+      },
+      {
+        "word": "research support",
+        "comment": "Förderung durch Beratung"
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsförderung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "55b31da3-8a16-4e28-a81c-f013048df2e8",
+    "en": [
+      {
+        "word": "research infrastructure",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsinfrastruktur",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7ceafea2-4a9e-4230-aed9-29e42113dfb9",
+    "en": [
+      {
+        "word": "research-intensive",
+        "comment": ""
+      },
+      {
+        "word": "to have a strong focus on research",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "forschungsintensiv",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8204de14-55c4-453b-85a2-1e39e27b84da",
+    "en": [
+      {
+        "word": "research culture",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungskultur",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3efa2246-35ca-46ed-9374-3161097bd1e1",
+    "en": [
+      {
+        "word": "research award winner",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungspreisträger",
+        "comment": ""
+      },
+      {
+        "word": "Forschungspreisträgerin",
+        "comment": ""
+      },
+      {
+        "word": "Forschungspreisträger*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7bcb9754-000f-4a05-bdce-d248e37222eb",
+    "en": [
+      {
+        "word": "research seminar",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsseminar",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "63ea7137-6609-41e5-a8f8-d8d52b457a0c",
+    "en": [
+      {
+        "word": "research service and consulting",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsservice und -beratung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "853d1d5c-b13c-4a34-91b5-18018df81d18",
+    "en": [
+      {
+        "word": "research collaboration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsverbund",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ec4f8f8d-8fc8-405e-88a2-e1e65f711cfb",
+    "en": [
+      {
+        "word": "research project",
+        "comment": ""
+      },
+      {
+        "word": "research proposal",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Forschungsvorhaben",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "32d8b24e-e4df-443a-9619-0bf7b4923729",
+    "en": [
+      {
+        "word": "deadline",
+        "comment": ""
+      },
+      {
+        "word": "due date",
+        "comment": ""
+      },
+      {
+        "word": "",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Frist",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5595f279-9077-404d-9726-c24ece7b1f4b",
+    "en": [
+      {
+        "word": "guest auditors",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gasthörerschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6816ef3a-0040-4446-8e2e-8c555f1be673",
+    "en": [
+      {
+        "word": "visiting professor",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gastprofessor",
+        "comment": ""
+      },
+      {
+        "word": "Gastprofessorin",
+        "comment": ""
+      },
+      {
+        "word": "Gastprofessor*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a1b3d940-fafb-4c24-960e-8ebcedf98367",
+    "en": [
+      {
+        "word": "according to",
+        "comment": ""
+      },
+      {
+        "word": "pursuant to",
+        "comment": ""
+      },
+      {
+        "word": "(as) set out in",
+        "comment": ""
+      },
+      {
+        "word": "(as) set forth in",
+        "comment": ""
+      },
+      {
+        "word": "(as) laid out in",
+        "comment": ""
+      },
+      {
+        "word": "(as) laid down in",
+        "comment": ""
+      },
+      {
+        "word": "(as) specified in",
+        "comment": ""
+      },
+      {
+        "word": "(as) defined in",
+        "comment": ""
+      },
+      {
+        "word": "(as) determined in",
+        "comment": ""
+      },
+      {
+        "word": "(as) stipulated in",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "gemäß",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "162ba4dd-37af-4a5b-a6cc-287afec6bb31",
+    "en": [
+      {
+        "word": "joint network \"Campus OWL\"",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "gemeinsamer Verein \"Campus OWL\"",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d350a2a1-b031-4714-bac9-2709f68c4689",
+    "en": [
+      {
+        "word": "gender",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gender",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ac97d358-cd40-4592-ba18-6dbfe0ba0ac6",
+    "en": [
+      {
+        "word": "German Literature",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Germanistische Literaturwissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "48ceaed7-e4ff-405d-a106-af9fd5c42f9c",
+    "en": [
+      {
+        "word": "German Linguistics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Germanistische Sprachwissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4e809681-3264-46c2-850f-84b6b6ac3db0",
+    "en": [
+      {
+        "word": "The Society of Didactics of Mathematics (GDM)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gesellschaft für Didaktik der Mathematik (GDM)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "eae9cd5b-7355-4d9d-ad1f-48c5df545e69",
+    "en": [
+      {
+        "word": "committee",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gremium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5ee880c2-e870-43fa-8a83-d1b5a5042f43",
+    "en": [
+      {
+        "word": "full cross-registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "große Zweithörerschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "19e8079d-609b-45bb-93df-769ae04839cf",
+    "en": [
+      {
+        "word": "start-ups and entrepreneurship",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gründung",
+        "comment": "i.S.v. Unternehmen"
+      }
+    ]
+  },
+  {
+    "id": "e68dfe93-57fb-4b85-a4eb-532eb890894f",
+    "en": [
+      {
+        "word": "founding chairperson",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Gründungsvorsitzender",
+        "comment": ""
+      },
+      {
+        "word": "Gründungsvorsitzende",
+        "comment": ""
+      },
+      {
+        "word": "Gründungsvorsitzende*r",
+        "comment": ""
+      },
+      {
+        "word": "Gründungsvorsitz",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3cb977c0-ff63-485b-9940-a0553b5e1545",
+    "en": [
+      {
+        "word": "good research practice",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "gute wissenschaftliche Praxis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "130df50b-2f88-46c4-ad58-2e57cc620a17",
+    "en": [
+      {
+        "word": "habilitation candidate",
+        "comment": ""
+      },
+      {
+        "word": "postdoctoral candidate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Habilitand",
+        "comment": ""
+      },
+      {
+        "word": "Habilitandin",
+        "comment": ""
+      },
+      {
+        "word": "Habilitand*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "594b4476-bef8-4a1b-92c7-07f81f82a3d2",
+    "en": [
+      {
+        "word": "habilitation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Habilitation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8251ddc7-4bb9-4cdf-aa92-84cc0a4b04ec",
+    "en": [
+      {
+        "word": "permanent (staff/employee)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "hauptamtlich(e) (Mitarbeitende)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ddef7892-19b4-4e47-ae5b-384abcadb41f",
+    "en": [
+      {
+        "word": "(Paderborn University) Copy and Print Service",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hausdruckerei",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "10bd8e71-9772-414a-9660-48f358ba84e0",
+    "en": [
+      {
+        "word": "budgetary matters",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Haushaltsfragen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8c143f7d-17c0-4983-a37a-cd7fa115eb43",
+    "en": [
+      {
+        "word": "corporate font",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hausschrift",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "31ac0c54-8afd-43db-b7c8-a0f1a59829ef",
+    "en": [
+      {
+        "word": "Home Economics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hauswirtschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "671cfb16-b590-4272-bc79-99e41bb31382",
+    "en": [
+      {
+        "word": "Heinz Nixdorf Institute (HNI)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Heinz Nixdorf Institut (HNI)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "310c5859-d9fc-4365-b85c-5753c6be23c4",
+    "en": [
+      {
+        "word": "High-Performance Computing (HPC)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "High Performance Computing (HPC)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "07bdc904-88f1-4676-b64a-1ad08e82d3d3",
+    "en": [
+      {
+        "word": "information on student financing measures",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hinweis zur Studienfinanzierung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c4af8c94-19f8-466c-8101-7dc154d4c6c2",
+    "en": [
+      {
+        "word": "COLOURS Alliance",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulallianz COLOURS",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "49b8b19a-a60e-4a5b-886e-8855771498ff",
+    "en": [
+      {
+        "word": "higher education act",
+        "comment": "Hochsschulgesetz, HG"
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulgesetz (HG)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8f5019db-d5d9-4ff0-b73f-157e51fde363",
+    "en": [
+      {
+        "word": "university collaboration",
+        "comment": ""
+      },
+      {
+        "word": "cooperation between higher education institutions",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulkooperation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "473fccec-cde3-4c04-bb21-d0ed070fefcd",
+    "en": [
+      {
+        "word": "junior professor and professors",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschullehrer",
+        "comment": ""
+      },
+      {
+        "word": "Hochschullehrerin",
+        "comment": ""
+      },
+      {
+        "word": "Hochschullehrer*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "091d57a5-dc0a-43d6-9333-4d3666eab91c",
+    "en": [
+      {
+        "word": "Executive Board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulleitung",
+        "comment": "i.S.v. Präsidium"
+      }
+    ]
+  },
+  {
+    "id": "40229f55-b7c3-4c71-9cec-02ece5cef1a1",
+    "en": [
+      {
+        "word": "German Rectors' Conference (HRK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulrektorenkonferenz (HRK)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "14e4e7f7-554d-49b6-8445-26c266fb639d",
+    "en": [
+      {
+        "word": "university semester",
+        "comment": ""
+      },
+      {
+        "word": "total number of semesters enrolled at university",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulsemester",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "23ad048e-a7dc-493d-91f1-9dff285663c0",
+    "en": [
+      {
+        "word": "University Sports",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulsport",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "af4a90d8-ff6e-4375-aac7-a64d931dd7f2",
+    "en": [
+      {
+        "word": "higher education system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulsystem",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "eac1c211-bd23-4373-bcb3-79ce2bf1b6b2",
+    "en": [
+      {
+        "word": "high level of research activity",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "hohe Forschungsaktivität",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a22889bb-6063-4cbb-af58-1896aef565c8",
+    "en": [
+      {
+        "word": "Humboldt Research Fellowship",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Humboldt-Forschungsstipendium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d2b774fd-0974-4452-bdf4-c6b391fcce3e",
+    "en": [
+      {
+        "word": "Humboldt Research Fellow",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Humboldt-Stipendiat",
+        "comment": ""
+      },
+      {
+        "word": "Humboldt-Stipendiatin",
+        "comment": ""
+      },
+      {
+        "word": "Humboldt-Stipendiat*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "cae5e2b3-a280-4f2f-8a81-bf6229db8246",
+    "en": [
+      {
+        "word": "identity management (IdM)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Identitätsmanagement (IdM)",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "5872afbf-7103-42d2-93bf-400a8a17cf35",
+    "en": [
+      {
+        "word": "on behalf of",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "im Auftrag (i.A.)",
+        "comment": "Kontext: interne Kommunikation, z.B. Rundmails; hier: ohne juristische Relevanz"
+      }
+    ]
+  },
+  {
+    "id": "e294fc08-1dab-4800-aa85-b82c24ea0d51",
+    "en": [
+      {
+        "word": "enrolment",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Immatrikulation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4954e6f8-a16e-4014-aca0-acdad1e760cf",
+    "en": [
+      {
+        "word": "certificate of enrolment",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Immatrikulationsbescheinigung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "275726c4-fa92-4ae5-9c8a-a47064879282",
+    "en": [
+      {
+        "word": "Chamber of Commerce and Industry (CCI oder IHK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Industrie- und Handelskammer (IHK)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "339a9104-45b0-4b8a-b290-396ad62fbb94",
+    "en": [
+      {
+        "word": "Computer Science",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Informatik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b96baaab-b196-4335-8bea-f1c094ede5ea",
+    "en": [
+      {
+        "word": "information and offers for employees",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Informationen und Angebote für Beschäftigte",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f0d26182-5e20-4138-a6c7-d08d2815305b",
+    "en": [
+      {
+        "word": "information notice",
+        "comment": ""
+      },
+      {
+        "word": "information letter",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Informationsschreiben",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "93ce57ea-6a6f-4676-8d76-063e6cf0445c",
+    "en": [
+      {
+        "word": "informed consent",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "informierte Einwilligung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7b623a9b-893c-49c1-a23c-db0d87cf14e8",
+    "en": [
+      {
+        "word": "inclusion",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Inklusion",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "711bf4da-ca00-4b4f-b20f-889827b9ff97",
+    "en": [
+      {
+        "word": "finance software (MACH)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Integrierte Verbundrechnung (MACH)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b0b8beb2-fba5-478c-9db9-373d6f89ad40",
+    "en": [
+      {
+        "word": "Intelligent technical systems",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Intelligente Technische Systeme",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "08c85cd8-ef75-4a64-9b1f-08aed4a72274",
+    "en": [
+      {
+        "word": "interdisciplinary",
+        "comment": ""
+      },
+      {
+        "word": "cross-disciplinary",
+        "comment": ""
+      },
+      {
+        "word": "multi-disciplinary",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "interdisziplinär",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "33c2b2c2-5fb4-409a-ab90-3e7fe69fc9f4",
+    "en": [
+      {
+        "word": "interdisciplinary research institute",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "interdisziplinäre Forschungseinrichtung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "92d45cc2-18e3-488c-86a4-c873ff625624",
+    "en": [
+      {
+        "word": "interdisciplinary research project",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "interdisziplinäres Forschungsprojekt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fd4180c9-7703-4d70-9309-f159b62629dc",
+    "en": [
+      {
+        "word": "internationality",
+        "comment": ""
+      },
+      {
+        "word": "international orientation/outlook",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Internationalität",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0bb8c466-c638-4438-9da8-d452aff10745",
+    "en": [
+      {
+        "word": "Jenny Aloni Centre for Early-Career Researchers",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Jenny Aloni Centre for Early-Career Researchers",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "42b53742-d19d-41b9-ab44-d6132e71775b",
+    "en": [
+      {
+        "word": "Jenny Aloni Archive",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Jenny-Aloni-Archiv",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2c7ccced-157d-4723-b97e-51b64e299b24",
+    "en": [
+      {
+        "word": "youth and trainee representatives (JAV)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Jugend- und Auszubildendenvertretung (JAV)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0c0bd0d8-6d5d-480b-afd3-a730899a4453",
+    "en": [
+      {
+        "word": "junior professor",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Juniorprofessor",
+        "comment": ""
+      },
+      {
+        "word": "Juniorprofessorin",
+        "comment": ""
+      },
+      {
+        "word": "Juniorprofessor*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6c2a8d59-17c6-421f-bc8d-6a7960c41da2",
+    "en": [
+      {
+        "word": "partial cross-registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "kleine Zweithörerschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a4ced421-3dd5-4289-b5a3-f9253d1497f9",
+    "en": [
+      {
+        "word": "Competence Centre for Sustainable Energy Technology (KET)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kompetenzzentrum für Nachhaltige Energietechnik (KET)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0bf51b39-e8cb-4289-b8b3-6d5020ca360f",
+    "en": [
+      {
+        "word": "Centre for Higher Mathematics Education (kdhm)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kompetenzzentrum Hochschuldidaktik Mathematik (kdhm)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "30732043-844f-496c-a629-71fa23c3b00f",
+    "en": [
+      {
+        "word": "(Paderborn University) Writing Centre",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kompetenzzentrum Schreiben",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "692d2b39-9a90-49ff-bdba-38fed4d42057",
+    "en": [
+      {
+        "word": "contact (us)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kontakt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6aaa99eb-1caf-491a-818c-b64a8f344745",
+    "en": [
+      {
+        "word": "account holder",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kontoinhaber",
+        "comment": ""
+      },
+      {
+        "word": "Kontoinhaberin",
+        "comment": ""
+      },
+      {
+        "word": "Kontoinhaber*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6d40848c-6449-4f7a-b53a-4ff5c1ad9288",
+    "en": [
+      {
+        "word": "coordinator",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Koordinator",
+        "comment": ""
+      },
+      {
+        "word": "Koordinatorin",
+        "comment": ""
+      },
+      {
+        "word": "Koordinator*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "793cbb38-837d-4a48-b979-a8e0a1cb4788",
+    "en": [
+      {
+        "word": "expenses and funding",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kosten und Finanzierung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6ac8e630-58c8-4d88-a5fd-b2cb7c1ad3d3",
+    "en": [
+      {
+        "word": "The Standing Conference of the Ministers of Education and Cultural Affairs (KMK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kultusministerkonferenz (KMK)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "53802ddf-bb24-4bf9-9ce6-d47215d28fd7",
+    "en": [
+      {
+        "word": "Kunststofftechnik Paderborn (KTP)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kunststofftechnik Paderborn (KTP)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9b030c52-5b5e-4513-a8a7-ad1196af62c3",
+    "en": [
+      {
+        "word": "course",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kurs",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9f5fada3-41d6-4873-bc57-7ef22c83896d",
+    "en": [
+      {
+        "word": "university profile",
+        "comment": ""
+      },
+      {
+        "word": "projects",
+        "comment": ""
+      },
+      {
+        "word": "subject areas",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Kurzporträt/Uni im Profil",
+        "comment": ""
+      },
+      {
+        "word": "Projekte",
+        "comment": ""
+      },
+      {
+        "word": "Fachgebiete",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "91d16123-363a-412f-8e04-00dedb179f85",
+    "en": [
+      {
+        "word": "laboratory engineer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Laboringenieur",
+        "comment": ""
+      },
+      {
+        "word": "Laboringenieurin",
+        "comment": ""
+      },
+      {
+        "word": "Laboringenieur*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "671c6212-3e1e-41dd-8588-6b3c2b366e01",
+    "en": [
+      {
+        "word": "State Rectors' Conference (LRK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Landesrektorenkonferenz (LRK)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9ba023a6-f683-4fe4-be5a-030cee461358",
+    "en": [
+      {
+        "word": "according to",
+        "comment": ""
+      },
+      {
+        "word": "pursuant to",
+        "comment": ""
+      },
+      {
+        "word": "(as) set out in",
+        "comment": ""
+      },
+      {
+        "word": "(as) set forth in",
+        "comment": ""
+      },
+      {
+        "word": "(as) laid out in",
+        "comment": ""
+      },
+      {
+        "word": "(as) laid down in",
+        "comment": ""
+      },
+      {
+        "word": "(as) specified in",
+        "comment": ""
+      },
+      {
+        "word": "(as) defined in",
+        "comment": ""
+      },
+      {
+        "word": "(as) determined in",
+        "comment": ""
+      },
+      {
+        "word": "(as) stipulated in",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "laut",
+        "comment": "i.S.v. gemäß"
+      }
+    ]
+  },
+  {
+    "id": "0b1d4812-cb94-4ed0-9f61-a6cbf6828e6a",
+    "en": [
+      {
+        "word": "teaching and learning opportunities",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehr- und Lernangebote",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8dbff503-77aa-4646-9674-5b726061b4b0",
+    "en": [
+      {
+        "word": "teaching profession",
+        "comment": ""
+      },
+      {
+        "word": "teacher education degree",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehramt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "45ac7835-29cc-4bac-abd2-276409b224cb",
+    "en": [
+      {
+        "word": "field of teacher education",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehramtsbereich",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a9c81c83-ed25-495a-a6f6-5223e36c2457",
+    "en": [
+      {
+        "word": "teacher education degree programme",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehramtsstudiengang",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c7dcef24-5f31-4ec1-a5db-e79389842c40",
+    "en": [
+      {
+        "word": "teaching degree",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehramtsstudium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5a93c86e-fbe2-4ae8-a1e2-91cfe0fd0cf3",
+    "en": [
+      {
+        "word": "teaching staff",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehrender",
+        "comment": ""
+      },
+      {
+        "word": "Lehrende",
+        "comment": ""
+      },
+      {
+        "word": "Lehrende*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c264bc5c-5fd5-4a81-9e3b-ba46514b6ff3",
+    "en": [
+      {
+        "word": "teacher training",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehrerbildung",
+        "comment": ""
+      },
+      {
+        "word": "Lehrerinnenbildung",
+        "comment": ""
+      },
+      {
+        "word": "Lehrer*innenbildung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ad6c7059-a9b2-4564-96b5-63573c559654",
+    "en": [
+      {
+        "word": "teacher",
+        "comment": ""
+      },
+      {
+        "word": "instructor",
+        "comment": ""
+      },
+      {
+        "word": "lecturer",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehrkraft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2759c2dc-b1ae-4b6b-961f-08c3b0888507",
+    "en": [
+      {
+        "word": "class",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Lehrveranstaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f834afff-8af9-47d0-86a3-1043303cb802",
+    "en": [
+      {
+        "word": "mission statement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Leitbild",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3091e587-57c6-4413-a484-3acc705708f0",
+    "en": [
+      {
+        "word": "head of (office)",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Leiter",
+        "comment": ""
+      },
+      {
+        "word": "Leiterin",
+        "comment": ""
+      },
+      {
+        "word": "Leiter*in",
+        "comment": ""
+      },
+      {
+        "word": "Leitung (einer Stabsstelle)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ac735b17-089e-400d-9577-320c329ea5cd",
+    "en": [
+      {
+        "word": "guiding principle",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Leitidee",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6a5c1923-a801-48b1-87c8-b327c2fc956b",
+    "en": [
+      {
+        "word": "management",
+        "comment": ""
+      },
+      {
+        "word": "head",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Leitung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1e859547-9faa-4ec6-871e-d42b81c1c95c",
+    "en": [
+      {
+        "word": "control room",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Leitwarte",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "30dcbb23-6f29-4ee3-94e7-5db4605802dc",
+    "en": [
+      {
+        "word": "Linguistics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Linguistik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "601b8532-0c30-44e3-b311-ad82b46b0964",
+    "en": [
+      {
+        "word": "lottery procedure",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Losverfahren",
+        "comment": "Kontext: zulassungsbeschränkte Studiengänge/Fächer"
+      }
+    ]
+  },
+  {
+    "id": "5674b7c5-5e97-44b1-b663-b5e6f0bce79d",
+    "en": [
+      {
+        "word": "Mechanical Engineering",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Maschinenbau",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "defc1c57-6ba1-48e6-9983-012191988675",
+    "en": [
+      {
+        "word": "(Faculty of) Mechanical Engineering",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Maschinenbau (Fakultät)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "901ed038-3c85-4649-8321-6e26586689ae",
+    "en": [
+      {
+        "word": "master's programme in Culture and Society",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Master Kultur und Gesellschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "72134432-35fa-4936-ba07-f403077c25d9",
+    "en": [
+      {
+        "word": "master's thesis",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Masterarbeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0e687cd4-4d1f-471b-a37c-c8f77bf0e863",
+    "en": [
+      {
+        "word": "Materials Science",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Materialwissenschaften",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1f32fb48-90f7-4964-95b7-d5c5bc094745",
+    "en": [
+      {
+        "word": "Mathematics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mathematik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "42fb94f7-fab3-403a-8072-1178f4083a66",
+    "en": [
+      {
+        "word": "Mathematics and its Didactics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mathematik und ihre Didaktik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "aee604db-d235-4446-8eac-edb4ede20f0f",
+    "en": [
+      {
+        "word": "student identification number",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Matrikelnummer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d93ae9ff-df70-4051-943e-6b177fd18e22",
+    "en": [
+      {
+        "word": "Media Studies",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Medienwissenschaften",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fbfdd43c-2023-4228-b926-23b49a75c5d0",
+    "en": [
+      {
+        "word": "accident and incident report notebook",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Meldeblock",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d34720ec-7c8f-446b-b151-a4ecf40b7a68",
+    "en": [
+      {
+        "word": "Mensa (cafeteria and dining hall)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mensa",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b1f0c58a-13aa-4fc2-adc3-5e5e4c87f830",
+    "en": [
+      {
+        "word": "Mensa Academica (cafeteria and dining hall)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mensa Academica",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ebc18b12-a80b-4afe-93df-205e34ad3918",
+    "en": [
+      {
+        "word": "Mensa Forum (cafeteria and dining hall)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mensa Forum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c2d6d527-4018-4f8e-8ca9-7048ed9b4a65",
+    "en": [
+      {
+        "word": "minimum required grade",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mindestnote",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "81423ece-f2d8-4f87-836f-f8ddc2d79caf",
+    "en": [
+      {
+        "word": "Ministry for Economic Affairs",
+        "comment": ""
+      },
+      {
+        "word": "Innovation",
+        "comment": ""
+      },
+      {
+        "word": "Digitalisation and Energy of the State of North Rhine-Westphalia",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ministerium für Wirtschaft",
+        "comment": ""
+      },
+      {
+        "word": "Innovation",
+        "comment": ""
+      },
+      {
+        "word": "Digitalisierung und Energie des Landes Nordrhein-Westfalen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0b767a5d-f85f-4e8a-b35c-4c8fbb5baa06",
+    "en": [
+      {
+        "word": "with restricted admission",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "mit Zulassungsbeschränkung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "358dded6-88e4-4307-8e24-c2a8c8bd6835",
+    "en": [
+      {
+        "word": "technical and administrative staff (MTV)",
+        "comment": ""
+      },
+      {
+        "word": "employee in technology and administration",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Mitarbeiter",
+        "comment": ""
+      },
+      {
+        "word": "Mitarbeiterin",
+        "comment": ""
+      },
+      {
+        "word": "Mitarbeiter*in in Technik und Verwaltung (MTV)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9675e12c-58e2-47c7-9648-8126ffd4e007",
+    "en": [
+      {
+        "word": "member",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mitglied",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "625fe460-0f3e-44d1-a587-a02bcda41753",
+    "en": [
+      {
+        "word": "mid-sized",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "mittelgroß",
+        "comment": "Kontext: Universitätsgröße"
+      }
+    ]
+  },
+  {
+    "id": "841bd10d-1989-4f07-9d0e-4c8c0520bfe5",
+    "en": [
+      {
+        "word": "mobility pattern",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mobilitätsmuster",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "38eccfa2-cb91-4b90-af35-ef0db81881a5",
+    "en": [
+      {
+        "word": "Fashion",
+        "comment": ""
+      },
+      {
+        "word": "Textiles and Design",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Mode-Textil-Design",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d36c9eef-00dc-422e-a06c-e07c87f517ab",
+    "en": [
+      {
+        "word": "oral examination",
+        "comment": ""
+      },
+      {
+        "word": "oral defense",
+        "comment": "Kontext: Verteidigung bei Abschlussprüfungen; "
+      }
+    ],
+    "de": [
+      {
+        "word": "mündliche Prüfung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "578c5361-23b1-4e27-a86a-826e56865e38",
+    "en": [
+      {
+        "word": "Music",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Musik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "48546d04-3107-4c46-b2b9-865303eb9a82",
+    "en": [
+      {
+        "word": "Musicology",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Musikwissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4e14fb49-4472-46ed-915d-bcec19169e0e",
+    "en": [
+      {
+        "word": "Musicology Seminar Detmold/Paderborn",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Musikwissenschaftliches Seminar Detmold/Paderborn",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "cb1a8f2e-56e6-4939-8083-39b5e4e70a4d",
+    "en": [
+      {
+        "word": "according to",
+        "comment": ""
+      },
+      {
+        "word": "pursuant to",
+        "comment": ""
+      },
+      {
+        "word": "(as) set out in",
+        "comment": ""
+      },
+      {
+        "word": "(as) set forth in",
+        "comment": ""
+      },
+      {
+        "word": "(as) laid out in",
+        "comment": ""
+      },
+      {
+        "word": "(as) laid down in",
+        "comment": ""
+      },
+      {
+        "word": "(as) specified in",
+        "comment": ""
+      },
+      {
+        "word": "(as) defined in",
+        "comment": ""
+      },
+      {
+        "word": "(as) determined in",
+        "comment": ""
+      },
+      {
+        "word": "(as) stipulated in",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "nach",
+        "comment": "i.S.v. gemäß"
+      }
+    ]
+  },
+  {
+    "id": "ae2e16c9-3cb0-4297-826c-774580fcfa6b",
+    "en": [
+      {
+        "word": "surname",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Nachname",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e8763930-8856-4abb-bc91-647b23991058",
+    "en": [
+      {
+        "word": "succession procedure",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Nachrückverfahren",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4964a4e7-0190-4aa0-8f07-2249ea722f2b",
+    "en": [
+      {
+        "word": "obituary",
+        "comment": "kurze, schriftliche Annonce"
+      },
+      {
+        "word": "eulogy",
+        "comment": "Rede, ausführlicher Nachruf"
+      }
+    ],
+    "de": [
+      {
+        "word": "Nachruf",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fdb2c3d2-5af4-4eda-bf75-88d58091333e",
+    "en": [
+      {
+        "word": "National Competence Centre for High Performance Computing",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Nationales Hochleistungsrechenzentrum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "128fe29a-3600-4d9f-88f7-f88b13db9040",
+    "en": [
+      {
+        "word": "National High Performance Computing (NHR)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Nationales Hochleistungsrechnen (NHR)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fa92d907-dab1-44c0-9b99-e9d54cf174b4",
+    "en": [
+      {
+        "word": "natural person",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "natürliche Person",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c8dd9115-a394-44c9-ade2-776b3cd4b899",
+    "en": [
+      {
+        "word": "Network for Interdisciplinary Research (NiFo)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Netzwerk interdisziplinäre Forschung (NiFo)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7428098c-9ceb-493e-b295-f66e1a760bf6",
+    "en": [
+      {
+        "word": "Modern Languages",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Neue Sprachen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0b812a0d-d771-4558-93fa-ba843f3c1bd9",
+    "en": [
+      {
+        "word": "NHR Centre",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "NHR-Zentrum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ee35fa94-c0e3-4b2f-a906-fb43e1902404",
+    "en": [
+      {
+        "word": "non-academic tariff staff",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "nichtwissenschaftliche Tarifbeschäftigte",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9af226bf-1b33-4e14-915b-0b8549fa71b8",
+    "en": [
+      {
+        "word": "number",
+        "comment": ""
+      },
+      {
+        "word": "no.",
+        "comment": ""
+      },
+      {
+        "word": "point",
+        "comment": "je nach Kontext (z.B. bei Bezugnahme auf einen nummerierten Abschnitt in einem Dokument)"
+      }
+    ],
+    "de": [
+      {
+        "word": "Nummer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a81e5248-697f-47fe-b8d0-55eff0662402",
+    "en": [
+      {
+        "word": "public service",
+        "comment": ""
+      },
+      {
+        "word": "civil service",
+        "comment": "synonymous"
+      }
+    ],
+    "de": [
+      {
+        "word": "öffentlicher Dienst",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ebb6eeac-41b4-4e77-b93f-1c6cba923c3a",
+    "en": [
+      {
+        "word": "ombudsperson",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Ombudsperson",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a6a26a0b-eb4b-4c1e-97ad-833760e2c68e",
+    "en": [
+      {
+        "word": "ombudsperson for safeguarding research practice",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Ombudsperson für die Wissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b37a5347-78a2-4c26-af12-b673f9e1bc7d",
+    "en": [
+      {
+        "word": "online voting system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Onlinewahlsystem",
+        "comment": ""
+      },
+      {
+        "word": "Online-Wahlsystem",
+        "comment": "Kontext: DFG"
+      }
+    ]
+  },
+  {
+    "id": "b88af5cc-f9f8-4b14-849e-1ce2bddb5c3b",
+    "en": [
+      {
+        "word": "Optoelectronics and Photonics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Optoelektronik und Photonik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e3b26bb2-839a-46d4-822c-df359f3afe92",
+    "en": [
+      {
+        "word": "organisation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Organisation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d3eecce9-43ad-443e-b603-d8aa009a92e2",
+    "en": [
+      {
+        "word": "educator",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Pädagoge",
+        "comment": ""
+      },
+      {
+        "word": "Pädagogin",
+        "comment": ""
+      },
+      {
+        "word": "Pädagog*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1d44db19-fcbb-473b-aa74-6c3fa546af0b",
+    "en": [
+      {
+        "word": "Paderborn Center for Advanced Studies (PACE)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Paderborn Center for Advanced Studies (PACE)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "488586e0-5273-4d7b-a78a-0c334cdf4b5a",
+    "en": [
+      {
+        "word": "Paderborn Center for Parallel Computing (PC²)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Paderborn Center for Parallel Computing (PC²)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ba7e56ea-b033-4acd-99c8-74b557ea6e99",
+    "en": [
+      {
+        "word": "Paderborn Institute for Data Science and Scientific Computing (DaSCO)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Paderborn Institute for Data Science and Scientific Computing (DaSCO)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "79fb8e53-7e7b-4f98-b84c-0b0fda441fea",
+    "en": [
+      {
+        "word": "Paderborn Institute for Additive Fabrication (PIAF)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Paderborner Institut für Additive Fertigung (PIAF)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "23ebb4d0-37c0-492c-9d25-87e6fc17fda3",
+    "en": [
+      {
+        "word": "Paderborner Wissenschaftskolleg",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Paderborner Wissenschaftskolleg",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "aa3ffda8-8c0a-40c6-8169-a88d2486c186",
+    "en": [
+      {
+        "word": "section",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Paragraph/§",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e3d05697-66f5-4765-988c-f125c208d774",
+    "en": [
+      {
+        "word": "partner university/institution",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Partnerhochschule",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "30e41be0-6321-43db-a84f-3135ab5bafc1",
+    "en": [
+      {
+        "word": "buddy",
+        "comment": ""
+      },
+      {
+        "word": "mentor",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Pate",
+        "comment": ""
+      },
+      {
+        "word": "Patin",
+        "comment": ""
+      },
+      {
+        "word": "Pat*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6fda5b43-84dc-45b5-9ae9-277effe6436f",
+    "en": [
+      {
+        "word": "patent",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Patent",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2b9988af-c42e-4edc-acbc-961700e9ffaf",
+    "en": [
+      {
+        "word": "patent marketing agency",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Patentverwertungsagentur",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8df21a10-1394-4247-a473-82114b12d960",
+    "en": [
+      {
+        "word": "staff",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Personal",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bac86334-32db-453b-8c0d-776f22eea2b9",
+    "en": [
+      {
+        "word": "staff development",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Personalentwicklung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "65b8ceee-551b-43e4-b6d3-7ed184a794de",
+    "en": [
+      {
+        "word": "Staff Council",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Personalrat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9c5714ac-b345-410d-9164-0de7a7fe22a8",
+    "en": [
+      {
+        "word": "personal data",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "personenbezogene Daten",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fb5c1f52-2fac-400a-9359-efa9dabbbd5e",
+    "en": [
+      {
+        "word": "personal info box",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Personenbox",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "141a94a4-c744-42ee-9286-d344db86790d",
+    "en": [
+      {
+        "word": "directory of all staff",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Personenverzeichnis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "50215e16-a85d-49bd-bc9a-4e6ffc57eacd",
+    "en": [
+      {
+        "word": "Philosophy",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Philosophie",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b9314724-75fb-4e84-b29f-27cd8dcdbebd",
+    "en": [
+      {
+        "word": "Physics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Physik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "573de434-4940-4436-a061-0e5a79355df6",
+    "en": [
+      {
+        "word": "Popular Music and Media",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Populäre Musik und Medien",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ddbfc2db-c91f-4eba-bd32-035162da4506",
+    "en": [
+      {
+        "word": "postdoc",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Postdoc",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3bc16051-7182-4cb7-85cc-fadd7bea3d01",
+    "en": [
+      {
+        "word": "internship",
+        "comment": ""
+      },
+      {
+        "word": "placement",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Praktikum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a283947a-40d2-4935-9224-1d0d541c8e84",
+    "en": [
+      {
+        "word": "president",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Präsident",
+        "comment": ""
+      },
+      {
+        "word": "Präsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Präsident*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2efd1d6b-9218-4f0d-a9e5-37165ee23a1d",
+    "en": [
+      {
+        "word": "(University) Executive Board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Präsidium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ed12fd06-5ae9-4f82-b543-58903691482a",
+    "en": [
+      {
+        "word": "cooperation partner",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Praxispartner",
+        "comment": ""
+      },
+      {
+        "word": "Praxispartnerin",
+        "comment": ""
+      },
+      {
+        "word": "Praxispartner*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b0601ed1-336e-40a5-98dd-294b8780f7b7",
+    "en": [
+      {
+        "word": "school internship semester",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Praxissemester",
+        "comment": "Kontext: Lehramt"
+      }
+    ]
+  },
+  {
+    "id": "1c753549-7045-48e7-8109-df4f8ba32aed",
+    "en": [
+      {
+        "word": "laureate",
+        "comment": ""
+      },
+      {
+        "word": "prize/award winner",
+        "comment": ""
+      },
+      {
+        "word": "honouree",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Preisträger",
+        "comment": ""
+      },
+      {
+        "word": "Preisträgerin",
+        "comment": ""
+      },
+      {
+        "word": "Preisträger*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0e098291-0b5f-4efc-b503-69fceb5f4127",
+    "en": [
+      {
+        "word": "press",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Presse",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "68067425-9058-47a7-8080-bbe32ea516fa",
+    "en": [
+      {
+        "word": "press release",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Presseinformation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2453c3cf-bb79-436c-903a-f196d726d680",
+    "en": [
+      {
+        "word": "trial study programme",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Probestudium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0cdbfe26-a1bf-4af0-8790-b4d1e60762e4",
+    "en": [
+      {
+        "word": "professor",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Professor",
+        "comment": ""
+      },
+      {
+        "word": "Professorin",
+        "comment": ""
+      },
+      {
+        "word": "Professor*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "199d8184-5f7e-4ac6-bc04-0bf3928ca667",
+    "en": [
+      {
+        "word": "profile manager",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Profil-/Personenmanager",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fcaa9ae1-e155-415d-9b92-c695bb71be8a",
+    "en": [
+      {
+        "word": "key research area",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Profilbereich",
+        "comment": "Kontext: institutionelle Forschungsschwerpunkte"
+      }
+    ]
+  },
+  {
+    "id": "be5785d8-5a5e-494b-8491-cbbde2c3c34c",
+    "en": [
+      {
+        "word": "profile page",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Profilseite",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c1145073-582b-4429-8745-e6b8c4300689",
+    "en": [
+      {
+        "word": "project proposal",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Projektantrag",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "be21d956-1ec2-4632-a007-f8b3bce8fb6b",
+    "en": [
+      {
+        "word": "project partner",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Projektpartner",
+        "comment": ""
+      },
+      {
+        "word": "Projektpartnerin",
+        "comment": ""
+      },
+      {
+        "word": "Projektpartner*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "079c995a-8a9a-4637-9c57-28c54683efe3",
+    "en": [
+      {
+        "word": "project outline",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Projektskizze",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c363779f-a6bd-4a71-b26c-0f7a0fc36312",
+    "en": [
+      {
+        "word": "doctoral degree",
+        "comment": "bevorzugt"
+      },
+      {
+        "word": "doctorate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotion",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "83030771-4407-436f-83d5-9d9ebac5cf28",
+    "en": [
+      {
+        "word": "application for a doctoral degree",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsantrag",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "65f56e81-4880-4cb9-8a72-e43573e96ad5",
+    "en": [
+      {
+        "word": "Doctoral Examinations Board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsausschuss",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b8e2e7e8-0dae-497c-bc78-cc07064e9f26",
+    "en": [
+      {
+        "word": "doctoral funding and support",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsförderung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7f21d3ed-bf33-4b48-b8eb-ffee89f0ceb0",
+    "en": [
+      {
+        "word": "prospective doctoral candidate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsinteressierter",
+        "comment": ""
+      },
+      {
+        "word": "Promotionsinteressierte",
+        "comment": ""
+      },
+      {
+        "word": "Promotionsinteressierte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6cb4a39a-d9c3-4672-9e7d-436431a5cc26",
+    "en": [
+      {
+        "word": "doctoral committee",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionskommission",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ec6b477b-5c35-4f9b-8bb6-3982954921c9",
+    "en": [
+      {
+        "word": "doctoral degree requirement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsleistung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "171c1cc4-c2c1-44d5-8d05-a82c1659cde3",
+    "en": [
+      {
+        "word": "doctoral degree regulations",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsordnung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "10cfd755-1cab-401f-8d8d-acecfa02f3a0",
+    "en": [
+      {
+        "word": "doctoral examination procedure",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsverfahren",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "176ae88f-33a3-4068-9a73-7e8f6d3e8a70",
+    "en": [
+      {
+        "word": "prerequisites for doctoral studies",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promotionsvoraussetzungen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "59ccd7d9-983b-451a-990c-c639f7b46ed4",
+    "en": [
+      {
+        "word": "doctoral workshop",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Promovierenden-Workshop",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "21467fa9-25c1-46e2-9ea4-1356e636a6ae",
+    "en": [
+      {
+        "word": "examination",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4ecc3cc2-2605-450d-9e6f-a35855b1fa0a",
+    "en": [
+      {
+        "word": "examination registration period",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsanmeldephase",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a24b8f95-5836-4f65-b990-01e56a925937",
+    "en": [
+      {
+        "word": "Examinations Board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsausschuss",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "139099c5-e664-419e-99ab-030bd54c1421",
+    "en": [
+      {
+        "word": "Chair of the Examinations Board",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungsausschussvorsitzender",
+        "comment": ""
+      },
+      {
+        "word": "Prüfungsausschussvorsitzende",
+        "comment": ""
+      },
+      {
+        "word": "Prüfungsausschussvorsitz",
+        "comment": "Kontext: Promotion"
+      },
+      {
+        "word": "Prüfungsausschussvorsitzende*r",
+        "comment": "Kontext: Promotion"
+      }
+    ]
+  },
+  {
+    "id": "a5299e0d-f290-4d80-b817-aed07eb5c185",
+    "en": [
+      {
+        "word": "Examinations Colloquium",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungskolloquium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3b22946d-b2a1-4dbf-b9ea-0aefc7c71a6e",
+    "en": [
+      {
+        "word": "examination period",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Prüfungszeitraum",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "40816408-605e-4538-8349-7e8f73d5fba7",
+    "en": [
+      {
+        "word": "publication",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Publikation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "87ec71ab-dbfd-4ccb-9cef-39043214e800",
+    "en": [
+      {
+        "word": "publication service",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Publikationsservice",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fcb94e5d-f5ec-41e8-a4fb-5ed4fb82c616",
+    "en": [
+      {
+        "word": "quantum research",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Quantenforschung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5f42388f-719f-4808-a277-cab616d61284",
+    "en": [
+      {
+        "word": "general regulations",
+        "comment": ""
+      },
+      {
+        "word": "regulatory framework",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Rahmenordnung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "68f0c728-209c-449f-9252-5e45f999436e",
+    "en": [
+      {
+        "word": "legal basis",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Rechtsgrundlage",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d221c79c-8073-4b30-97d1-e3f3c4503ce6",
+    "en": [
+      {
+        "word": "standard period of study",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Regelstudienzeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fdcb4d3a-b157-46bb-8300-5d95c599b823",
+    "en": [
+      {
+        "word": "Travel Expenses Office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Reisekostenstelle",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f34f92b4-492b-40d1-98ed-2d0ed97ae0c1",
+    "en": [
+      {
+        "word": "recruiting",
+        "comment": "context: refers to the recruitment process in research studies"
+      },
+      {
+        "word": "recruitment",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Rekrutierung",
+        "comment": "Kontext: Proband*innen für Studien"
+      }
+    ]
+  },
+  {
+    "id": "d9abb1c4-49c1-4274-9611-e9b7082f3741",
+    "en": [
+      {
+        "word": "pension statement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Rentenbescheinigung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ae8e4b4e-5ca4-49bc-b74a-38f1e1f5ac9c",
+    "en": [
+      {
+        "word": "re-registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Rückmeldung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f4acacf4-49ef-418c-8757-6bc11aceb459",
+    "en": [
+      {
+        "word": "withdrawal",
+        "comment": "Kontext: from examinations"
+      }
+    ],
+    "de": [
+      {
+        "word": "Rücktritt",
+        "comment": "Kontext: Prüfungen"
+      }
+    ]
+  },
+  {
+    "id": "19eb4bc1-c9a3-498a-ba67-6588d61984fa",
+    "en": [
+      {
+        "word": "Science",
+        "comment": ""
+      },
+      {
+        "word": "Social and Technology Education at the Primary Level",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sachunterrichtsdidaktik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9f6916cc-77e7-41e9-a71b-c11c1403885a",
+    "en": [
+      {
+        "word": "Science",
+        "comment": ""
+      },
+      {
+        "word": "Social and Technology Education at the Primary Level",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sachunterrichtsdidaktik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5cc2d20a-b10e-4048-a4d2-3cf7e1c398a6",
+    "en": [
+      {
+        "word": "sentence",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Satz",
+        "comment": "Kontext: Gesetze, Ordnungen, Satzungen"
+      }
+    ]
+  },
+  {
+    "id": "7451d84c-48ae-41a6-b558-20d16d15f674",
+    "en": [
+      {
+        "word": "school-leaving certificate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Schulabschluss (-zeugnis)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8c5db665-65dd-48a4-94a6-eca1c805a189",
+    "en": [
+      {
+        "word": "secretary",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sekretär",
+        "comment": ""
+      },
+      {
+        "word": "Sekretärin",
+        "comment": ""
+      },
+      {
+        "word": "Sekretär*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ab73ce34-1e7d-46d3-91fc-7c5b28557f43",
+    "en": [
+      {
+        "word": "Secretary's Office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sekretariat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9b002d7f-bb8c-45b7-8c6d-09ac6e9de89c",
+    "en": [
+      {
+        "word": "obligation to teach",
+        "comment": "refers to (junior) research group leaders, postdocs/holders of the venia legendi"
+      }
+    ],
+    "de": [
+      {
+        "word": "selbstständige Lehrtätigkeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c5a69f2d-ca07-4ac2-ae91-b415d1710b00",
+    "en": [
+      {
+        "word": "self-governance",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Selbstverwaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d6af99c2-46e3-40de-8c64-4d65640af092",
+    "en": [
+      {
+        "word": "self-governing research system",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Selbstverwaltung der Wissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "90f9b072-48d0-4e65-85bf-02ef3db0d561",
+    "en": [
+      {
+        "word": "semester fee",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Semesterbeitrag",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "53f8bde2-e015-4324-b3cb-b1eae24bf186",
+    "en": [
+      {
+        "word": "semester dates",
+        "comment": "Semestertermine"
+      },
+      {
+        "word": "semester duration",
+        "comment": "Semesterdauer"
+      }
+    ],
+    "de": [
+      {
+        "word": "Semesterdauer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "866c8a95-95b7-48df-b4d7-60cf0c1b4d76",
+    "en": [
+      {
+        "word": "semester ticket (student public transport ticket)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Semesterticket",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a7b718e9-9a80-40a1-8a8e-7240b05d15e4",
+    "en": [
+      {
+        "word": "seminar",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Seminar",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "32ad3389-dc55-44cd-b47b-efdece4bde8e",
+    "en": [
+      {
+        "word": "Senate",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Senat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "418b8d79-e42d-443c-a54f-44a85a7baced",
+    "en": [
+      {
+        "word": "Service Centre",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Service Center",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1cfd71cc-ba66-493c-bf4e-d57c25de6b65",
+    "en": [
+      {
+        "word": "service and counselling",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Service und Beratung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "40df60ca-746a-4ff0-91ed-f94612fc6e49",
+    "en": [
+      {
+        "word": "meeting (of the doctoral examinations board)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sitzung (des Promotionsausschusses)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "84617305-6feb-41ee-8f4a-5744a98973f8",
+    "en": [
+      {
+        "word": "Software Innovation Campus Paderborn (SICP)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Software Innovation Campus Paderborn (SCIP)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c0ba2e73-3447-4f6c-8fd5-4a554c189bcf",
+    "en": [
+      {
+        "word": "Software Innovation Lab (SI-Lab)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Software Innovation Lab (SI-Lab)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "04f82a26-c6de-42c5-8351-86a0c2c6f4a4",
+    "en": [
+      {
+        "word": "summer semester",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sommersemester",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "52571a9d-cde2-4270-b7fe-13c47619bfcc",
+    "en": [
+      {
+        "word": "Collaborative Research Centre (CRC)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sonderforschungsbereich (SFB)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "274a7cc6-2e14-42f6-8477-d3ae058a8b3d",
+    "en": [
+      {
+        "word": "(German) Social Code Book V",
+        "comment": "Sozialgesetzbuch V, SGB V"
+      }
+    ],
+    "de": [
+      {
+        "word": "Sozialgesetzbuch Fünftes Buch (SGB V)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "57706316-5cb1-47f9-b160-25b76c8bff87",
+    "en": [
+      {
+        "word": "cutting-edge/top-level research",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Spitzenforschung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6efb0bfd-6602-4793-aef4-fb1103401201",
+    "en": [
+      {
+        "word": "Exercise and Health",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sport und Gesundheit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5358c937-d11a-4722-bd5c-1bd4270b48f2",
+    "en": [
+      {
+        "word": "Sports Economics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sportökonomie",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ee17cdfd-0ed3-44e5-90dc-db3f9beaedc1",
+    "en": [
+      {
+        "word": "spokesperson",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sprecher",
+        "comment": ""
+      },
+      {
+        "word": "Sprecherin",
+        "comment": ""
+      },
+      {
+        "word": "Sprecher*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "54a0b18e-9f95-4307-8d72-df5e24b20914",
+    "en": [
+      {
+        "word": "office hours",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Sprechzeiten",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8d396932-a7df-4f68-b264-598dc73a5de2",
+    "en": [
+      {
+        "word": "office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stabsstelle",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d946adf4-6ef9-4f67-a6c9-8f77987dad10",
+    "en": [
+      {
+        "word": "Press",
+        "comment": ""
+      },
+      {
+        "word": "Communications and Marketing Office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stabsstelle Presse",
+        "comment": ""
+      },
+      {
+        "word": "Kommunikation und Marketing",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0574af14-e3b0-45b9-a7c4-51f03f3b0302",
+    "en": [
+      {
+        "word": "Master Data Management (MDM)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stammdatenmanagement (MDM)",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "54f90bb3-f62a-4f5d-a0ab-e290e592f1a2",
+    "en": [
+      {
+        "word": "standard application",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Standardantrag",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f6317096-3cdb-4623-bbe5-f07388af7919",
+    "en": [
+      {
+        "word": "standard data protection clauses",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Standarddatenschutzklauseln",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "34d98aaf-fea0-4bd7-a72d-e822f2f17695",
+    "en": [
+      {
+        "word": "standard questionnaire",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Standard-Fragebogen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c6812576-b3cd-4f5b-85ec-8c9ab583193f",
+    "en": [
+      {
+        "word": "Start-up Campus OWL",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Start-up Campus OWL",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a2118921-8d36-4514-b0b4-67a2d1d54114",
+    "en": [
+      {
+        "word": "change of status from cross-registered student to regular student",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Statuswechsel von Zweithörer zum Ersthörer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f363bd79-a224-40fe-b494-9e6c1bc967be",
+    "en": [
+      {
+        "word": "job offer",
+        "comment": ""
+      },
+      {
+        "word": "job vacancy",
+        "comment": "i.S.v. freie Stelle"
+      }
+    ],
+    "de": [
+      {
+        "word": "Stellenangebot",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "403180c4-bd6d-4959-8219-aa0091360264",
+    "en": [
+      {
+        "word": "job advertisement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stellenausschreibung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0dd23921-e396-49be-8d54-fb21f4d15d8c",
+    "en": [
+      {
+        "word": "deputy chairperson [groß",
+        "comment": ""
+      },
+      {
+        "word": "wenn als Titel einer Person verwendet]",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "stellv. Vorsitzender",
+        "comment": ""
+      },
+      {
+        "word": "stellv. Vorsitzende",
+        "comment": ""
+      },
+      {
+        "word": "stellv. Vorsitz",
+        "comment": ""
+      },
+      {
+        "word": "stellv. Vorsitzende*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5f29e2cb-4018-4f69-b9ab-0785ec2f3f57",
+    "en": [
+      {
+        "word": "tax matters",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Steuerangelegenheiten",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ab0f304c-a199-4f4f-9b28-f7311dc5b930",
+    "en": [
+      {
+        "word": "endowed professorship",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stiftungsprofessur",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d2bc81bd-0e6e-4216-a832-c757bb8a675a",
+    "en": [
+      {
+        "word": "scholarship",
+        "comment": ""
+      },
+      {
+        "word": "grant",
+        "comment": ""
+      },
+      {
+        "word": "fellowship",
+        "comment": ""
+      },
+      {
+        "word": "bursary",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Stipendium",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1f39cc3b-e43d-4a6c-981c-c98d0492f718",
+    "en": [
+      {
+        "word": "structural issue",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Strukturfrage",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4425d5a3-946b-464f-9220-83f87ba84a2f",
+    "en": [
+      {
+        "word": "student assistant",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "studentische Hilfskraft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "36f9f8f8-c432-4fa1-a73f-a7a98f00a9eb",
+    "en": [
+      {
+        "word": "student media initiative",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "studentische Medieninitiative",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "08b4fcc0-db73-4ab5-9357-51525703393f",
+    "en": [
+      {
+        "word": "student self-administration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "studentische Selbstverwaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "118e9e28-f9c2-408a-858d-a45d3b84f814",
+    "en": [
+      {
+        "word": "courses on offer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienangebot",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1334af90-0ab9-4308-8b23-490ab41fa4a4",
+    "en": [
+      {
+        "word": "German courses",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienbegleitende Deutschkurse",
+        "comment": "Kontext: ZfS"
+      }
+    ]
+  },
+  {
+    "id": "d83d5bb1-8f82-42eb-8935-c7c60902df66",
+    "en": [
+      {
+        "word": "Academic Advisory Office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienbüro",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "85835273-7bf6-4fff-ab9b-a24a00b70920",
+    "en": [
+      {
+        "word": "dean of studies",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Studiendekan",
+        "comment": ""
+      },
+      {
+        "word": "Studiendekanin",
+        "comment": ""
+      },
+      {
+        "word": "Studiendekan*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2115054c-363d-4428-aaf3-9c0669a6dcf0",
+    "en": [
+      {
+        "word": "study design",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studiendesign",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "36ff5a5f-a918-427f-8d9c-62eee6b94e3c",
+    "en": [
+      {
+        "word": "study programme",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studiengang",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5c1dc783-8e96-4b72-8e2e-4d03fbcfbe26",
+    "en": [
+      {
+        "word": "study programme/subject (in combination)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studiengang/Fach (in Kombination)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b972bff8-c34b-4bb2-8754-bcac738db6d9",
+    "en": [
+      {
+        "word": "prospective student",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studieninteressierter",
+        "comment": ""
+      },
+      {
+        "word": "Studieninteressierte",
+        "comment": ""
+      },
+      {
+        "word": "Studieninteressierte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4c37cf37-8231-41d9-beb6-d17bdbd3b9a7",
+    "en": [
+      {
+        "word": "academic work and achievements",
+        "comment": ""
+      },
+      {
+        "word": "coursework",
+        "comment": ""
+      },
+      {
+        "word": "",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienleistung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b5435d3f-46b3-438e-b704-0f117d5d1e76",
+    "en": [
+      {
+        "word": "study population",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienpopulation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6dd01918-7849-4811-a9d3-30aa916e6009",
+    "en": [
+      {
+        "word": "DSH preparation courses",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studienvorbereitende Deutschkurse (DSH)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "37c47f1a-6276-4878-9dc6-2a1c96e2da49",
+    "en": [
+      {
+        "word": "studying as a school student",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studieren vor dem Abi",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6211bd6d-826e-40e6-8a38-d77d5515751c",
+    "en": [
+      {
+        "word": "student exchange",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studierendenaustausch",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b483c592-816f-470a-b489-f52586b9c233",
+    "en": [
+      {
+        "word": "student ID card",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studierendenausweis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1e58bfa9-f1d1-4dbe-8073-552712189390",
+    "en": [
+      {
+        "word": "Studierendenwerk (student services association)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studierendenwerk",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "30657091-1d50-4646-b70c-ffd265818f98",
+    "en": [
+      {
+        "word": "(Paderborn University) Studio Theatre",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Studiobühne",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5bd19821-4a63-4857-822f-b6310fc63d1a",
+    "en": [
+      {
+        "word": "timetable",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Stundenplan",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "de6cefba-6782-47ee-baf8-54d6ab435e22",
+    "en": [
+      {
+        "word": "PANDA system (Learning Management System (LMS))",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "System PANDA",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d7c88097-fbca-49cf-8ad7-ff3667fb4349",
+    "en": [
+      {
+        "word": "team leader",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Teamleiter",
+        "comment": ""
+      },
+      {
+        "word": "Teamleiterin",
+        "comment": ""
+      },
+      {
+        "word": "Teamleiter*in",
+        "comment": ""
+      },
+      {
+        "word": "Teamleitung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "60b6314f-49bf-4142-b3d5-cfd1f3e600b1",
+    "en": [
+      {
+        "word": "technical employee/staff (member)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "technischer Mitarbeiter",
+        "comment": ""
+      },
+      {
+        "word": "technische Mitarbeiterin",
+        "comment": ""
+      },
+      {
+        "word": "technische*r Mitarbeiter*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4e06c328-9e16-493c-9f98-495a80a47832",
+    "en": [
+      {
+        "word": "Technologiepark",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Technologiepark",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fd3536f3-7aec-47f2-8e27-ce14284ebe97",
+    "en": [
+      {
+        "word": "consent form for participation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Teilnehmendenerklärung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "720ff539-89a1-4614-9942-7354f9c7693c",
+    "en": [
+      {
+        "word": "telephone directory",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Telefonverzeichnis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "81c2819a-24ce-43d2-b975-addb610688c4",
+    "en": [
+      {
+        "word": "academic calendar",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Termine für das Semester",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ca6ed6dd-d2b0-4ec8-a348-83009e1cfbf3",
+    "en": [
+      {
+        "word": "(important) dates and registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Termine und Anmeldung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "97506085-d7ca-4ff3-b604-bea8cdf4ff1e",
+    "en": [
+      {
+        "word": "(important) dates and deadlines",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Termine und Fristen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e98424c0-cb84-46d5-9709-09753efd5866",
+    "en": [
+      {
+        "word": "Theology",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Theologie",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b9785288-98f0-4c16-8829-e8fafb7728e7",
+    "en": [
+      {
+        "word": "transfer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Transfer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c702c22f-70a7-4a56-97eb-ec4d62b7ea84",
+    "en": [
+      {
+        "word": "transfer network",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Transfernetzwerk",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "86b877d3-8041-46cd-84c7-51c5a12e231d",
+    "en": [
+      {
+        "word": "transformation and education",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Transformation und Bildung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4de2fb87-79ed-402f-b3aa-334026d3164a",
+    "en": [
+      {
+        "word": "Transregional Collaborative Research Centre (Transregio)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "transregionaler Sonderforschungsbereich (Transregio)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0e09a1c6-d46b-48d8-8dc5-db3bbbe7585f",
+    "en": [
+      {
+        "word": "Certificate of Non-Objection (Unbedenklichkeitsbescheinigung)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Unbedenklichkeitsbescheinigung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "67a69e52-1fb7-4ece-9434-06631a1257e8",
+    "en": [
+      {
+        "word": "accident report",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Unfallanzeige",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e0903942-c9ba-4ef4-999c-8bc032e181f0",
+    "en": [
+      {
+        "word": "university",
+        "comment": "groß ('University'), wenn UPB gemeint ist"
+      }
+    ],
+    "de": [
+      {
+        "word": "Universität",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c29c5a0d-2957-415a-8a2f-1c493d65a905",
+    "en": [
+      {
+        "word": "Paderborn University as an employer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universität als Arbeitgeberin",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d8808b97-542c-4920-a232-97bef7bf7b7c",
+    "en": [
+      {
+        "word": "University of Castilla-La Mancha (UCLM)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universität Kastilien-La Mancha",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a89fea4f-e370-46c6-b497-66662b896fca",
+    "en": [
+      {
+        "word": "Le Mans University",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universität Le Mans",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "083c3e71-f810-4d0b-ab31-298501354346",
+    "en": [
+      {
+        "word": "Paderborn University",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universität Paderborn",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "455e39ac-fa56-4e6b-b1d7-246583a51154",
+    "en": [
+      {
+        "word": "German University Alliance (UA) 11+",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universitätsallianz (UA) 11+",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2589d892-f978-4d33-aba3-ab9e8e222c42",
+    "en": [
+      {
+        "word": "University member",
+        "comment": ""
+      },
+      {
+        "word": "member of the University",
+        "comment": "als Ansprache zu nutzen, z.B. in Rundmails"
+      }
+    ],
+    "de": [
+      {
+        "word": "Universitätsangehöriger",
+        "comment": ""
+      },
+      {
+        "word": "Universitätsangehörige",
+        "comment": ""
+      },
+      {
+        "word": "Universitätsangehörige*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5946fe8d-b6da-4c30-b351-8d6e73b193e7",
+    "en": [
+      {
+        "word": "(Paderborn) University Library",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universitätsbibliothek (UB)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "092e4145-269a-4d56-a20c-354962076b59",
+    "en": [
+      {
+        "word": "University Society",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universitätsgesellschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fc126f9b-8216-490e-a146-2e13ad494558",
+    "en": [
+      {
+        "word": "University member",
+        "comment": ""
+      },
+      {
+        "word": "member of the University [als Ansprache zu nutzen",
+        "comment": ""
+      },
+      {
+        "word": "z.B. in Rundmails]",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Universitätsmitglied",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "212384d7-86d5-40b2-8aab-2183598778c1",
+    "en": [
+      {
+        "word": "(University) event; course",
+        "comment": "semesterübergreifende Lehrveranstaltung"
+      },
+      {
+        "word": "class",
+        "comment": "einzelne Lehrveranstaltung"
+      }
+    ],
+    "de": [
+      {
+        "word": "Veranstaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7145793d-4fcf-45c4-970b-f82848f0597e",
+    "en": [
+      {
+        "word": "controller",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verantwortlicher",
+        "comment": ""
+      },
+      {
+        "word": "Verantwortliche",
+        "comment": ""
+      },
+      {
+        "word": "Verantwortliche*r",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "9c608d2d-eae3-4fec-9e72-83987a184cb0",
+    "en": [
+      {
+        "word": "Association for Electrical",
+        "comment": ""
+      },
+      {
+        "word": "Electronic & Information Technologies (VDE)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verband der Elektrotechnik Informationstechnik (VDE)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d53ac678-f401-486f-88c7-862005f15b5d",
+    "en": [
+      {
+        "word": "New York liaison office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verbindungsbüro in New York",
+        "comment": "Kontext: Campus OWL"
+      }
+    ]
+  },
+  {
+    "id": "d29fd298-e3e1-40c2-8710-7e0e506cdbc2",
+    "en": [
+      {
+        "word": "collaborative project",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verbundprojekt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ce802aab-6757-44db-9e9b-0bea385a4918",
+    "en": [
+      {
+        "word": "association for the promotion of mathematics and science education (MNU)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verein zur Förderung des mathematisch-naturwissenschaftlichen Unterrichts (MNU)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "35a9791b-c946-40dd-80ea-200c291a3da9",
+    "en": [
+      {
+        "word": "Code of Conduct for the Recruitment of Researchers",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verhaltenskodex für die Einstellung von Forschende",
+        "comment": "Kontext: Euraxess"
+      }
+    ]
+  },
+  {
+    "id": "b437eec5-99d8-44ab-8ca8-250316e0f6e8",
+    "en": [
+      {
+        "word": "connection and networking with business and industry",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vernetzung mit der Wirtschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "53bcd6c1-29c3-441d-8801-51806b489f8a",
+    "en": [
+      {
+        "word": "confidentiality",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vertraulichkeit",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "11ff23c1-bf8f-4271-8430-b8cfa184cece",
+    "en": [
+      {
+        "word": "representative (on the Faculty Board)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vertreter",
+        "comment": ""
+      },
+      {
+        "word": "Vertreterin",
+        "comment": ""
+      },
+      {
+        "word": "Vertreter*in",
+        "comment": ""
+      },
+      {
+        "word": "Vertretung (im Fakultätsrat)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1a44b664-8a48-4621-ac14-ba4e63cb6c59",
+    "en": [
+      {
+        "word": "representative",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vertretung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c28e3dbf-80e4-48be-b10c-bc043fc4d38a",
+    "en": [
+      {
+        "word": "interim professor",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vertretungsprofessor",
+        "comment": ""
+      },
+      {
+        "word": "Vertretungsprofessorin",
+        "comment": ""
+      },
+      {
+        "word": "Vertretungsprofessor*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c0b286e5-f055-4eb8-9441-7e74117495c7",
+    "en": [
+      {
+        "word": "administration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verwaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0db72d1b-8eac-4ecd-84bb-4e7007d47dec",
+    "en": [
+      {
+        "word": "records of processing activities (RoPA)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Verzeichnis von Verarbeitungstätigkeiten (VVT)",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "deeea079-6a6c-4eeb-b186-c0ba6648a854",
+    "en": [
+      {
+        "word": "vice-president",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Vizepräsident",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsident*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ec64ed52-2a4a-4c3a-b5a4-2eddc4fb1a1f",
+    "en": [
+      {
+        "word": "Vice-President for International Relations",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vizepräsident",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsident*in für Internationale Beziehungen",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "40af6b04-4ea1-4465-a534-8d1ea00dc9cf",
+    "en": [
+      {
+        "word": "Vice-President for Finances and Human Resources",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vizepräsident",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsidentin",
+        "comment": ""
+      },
+      {
+        "word": "Vizepräsident*in für Wirtschafts- und Personalverwaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "943425d2-ff78-4d15-ba0e-2ca6fa9c3fcd",
+    "en": [
+      {
+        "word": "preparatory course",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorbereitungskurs",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f7b19c82-4359-4919-b152-4e1bc3f256ab",
+    "en": [
+      {
+        "word": "lecture",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorlesung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b27cfabc-db02-49fd-99a0-bc48e9d8cf31",
+    "en": [
+      {
+        "word": "course catalogue",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorlesungsverzeichnis",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8f5235ca-a907-47fb-b634-4ad0d1556964",
+    "en": [
+      {
+        "word": "first name",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorname",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d56fc92c-9c29-4f6b-9a0c-cf3dbbe5281f",
+    "en": [
+      {
+        "word": "chairperson/head of",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorsitzender",
+        "comment": ""
+      },
+      {
+        "word": "Vorsitzende",
+        "comment": ""
+      },
+      {
+        "word": "Vorsitz",
+        "comment": ""
+      },
+      {
+        "word": "Vorsitzende*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5067b808-a8dd-45c8-8295-0b11b086bdba",
+    "en": [
+      {
+        "word": "Board (of directors/executive board)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorstand",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9bd8e035-3263-46c8-ac5b-35b2eb394a91",
+    "en": [
+      {
+        "word": "Office (of xyz)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorzimmer (von XY)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "92043916-de1c-46d8-9f8b-f69843198fe4",
+    "en": [
+      {
+        "word": "election",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wahl",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "9b69461e-7d5c-434f-a648-44941d1ac689",
+    "en": [
+      {
+        "word": "Electoral Office",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wahlamt",
+        "comment": "Kontext: DFG"
+      }
+    ]
+  },
+  {
+    "id": "3c0a2aa1-da7c-449f-a9db-a5278aa2edf7",
+    "en": [
+      {
+        "word": "voting period",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wahlfrist",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "437ba04f-7a99-4bed-b831-c303f10d36d4",
+    "en": [
+      {
+        "word": "Voting Centre",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wahlstelle",
+        "comment": "Kontext: DFG"
+      }
+    ]
+  },
+  {
+    "id": "c56f07bd-f669-4662-956e-46c1934983ab",
+    "en": [
+      {
+        "word": "continuing/further education",
+        "comment": ""
+      },
+      {
+        "word": "professional development",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Weiterbildung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7c3c17ba-383d-49a9-86ea-8656e044e954",
+    "en": [
+      {
+        "word": "further staff",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "weiterer Beschäftigter",
+        "comment": ""
+      },
+      {
+        "word": "weitere Beschäftigte",
+        "comment": ""
+      },
+      {
+        "word": "weitere*r Beschäftigte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "1e84963c-474b-469c-a0f7-df56d772f410",
+    "en": [
+      {
+        "word": "important grounds (to take a leave of absence)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wichtige Gründe (Beurlaubung)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bd513476-79aa-40e4-8ed0-8b2b1d6f0b9b",
+    "en": [
+      {
+        "word": "right of cancellation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Widerrufsrecht",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "7321570a-f67a-49eb-ba5b-de4cfa516f16",
+    "en": [
+      {
+        "word": "right to object",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Widerspruchsrecht",
+        "comment": "Kontext: Datenschutz"
+      }
+    ]
+  },
+  {
+    "id": "5270d746-cf93-4400-bfa1-ef85f60d0e8b",
+    "en": [
+      {
+        "word": "winter semester",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wintersemester",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "17efe0b2-dfe3-4421-ba96-509763f50a4c",
+    "en": [
+      {
+        "word": "business",
+        "comment": ""
+      },
+      {
+        "word": "economics",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Wirtschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "086c4d52-4dc0-42b6-9eb1-58bdad9e001e",
+    "en": [
+      {
+        "word": "Business Informatics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wirtschaftsinformatik",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "fd761f6e-e251-4745-af90-c5a4de36fe8b",
+    "en": [
+      {
+        "word": "Industrial Engineering",
+        "comment": ""
+      },
+      {
+        "word": "specialisation in Mechanical Engineering",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wirtschaftsingenieurwesen Schwerpunkt Maschinenbau",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "b5a134a8-1232-46ac-9834-7893d49ed1ec",
+    "en": [
+      {
+        "word": "budget proposal/plan",
+        "comment": "vor Verabschiedung"
+      }
+    ],
+    "de": [
+      {
+        "word": "Wirtschaftsplan",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "6a7c6b66-221e-4962-9445-47395de4b036",
+    "en": [
+      {
+        "word": "business hub",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wirtschaftsstandort",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "92a55234-fffd-4fd6-b3c2-e30afed5c12b",
+    "en": [
+      {
+        "word": "Business Administration and Economics",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wirtschaftswissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "40a9ae7b-8ad7-4263-9db4-d36908c9877a",
+    "en": [
+      {
+        "word": "academia",
+        "comment": ""
+      },
+      {
+        "word": "research",
+        "comment": ""
+      },
+      {
+        "word": "science",
+        "comment": "je nach Kontext"
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5b958ea9-ba87-4bca-ab13-82f2e4b9a008",
+    "en": [
+      {
+        "word": "researcher",
+        "comment": ""
+      },
+      {
+        "word": "scientist",
+        "comment": "Naturwissenschaftler*in"
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenschaftler",
+        "comment": ""
+      },
+      {
+        "word": "Wissenschaftlerin",
+        "comment": ""
+      },
+      {
+        "word": "Wissenschaftler*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e5467306-2169-4305-8487-98b452784df0",
+    "en": [
+      {
+        "word": "Academic Staff Council",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenschaftler-Personalrat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "097793cb-79e0-43ad-a01a-c71b2dc115d5",
+    "en": [
+      {
+        "word": "academic",
+        "comment": ""
+      },
+      {
+        "word": "scientific",
+        "comment": "naturwissenschaftlich"
+      },
+      {
+        "word": "scholarly",
+        "comment": "seltener"
+      }
+    ],
+    "de": [
+      {
+        "word": "wissenschaftlich",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ae8517aa-07bd-4c39-a017-4b47653387b0",
+    "en": [
+      {
+        "word": "research/graduate assistant with a bachelor's degree",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "wissenschaftliche Hilfskraft mit Bachelorabschluss (WHB)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "941c976d-363e-4f3e-871b-fb912e4eb093",
+    "en": [
+      {
+        "word": "academic career",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "wissenschaftliche Karriere",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "639f88a9-33d7-4c7f-a661-d4fa9cf0fa36",
+    "en": [
+      {
+        "word": "academic staff",
+        "comment": "Sammelbefgriff"
+      },
+      {
+        "word": "research assistant",
+        "comment": "Einzelperson"
+      }
+    ],
+    "de": [
+      {
+        "word": "wissenschaftlicher Mitarbeiter",
+        "comment": ""
+      },
+      {
+        "word": "wissenschaftliche Mitarbeiterin",
+        "comment": ""
+      },
+      {
+        "word": "wissenschaftliche*r Mitarbeiter*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e4bdb546-96a4-40e7-9998-64d82ac5fb5a",
+    "en": [
+      {
+        "word": "early-career researchers",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "wissenschaftlicher Nachwuchs",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5277e7f3-c705-4b06-aabc-ae1ca184ae94",
+    "en": [
+      {
+        "word": "academic tariff staff or employees",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "wissenschaftlicher Tarifbeschäftigter",
+        "comment": ""
+      },
+      {
+        "word": "wissenschaftliche Tarifbeschäftigte",
+        "comment": ""
+      },
+      {
+        "word": "wissenschaftliche*r Tarifbeschäftigte*r",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "8edbe0ae-2064-4b88-a93a-3685be8306dd",
+    "en": [
+      {
+        "word": "academic and research landscape",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenschafts- und Forschungslandschaft",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "41b74395-1732-475d-aaa5-da450670e4d9",
+    "en": [
+      {
+        "word": "science communication",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenschaftskommunikation",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "5e999fd7-295e-4bb5-bbb6-b037123bcff9",
+    "en": [
+      {
+        "word": "The German Science and Humanities Council",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenschaftsrat",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "e4baeac4-5f51-4a22-963e-1e0b3b63687e",
+    "en": [
+      {
+        "word": "knowledge transfer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissenstransfer",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "0e7a3adb-2e59-4fca-be5b-aba7d0f4650b",
+    "en": [
+      {
+        "word": "knowledge transfer",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Wissensvermittlung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "287905a8-65f7-4957-bbb1-59775d222cf1",
+    "en": [
+      {
+        "word": "The Central Office for Foreign Education (ZAB)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentralstelle für ausländisches Bildungswesen (ZAB)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3b728635-3eb8-43ea-af30-fe34b44b1bf2",
+    "en": [
+      {
+        "word": "Central Administration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentralverwaltung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "214555e6-62d9-4e39-8df8-4b0b6a35e81d",
+    "en": [
+      {
+        "word": "Centre for Educational Research and Teacher Education (PLAZ)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentrum für Bildungsforschung und Lehrerbildung (PLAZ)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "066be366-b522-4458-b931-d4f0ada810af",
+    "en": [
+      {
+        "word": "Centre for Contemporary German Literature",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentrum für deutschsprachige Gegenwartsliteratur",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c593eb73-a4aa-42c7-88ab-0ee1e93b4250",
+    "en": [
+      {
+        "word": "Centre for Information and Media Technology Services (ZIM)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentrum für Informations- und Medientechnische Dienste (ZIM)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "4f10a4be-4a18-4db3-8f43-0613cec44d21",
+    "en": [
+      {
+        "word": "Centre for Comparative Theology and Cultural Studies (ZeKK)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentrum für Komparative Theologie und Kulturwissenschaften",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "083a3f8a-4871-4ea5-a7d4-2b1b757b34d4",
+    "en": [
+      {
+        "word": "Language Centre (ZfS)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zentrum für Sprachlehre (ZfS)",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "a934bb45-d6c9-4661-b638-3ae117676f49",
+    "en": [
+      {
+        "word": "target agreement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zielvereinbarung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "da2e8757-63ef-4c1d-835b-cb3385b5a582",
+    "en": [
+      {
+        "word": "access rights",
+        "comment": ""
+      },
+      {
+        "word": "right of access",
+        "comment": "synonym"
+      }
+    ],
+    "de": [
+      {
+        "word": "Zugriffsrecht",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "da2405c2-12b2-4be7-a33c-ffe209bb2f54",
+    "en": [
+      {
+        "word": "Zukunftsmeile",
+        "comment": "research and development cluster located in the Fürstenallee in the city of Paderborn"
+      }
+    ],
+    "de": [
+      {
+        "word": "Zukunftsmeile",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "dc908902-fb30-44b1-a52e-1bdefe062dc3",
+    "en": [
+      {
+        "word": "admission",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zulassung",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "f7a879d8-2b26-438d-bcb2-8ca04a24faf7",
+    "en": [
+      {
+        "word": "admission-restricted",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "zulassungsbeschränkt",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "c10b23bb-0e60-49f6-a604-4e340fa4ddfb",
+    "en": [
+      {
+        "word": "open admission",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "zulassungsfrei",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "bce1a1c2-91e4-472e-83b9-df7cee6216cd",
+    "en": [
+      {
+        "word": "cross-registered student",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zweithörer",
+        "comment": ""
+      },
+      {
+        "word": "Zweithörerin",
+        "comment": ""
+      },
+      {
+        "word": "Zweithörer*in",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "ec29c6b6-22e1-4aaa-90c1-ce5369d1efb2",
+    "en": [
+      {
+        "word": "cross-registration",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Zweithörerschaft",
+        "comment": ""
+      }
+    ]
+  }
+]

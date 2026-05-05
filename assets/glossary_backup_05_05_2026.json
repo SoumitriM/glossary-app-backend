@@ -1,1966 +1,19 @@
 [
   {
-    "id": "e33fe678-8f37-46ae-a7c5-a87cfc9499d9",
+    "id": "646d97f7-a049-4960-b5b7-4f28e029dbca",
     "en": [
       {
-        "word": "alumni"
+        "word": "test2"
       }
     ],
     "de": [
       {
-        "word": "alumni"
-      }
-    ]
-  },
-  {
-    "id": "1ef73156-808a-4c3e-9a0b-a6f91b2ce8de",
-    "en": [
-      {
-        "word": "alum"
+        "word": "test1"
       }
     ],
-    "de": [
-      {
-        "word": "Alum",
-        "gender": "m"
-      }
-    ]
-  },
-  {
-    "id": "bbfb5dc2-5294-48cf-a433-2e767b2f4036",
-    "en": [
-      {
-        "word": "alumna"
-      }
-    ],
-    "de": [
-      {
-        "word": "Alumna",
-        "gender": "f"
-      }
-    ]
-  },
-  {
-    "id": "207a735e-e9b8-4b23-bb47-a13dd5aadb30",
-    "en": [
-      {
-        "word": "Deputy Assistant"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Referent",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Referentin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Referent*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "f64c04e9-4734-430e-ae31-00fad23a5791",
-    "en": [
-      {
-        "word": "Advisor"
-      }
-    ],
-    "de": [
-      {
-        "word": "Berater",
-        "gender": "m"
-      },
-      {
-        "word": "Beraterin",
-        "gender": "f"
-      },
-      {
-        "word": "Berater*in"
-      }
-    ]
-  },
-  {
-    "id": "a87125f8-2d25-4700-aa4a-59640ce2cdb4",
-    "en": [
-      {
-        "word": "Treasurer",
-        "comment": "Großschreiben, wenn es sich direkt auf die Rolle einer bestimmten Person bezieht, kleinschreiben, wenn dem nicht so ist."
-      }
-    ],
-    "de": [
-      {
-        "word": "Schatzmeister",
-        "gender": "m"
-      },
-      {
-        "word": "Schatzmeisterin",
-        "gender": "f"
-      },
-      {
-        "word": "Schatzmeister*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "1a09166c-b28d-436a-9923-19be7a317afd",
-    "en": [
-      {
-        "word": "Management"
-      }
-    ],
-    "de": [
-      {
-        "word": "Geschäftsführung"
-      }
-    ]
-  },
-  {
-    "id": "fc0cb388-c9b2-4674-84d3-ffe829e421fd",
-    "en": [
-      {
-        "word": "Deputy Manager",
-        "comment": "Großschreiben, wenn es sich direkt auf die Person bezieht, die diese Rolle innehat, kleinschreiben, wenn dem nicht so ist."
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Geschäftsführer",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Geschäftsführerin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Geschäftsführer*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "3261493c-4b83-4382-b871-06c5c03212bf",
-    "en": [
-      {
-        "word": "Manager",
-        "comment": "Großschreiben, wenn es sich direkt auf die Person bezieht, die diese Rolle innehat, kleinschreiben, wenn dem nicht so ist."
-      }
-    ],
-    "de": [
-      {
-        "word": "Geschäftsführer",
-        "gender": "m"
-      },
-      {
-        "word": "Geschäftsführer*in",
-        "gender": "n"
-      },
-      {
-        "word": "Geschäftsführerin",
-        "gender": "f"
-      }
-    ]
-  },
-  {
-    "id": "9451dc9b-5b56-4dbd-b747-2d1946914e60",
-    "en": [
-      {
-        "word": "Dean of Research",
-        "comment": "Kleingeschrieben, wenn es sich nicht direkt auf die Person bezieht, die diese Rolle innehat."
-      }
-    ],
-    "de": [
-      {
-        "word": "Forschungsdekan",
-        "gender": "m"
-      },
-      {
-        "word": "Forschungsdekanin",
-        "gender": "f"
-      },
-      {
-        "word": "Forschungsdekan*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "7df3a21c-0a0b-443f-8ecf-cf3b676a970a",
-    "en": [
-      {
-        "word": "Deputy Head of Institute"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Institutsleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Institutsleiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Institutsleiter*in"
-      }
-    ]
-  },
-  {
-    "id": "3e68fe3f-feaa-417b-951e-5fef518724c2",
-    "en": [
-      {
-        "word": "Head of Institute"
-      }
-    ],
-    "de": [
-      {
-        "word": "Institutsleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Institutsleiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Institutsleiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "94fe116e-0012-4007-9974-778662d636d5",
-    "en": [
-      {
-        "word": "Chair",
-        "comment": "Wenn sich das Wort auf einen bestimmten Lehrstuhl bezieht, großschreiben, wenn es generell um Lehrstühle geht, kleinschreiben"
-      }
-    ],
-    "de": [
-      {
-        "word": "Lehrstuhl"
-      }
-    ]
-  },
-  {
-    "id": "ac46de51-78a1-48ad-bae7-c9cdfac0afff",
-    "en": [
-      {
-        "word": "Chief Engineer"
-      }
-    ],
-    "de": [
-      {
-        "word": "Oberingenieur",
-        "gender": "m"
-      },
-      {
-        "word": "Oberingenieur*in",
-        "gender": "n"
-      },
-      {
-        "word": "Oberingenieurin",
-        "gender": "f"
-      }
-    ]
-  },
-  {
-    "id": "5206df00-c183-4b48-a21d-20771ccea900",
-    "en": [
-      {
-        "word": "Junior Research Group Leader"
-      }
-    ],
-    "de": [
-      {
-        "word": "Nachwuchsgruppenleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Nachwuchsgruppenleiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Nachwuchsgruppenleiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "8a13d898-0f50-41e6-9db5-f2b2554f8069",
-    "en": [
-      {
-        "word": "Head of Unit"
-      }
-    ],
-    "de": [
-      {
-        "word": "Sachgebietsleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Sachgebietsleiterin",
-        "gender": "n"
-      },
-      {
-        "word": "Sachgebietsleiter*in",
-        "gender": "n"
-      },
-      {
-        "word": "Sachgebietsleitung"
-      }
-    ]
-  },
-  {
-    "id": "1105c773-5753-4d34-93c5-edcb3fd58b8f",
-    "en": [
-      {
-        "word": "Deputy Head of Section"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertrender Dezernent",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Dezernentin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertetende*r Dezernent*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "8f63ee25-8f29-419f-b1b6-d9456a971d9a",
-    "en": [
-      {
-        "word": "Deputy Head of Unit",
-        "comment": "Großschreiben, wenn es sich auf die Person bezieht, die diese Rolle innehat, kleinschreiben, wenn dem nicht so ist"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Sachgebietsleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Sachgebietsleiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Sachgebietsleiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "deb11f93-e6b8-43b9-a606-2be0c5586a1f",
-    "en": [
-      {
-        "word": "Administrative Officer",
-        "comment": "Nur großschreiben, wenn es als Rollenbezeichnung einer bestimmten Person verwendet wird. Ansonsten kleinschreiben."
-      }
-    ],
-    "de": [
-      {
-        "word": "Sachbearbeiter",
-        "gender": "f"
-      },
-      {
-        "word": "Sachbearbeiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Sachbearbeiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "86da54ab-f296-40f7-a401-f9a9bb296511",
-    "en": [
-      {
-        "word": "Head"
-      }
-    ],
-    "de": [
-      {
-        "word": "Leiter",
-        "gender": "m"
-      },
-      {
-        "word": "Leiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Leiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "213389c3-a36f-46ae-9497-146c40394cc1",
-    "en": [
-      {
-        "word": "Deputy Head"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretende Leiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretender Leiter",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende*r Leiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "e7f969fd-879d-445b-b7cc-eb7d5f7b8c8f",
-    "en": [
-      {
-        "word": "Business Administration and Economics"
-      }
-    ],
-    "de": [
-      {
-        "word": "Wirtschaftswissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "3a63751f-3aa7-4848-bc5b-a8ec2ab79a8e",
-    "en": [
-      {
-        "word": "Language, Literature, and Culture"
-      }
-    ],
-    "de": [
-      {
-        "word": "Sprache, Literatur, Kultur"
-      }
-    ]
-  },
-  {
-    "id": "8b16949f-66eb-42e6-b3e1-3eec7f9b1039",
-    "en": [
-      {
-        "word": "Natural Sciences"
-      }
-    ],
-    "de": [
-      {
-        "word": "Naturwissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "83281fd6-c547-4522-b32e-aeebc3a3c03c",
-    "en": [
-      {
-        "word": "Teacher Education"
-      }
-    ],
-    "de": [
-      {
-        "word": "Lehramt"
-      }
-    ]
-  },
-  {
-    "id": "317596b3-f08a-494d-9ba8-29e72bcf7525",
-    "en": [
-      {
-        "word": "Art, Media, Music, and Textiles"
-      }
-    ],
-    "de": [
-      {
-        "word": "Kunst, Medien, Musik, Textil"
-      }
-    ]
-  },
-  {
-    "id": "e537974d-c8e8-45ee-8c69-3a57c6be3c2f",
-    "en": [
-      {
-        "word": "Computer Science and Mathematics"
-      }
-    ],
-    "de": [
-      {
-        "word": "Informatik und Mathematik"
-      }
-    ]
-  },
-  {
-    "id": "275ac35c-d529-4922-a742-147b059308fc",
-    "en": [
-      {
-        "word": "Health and Sports"
-      }
-    ],
-    "de": [
-      {
-        "word": "Gesundheit und Sport"
-      }
-    ]
-  },
-  {
-    "id": "eea6aca3-3b2c-4b60-b8d3-bcd3926c6c8d",
-    "en": [
-      {
-        "word": "Humanities and Social Sciences"
-      }
-    ],
-    "de": [
-      {
-        "word": "Geistes- und Gesellschaftswissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "e42cfe3f-a256-46aa-af59-4b3528ee8f64",
-    "en": [
-      {
-        "word": "Electrical and Mechanical Engineering"
-      }
-    ],
-    "de": [
-      {
-        "word": "Elektrotechnik und Maschinenbau"
-      }
-    ]
-  },
-  {
-    "id": "302253a3-fda3-46db-be57-f8e28e278e74",
-    "en": [
-      {
-        "word": "suspected active shooter situation"
-      }
-    ],
-    "de": [
-      {
-        "word": "Amok-Verdachtsfall"
-      }
-    ]
-  },
-  {
-    "id": "48c41550-d04d-46ab-8e66-2189f75533bb",
-    "en": [
-      {
-        "word": "central research institutes"
-      }
-    ],
-    "de": [
-      {
-        "word": "zentrale wissenschaftliche Einrichtungen"
-      }
-    ]
-  },
-  {
-    "id": "4ad8dc31-970c-4dda-a200-2eb0e6c2f008",
-    "en": [
-      {
-        "word": "central operating units"
-      }
-    ],
-    "de": [
-      {
-        "word": "zentrale Betriebseinheiten"
-      }
-    ]
-  },
-  {
-    "id": "094c2ef1-28b3-4ac6-8113-7ee6686e44b8",
-    "en": [
-      {
-        "word": "Deputy Equal Opportunities Officer"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Gleichstellungsbeauftragter",
-        "gender": "m"
-      },
-      {
-        "word": "Gleichstellungsbeauftragte",
-        "gender": "f"
-      },
-      {
-        "word": "Gleichstellungsbeauftragte*r",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "43f4c4a8-fa4c-4fd5-a303-aecb5e2f0689",
-    "en": [
-      {
-        "word": "Equal Opportunities Officer"
-      }
-    ],
-    "de": [
-      {
-        "word": "Gleichstellungsbeauftragter",
-        "gender": "m"
-      },
-      {
-        "word": "Gleichstellungsbeauftragte",
-        "gender": "f"
-      },
-      {
-        "word": "Gleichstellungsbeauftragte*r",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "56d4f97b-3925-4393-9008-8c78ca87947d",
-    "en": [
-      {
-        "word": "feedback",
-        "comment": "Use feedback to denote a reaction or response to events or actions"
-      }
-    ],
-    "de": [
-      {
-        "word": "Rückmeldung",
-        "comment": "Verwende Rückmeldung im Sinne von Reaktion, Antwort auf Ereignisse oder Tätigkeiten"
-      }
-    ]
-  },
-  {
-    "id": "4098e0aa-fe17-4fd5-ab18-7a7f9abed9db",
-    "en": [
-      {
-        "word": "Deputy Representative for Employees with a Disability"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Schwerbehindertenvertreter",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Schwerbehindertenvertreterin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Schwerbehindertenvertreter*in",
-        "gender": "n"
-      },
-      {
-        "word": "Stellvertretende Schwerbehindertenvertretung"
-      }
-    ]
-  },
-  {
-    "id": "6dade447-e61d-4341-932d-322a55a166b3",
-    "en": [
-      {
-        "word": "Representative for Employees with a Disability"
-      }
-    ],
-    "de": [
-      {
-        "word": "Schwerbehindertenvertreter",
-        "gender": "m"
-      },
-      {
-        "word": "Schwerbehindertenvertreterin",
-        "gender": "f"
-      },
-      {
-        "word": "Schwerbehindertenvertrer*in",
-        "gender": "n"
-      },
-      {
-        "word": "Schwerbehindertenvertretung"
-      }
-    ]
-  },
-  {
-    "id": "80ab6674-28bf-47fc-9ccf-4cab7a89b0ac",
-    "en": [
-      {
-        "word": "Deputy Head"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Leiter"
-      }
-    ]
-  },
-  {
-    "id": "2e245571-29af-44c1-a75b-a7c6c753f2bb",
-    "en": [
-      {
-        "word": "Head"
-      }
-    ],
-    "de": [
-      {
-        "word": "Leitung",
-        "comment": "when used as the official role of a person"
-      }
-    ]
-  },
-  {
-    "id": "ed9456a4-c5d7-4364-8367-9f222b488356",
-    "en": [
-      {
-        "word": "Administrative Officer"
-      }
-    ],
-    "de": [
-      {
-        "word": "Sachbearbeiter",
-        "gender": "m"
-      }
-    ]
-  },
-  {
-    "id": "53a119b8-bc73-48d6-bc0c-7d2f2cc6a1fd",
-    "en": [
-      {
-        "word": "Study Programme Director"
-      }
-    ],
-    "de": [
-      {
-        "word": "Studiengangsverantwortlicher",
-        "gender": "m"
-      },
-      {
-        "word": "Studiengangsverantwortliche",
-        "gender": "f"
-      },
-      {
-        "word": "Studiengangsverantwortliche*r",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "035af7ef-afea-4542-bffc-c33f79b7b2c2",
-    "en": [
-      {
-        "word": "Deputy Mentor for Teachers in Training"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Fachleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Fachleiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Fachleiter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "924aa42a-a8a4-4ca4-87df-af4c205bc146",
-    "en": [
-      {
-        "word": "Mentor for Teachers in Training"
-      }
-    ],
-    "de": [
-      {
-        "word": "Fachleiter",
-        "gender": "m"
-      },
-      {
-        "word": "Fachleiterin",
-        "gender": "f"
-      },
-      {
-        "word": "Fachleiter*in"
-      }
-    ]
-  },
-  {
-    "id": "66341b31-4a1f-45bd-8eb9-ace63a5afc7f",
-    "en": [
-      {
-        "word": "Head of Research Group"
-      }
-    ],
-    "de": [
-      {
-        "word": "Fachgruppeninhaber"
-      },
-      {
-        "word": "Fachgruppeninhaberin",
-        "gender": "f"
-      },
-      {
-        "word": "Fachgruppeninhaber*in",
-        "gender": "f"
-      }
-    ]
-  },
-  {
-    "id": "b30b78b7-50e2-4def-89bf-0f7ec7e4c4a4",
-    "en": [
-      {
-        "word": "Research Group"
-      }
-    ],
-    "de": [
-      {
-        "word": "Fachgruppe"
-      }
-    ]
-  },
-  {
-    "id": "e9b273f0-fe5d-4685-befa-56b9251d2e8e",
-    "en": [
-      {
-        "word": "Department",
-        "comment": "Großgeschrieben, wenn es sich auf ein bestimmtes Department bezieht, kleingeschrieben, wenn es generell um Departments geht."
-      }
-    ],
-    "de": [
-      {
-        "word": "Department"
-      }
-    ]
-  },
-  {
-    "id": "0c3b2731-0aa9-4211-bcbb-c80bc23e0b16",
-    "en": [
-      {
-        "word": "Institute"
-      }
-    ],
-    "de": [
-      {
-        "word": "Institut"
-      }
-    ]
-  },
-  {
-    "id": "3cda6d43-a698-470c-9a04-ae621bd09464",
-    "en": [
-      {
-        "word": "Deputy Managing Director",
-        "comment": "großschreiben, wenn es sich direkt auf die Person bezieht, die diese Rolle innehat, kleinschreiben, wenn dem nicht so ist."
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender geschäftsführender Direktor",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende geschäftsführende Direktorin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r geschäftsführende*r Direktor*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "0b970230-486c-4408-9563-b10813b7d150",
-    "en": [
-      {
-        "word": "Managing Director",
-        "comment": "großschreiben, wenn es sich direkt auf die Person bezieht, die diese Rolle innehat, kleinschreiben, wenn dem nicht so ist"
-      }
-    ],
-    "de": [
-      {
-        "word": "Geschäftsführender Direktor",
-        "gender": "m"
-      },
-      {
-        "word": "Geschäftsführende Direktorin",
-        "gender": "f"
-      },
-      {
-        "word": "Geschäftsführende*r Direktor*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "f0f45e18-8cd4-4c49-b1d8-171448ac34c8",
-    "en": [
-      {
-        "word": "Vice-Dean",
-        "comment": "kleingeschrieben, wenn es sich nicht direkt auf die Person bezieht, die diese Rolle hat"
-      }
-    ],
-    "de": [
-      {
-        "word": "Prodekan",
-        "gender": "m"
-      },
-      {
-        "word": "Prodekan*in",
-        "gender": "n"
-      },
-      {
-        "word": "Prodekanin",
-        "gender": "f"
-      }
-    ]
-  },
-  {
-    "id": "6a5e7f49-dcda-44ab-870c-56bb7f6fdf42",
-    "en": [
-      {
-        "word": "Chairperson of the Board"
-      }
-    ],
-    "de": [
-      {
-        "word": "Vorstand"
-      }
-    ]
-  },
-  {
-    "id": "9be342a9-997d-4dbb-8418-26fe4aee9739",
-    "en": [
-      {
-        "word": "Deputy Spokesperson",
-        "comment": "Großschreiben, wenn es sich direkt auf die Rolle einer bestimmten Person bezieht, kleinschreiben, wenn dem nicht so ist."
-      }
-    ],
-    "de": [
-      {
-        "word": "Stellvertretender Sprecher",
-        "gender": "m"
-      },
-      {
-        "word": "Stellvertretende Sprecherin",
-        "gender": "f"
-      },
-      {
-        "word": "Stellvertretende*r Sprecher*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "a79d675c-fcdd-4c88-9369-c9a5973cbf36",
-    "en": [
-      {
-        "word": "2nd Deputy Chairperson"
-      }
-    ],
-    "de": [
-      {
-        "word": "2. Stellvertretender Vorsitzender",
-        "gender": "m"
-      },
-      {
-        "word": "2. Stellvertretende Vorsitzende",
-        "gender": "f"
-      },
-      {
-        "word": "2. Stellvertretende*r Vorsitzende*r",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "36e2087e-fab7-4e50-ad0b-c9de35abb2d9",
-    "en": [
-      {
-        "word": "1st Deputy Chairperson"
-      }
-    ],
-    "de": [
-      {
-        "word": "1. Stellvertretender Vorsitzender",
-        "gender": "m"
-      },
-      {
-        "word": "1. Stellvertrende Vorsitzende",
-        "gender": "f"
-      },
-      {
-        "word": "1. Stellvertretende*r Vorsitzende*r",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "c4bcd419-bad7-48a1-b420-d1d64b7fd2ea",
-    "en": [
-      {
-        "word": "Chairperson",
-        "comment": "Großschreiben, wenn es sich direkt auf die Person bezieht, die diese Position innehat, kleinschreiben, wenn dem nicht so ist."
-      }
-    ],
-    "de": [
-      {
-        "word": "Vorsitzender",
-        "gender": "m"
-      },
-      {
-        "word": "Vorsitzende",
-        "gender": "f"
-      },
-      {
-        "word": "Vorsitzende*r",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "accef3dc-de01-4c98-99e6-241992cf4788",
-    "en": [
-      {
-        "word": "Youth and Trainee Representative (JAV)"
-      }
-    ],
-    "de": [
-      {
-        "word": "Jugend- und Auszubildendenvertreter",
-        "gender": "m"
-      },
-      {
-        "word": "Jugend- und Auszubildendenvertretende",
-        "gender": "f"
-      },
-      {
-        "word": "Jugend- und Auszubildendenvertreter*in",
-        "gender": "n"
-      }
-    ]
-  },
-  {
-    "id": "c004a0de-77ce-45d6-b3a4-7d77d44cbac1",
-    "en": [
-      {
-        "word": "Central Bodies"
-      }
-    ],
-    "de": [
-      {
-        "word": "Zentrale Organe"
-      }
-    ]
-  },
-  {
-    "id": "249cba84-0bf1-4410-9a8e-ba7fe59f9509",
-    "en": [
-      {
-        "word": "Academic Subject Advisor"
-      }
-    ],
-    "de": [
-      {
-        "word": "Fachstudienberater",
-        "gender": "m"
-      },
-      {
-        "word": "Fachstudienberater*in",
-        "gender": "n"
-      },
-      {
-        "word": "Fachstudienberaterin",
-        "gender": "f"
-      }
-    ]
-  },
-  {
-    "id": "8c3372b3-34c4-42ad-9629-a05738dc9db1",
-    "en": [
-      {
-        "word": "module handbook"
-      }
-    ],
-    "de": [
-      {
-        "word": "Modulhandbuch"
-      }
-    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:11:40",
     "hide": false
-  },
-  {
-    "id": "b75d1aa4-02a4-40ea-98cc-10156e18d63b",
-    "en": [
-      {
-        "word": "admission requirements"
-      }
-    ],
-    "de": [
-      {
-        "word": "Zugangsvoraussetzungen"
-      }
-    ],
-    "hide": false
-  },
-  {
-    "id": "e799a079-2eea-49ac-b9c5-940a0d59ae3c",
-    "en": [
-      {
-        "word": "student ID number"
-      }
-    ],
-    "de": [
-      {
-        "word": "Matrikelnummer"
-      }
-    ],
-    "hide": false
-  },
-  {
-    "id": "14687053-9d93-45b8-ba1e-3d9b0b0c2de3",
-    "en": [
-      {
-        "word": "Student Service",
-        "comment": "abbreviation: STS"
-      }
-    ],
-    "de": [
-      {
-        "word": "Studierendenservice",
-        "comment": "Abkürzung: STS"
-      }
-    ],
-    "hide": false
-  },
-  {
-    "id": "9998e31c-ff70-40e5-96c7-299a0d81887c",
-    "en": [
-      {
-        "word": "Examinations Management",
-        "comment": "abbreviation: EM"
-      }
-    ],
-    "de": [
-      {
-        "word": "Prüfungsmanagement",
-        "comment": "Abkürzung: PM"
-      }
-    ],
-    "hide": false
-  },
-  {
-    "id": "f11e95fd-e647-4986-9717-417e86636268",
-    "en": [
-      {
-        "word": "Center for Transfer through Business Start-ups"
-      }
-    ],
-    "de": [
-      {
-        "word": "Center für Transfer durch Existenzgründung"
-      }
-    ],
-    "hide": false
-  },
-  {
-    "id": "de6f3859-453f-4901-b106-52e3669dc7ef",
-    "en": [
-      {
-        "word": "e-mail",
-        "comment": "verb \"to e-mail\""
-      }
-    ],
-    "de": [
-      {
-        "word": "mailen"
-      },
-      {
-        "word": "per E-Mail senden"
-      },
-      {
-        "word": "per E-Mail schicken"
-      },
-      {
-        "word": "e-mailen"
-      }
-    ],
-    "hide": false
-  },
-  {
-    "id": "8de7b84b-90dd-47e4-b8e2-a7984f9a5763",
-    "en": [
-      {
-        "word": "e-mail"
-      }
-    ],
-    "de": [
-      {
-        "word": "E-Mail"
-      }
-    ]
-  },
-  {
-    "id": "2a652a5a-cb4b-477c-8fe5-fc2e72a6c6c3",
-    "en": [
-      {
-        "word": "Long Night of Science"
-      }
-    ],
-    "de": [
-      {
-        "word": "Lange Nacht der Wissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "3aea64b2-a532-4092-abaf-cd4824fb7784",
-    "en": [
-      {
-        "word": "Academic Career Development Office",
-        "comment": "previous designation for \"Paderborn PhD & Postdoc Support Office\""
-      }
-    ],
-    "de": [
-      {
-        "word": "Stabsstelle Wissenschaftliche Karriereentwicklung",
-        "comment": "alte Bezeichnung für \"Paderborn PhD & Postdoc Support Office\""
-      }
-    ]
-  },
-  {
-    "id": "6a96185e-aed5-4060-b0a3-2099b5311e1a",
-    "en": [
-      {
-        "word": "Paderborn PhD & Postdoc Support Office",
-        "comment": "Please omit \"the\" before \"Paderborn PhD & Postdoc Support Office\""
-      }
-    ],
-    "de": [
-      {
-        "word": "Paderborn PhD & Postdoc Support Office",
-        "comment": "Bitte \"the\" vor \"Paderborn PhD & Postdoc Support Office\" weglassen"
-      }
-    ]
-  },
-  {
-    "id": "398d8e40-9057-4cb3-a9cb-68f37a28fcc1",
-    "en": [
-      {
-        "word": "start-up centre of Paderborn University",
-        "comment": "reference to \"garage 33\""
-      }
-    ],
-    "de": [
-      {
-        "word": "Gründungszentrum der Universität Paderborn",
-        "comment": "hier ist \"garage 33\" gemeint"
-      }
-    ]
-  },
-  {
-    "id": "0c849cf0-d629-4705-b15d-9aa4b6102c6d",
-    "en": [
-      {
-        "word": "International Women’s Day"
-      }
-    ],
-    "de": [
-      {
-        "word": "Internationaler Frauentag"
-      }
-    ]
-  },
-  {
-    "id": "93419c6d-7eaf-4587-8f9a-15e051379569",
-    "en": [
-      {
-        "word": "Dr. h. c."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. h. c.",
-        "comment": "Ehrendoktor („der Ehre halber“)"
-      }
-    ]
-  },
-  {
-    "id": "ab342575-0819-4e87-a2d8-3292d8a16fa3",
-    "en": [
-      {
-        "word": "Dr. des."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. des.",
-        "comment": "gelegentlich Dr. phil. des.: Doktorgrad, der nach einzelnen Promotionsordnungen zwischen dem Ende des Promotionsverfahrens und der Veröffentlichung der Dissertation geführt werden darf."
-      }
-    ]
-  },
-  {
-    "id": "28269bea-b7c9-4716-a13e-7d6298e371a9",
-    "en": [
-      {
-        "word": "Drs."
-      }
-    ],
-    "de": [
-      {
-        "word": "Drs.",
-        "comment": "Bezeichnung für eine Person, die eine Dissertationsschrift anfertigt."
-      }
-    ]
-  },
-  {
-    "id": "a263b3c0-88b5-44d4-ba80-2cc092eaf1e0",
-    "en": [
-      {
-        "word": "Dr. habil."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. habil.",
-        "comment": "Doktor mit Lehrbefähigung (Habilitation)"
-      }
-    ]
-  },
-  {
-    "id": "2d13827a-a725-49ae-b2b9-ec8bcdcdc40a",
-    "en": [
-      {
-        "word": "Dres."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dres.",
-        "comment": "Abkürzung bei Nennung mehrerer Personen mit Graden (bspw. Dres. Meier und Müller)"
-      }
-    ]
-  },
-  {
-    "id": "fb746b1d-0ad8-47d5-994e-84db176001d7",
-    "en": [
-      {
-        "word": "Dr. theol."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. theol.",
-        "comment": "Doktor der Theologie, früher häufig nur D."
-      }
-    ]
-  },
-  {
-    "id": "1cd27531-ba46-472d-8894-26830c3bbbca",
-    "en": [
-      {
-        "word": "Dr. sc. pol."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. sc. pol.",
-        "comment": "Doktor der Wirtschafts- und Sozialwissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "3b62b98a-89dd-4619-af07-010a08f17079",
-    "en": [
-      {
-        "word": "Dr. rer. pol."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. rer. pol.",
-        "comment": "Sammelbegriff für Doktoren der Politikwissenschaft, Sozialwissenschaften, Staatswissenschaften oder Wirtschaftswissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "51d3bbea-3d79-4190-b8ec-35a04b7e0ab3",
-    "en": [
-      {
-        "word": "Dr. PH"
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. PH",
-        "comment": "Doktor der Public Health"
-      }
-    ]
-  },
-  {
-    "id": "90e26cd9-5676-4ae0-9a34-144e49a10478",
-    "en": [
-      {
-        "word": "Dr. phil."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. phil.",
-        "comment": "Doktor der Philosophie; umfasst die ganze Breite der alten philosophischen Fakultäten, insbesondere alle Philologien, aber auch Soziologie, Politikwissenschaft, Geschichte, Psychologie, Pädagogik, Kulturwissenschaft, zuweilen auch Mathematik, Natur- und Wirtschaftswissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "98d6517b-d9f0-4cc0-a3a0-e52d6e1aedd0",
-    "en": [
-      {
-        "word": "Dr. math."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. math.",
-        "comment": "Doktor der Mathematik"
-      }
-    ]
-  },
-  {
-    "id": "5ca52704-3439-47ef-b4b8-e2050a6d0482",
-    "en": [
-      {
-        "word": "Dr. iur. et rer. pol."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. iur. et rer. pol.",
-        "comment": "Doktor der Rechts- und Staatswissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "f97bceeb-3f50-4346-8bba-7988e80f95c9",
-    "en": [
-      {
-        "word": "Dr. iur."
-      },
-      {
-        "word": "Dr. jur."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. iur.",
-        "comment": "Doktor der Rechte bzw. Doktor des Rechts (auch: jur. für juris) oder: (iurisprudentiae) Doktor der Rechtswissenschaft"
-      },
-      {
-        "word": "Dr. jur."
-      }
-    ]
-  },
-  {
-    "id": "7b137bb3-3c70-4d8d-afef-96e4f3157afe",
-    "en": [
-      {
-        "word": "Dr.-Ing."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr.-Ing.",
-        "comment": "Doktor der Ingenieurwissenschaften (Einführung 1899 an den technischen Hochschulen Deutschlands. Wegen des Widerstandes der damaligen klassischen Universitäten gilt die deutsche Schreibweise, nicht die lateinische)"
-      }
-    ]
-  },
-  {
-    "id": "2dc81aab-47a2-4e3f-8266-47c350bc5d17",
-    "en": [
-      {
-        "word": "Dr. cult."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. cult.",
-        "comment": "Doktor der Kulturwissenschaften"
-      }
-    ]
-  },
-  {
-    "id": "bad243cd-92d4-4fe4-8b25-f8832164807e",
-    "en": [
-      {
-        "word": "Dr. B.A"
-      },
-      {
-        "word": "D.B.A"
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. B.A",
-        "comment": "Doctor of Business Administration"
-      },
-      {
-        "word": "D.B.A"
-      }
-    ]
-  },
-  {
-    "id": "a4a12c33-f420-4af9-be51-3630b479f623",
-    "en": [
-      {
-        "word": "Dr. agr."
-      }
-    ],
-    "de": [
-      {
-        "word": "Dr. agr.",
-        "comment": "Doktor der Agrarwissenschaft"
-      }
-    ]
-  },
-  {
-    "id": "7c36fba1-cca2-4858-8e24-1d906d68b953",
-    "en": [
-      {
-        "word": "Archdiocese of Paderborn"
-      }
-    ],
-    "de": [
-      {
-        "word": "Erzbistum Paderborn"
-      }
-    ]
-  },
-  {
-    "id": "1d4c489d-68b8-4431-b79e-0b69de03bf37",
-    "en": [
-      {
-        "word": "Hochschule Bielefeld – University of Applied Sciences and Arts (HSBI)"
-      },
-      {
-        "word": "Hochschule Bielefeld – University of Applied Sciences and Arts"
-      }
-    ],
-    "de": [
-      {
-        "word": "Hochschule Bielefeld (HSBI)"
-      },
-      {
-        "word": "Hochschule Bielefeld"
-      }
-    ]
-  },
-  {
-    "id": "b0ab83fb-8f0a-4bcb-9019-ac55f248f4e4",
-    "en": [
-      {
-        "word": "OWL University of Applied Sciences and Arts"
-      },
-      {
-        "word": "TH OWL"
-      }
-    ],
-    "de": [
-      {
-        "word": "Technischen Hochschule OWL"
-      },
-      {
-        "word": "TH OWL"
-      }
-    ]
-  },
-  {
-    "id": "f4bb12f5-c16d-4819-b19e-6225bd643b0d",
-    "en": [
-      {
-        "word": "Exzellenz Start-up Center.OWL"
-      }
-    ],
-    "de": [
-      {
-        "word": "Exzellenz Start-up Center.OWL"
-      }
-    ]
-  },
-  {
-    "id": "ace7158a-3ca6-4b9f-802f-07d9491c7168",
-    "en": [
-      {
-        "word": "higher education institution"
-      }
-    ],
-    "de": [
-      {
-        "word": "Hochschule"
-      }
-    ]
-  },
-  {
-    "id": "f6071041-4961-40a9-ade3-ef18d8d59bbe",
-    "en": [
-      {
-        "word": "(front row, from left to right)"
-      }
-    ],
-    "de": [
-      {
-        "word": "(v. v. l.)"
-      }
-    ]
-  },
-  {
-    "id": "27bdd492-364b-4b04-894f-9dac024a2872",
-    "en": [
-      {
-        "word": "climate change"
-      }
-    ],
-    "de": [
-      {
-        "word": "Klimawandel"
-      }
-    ]
-  },
-  {
-    "id": "5eefff16-7f39-4595-8e7a-71d1d238a1e9",
-    "en": [
-      {
-        "word": "University Orchestera"
-      }
-    ],
-    "de": [
-      {
-        "word": "Hochschulorchester"
-      }
-    ]
-  },
-  {
-    "id": "0680f3cc-341e-49b7-b870-8fef4a2d6d85",
-    "en": [
-      {
-        "word": "Auditorium Maximum"
-      }
-    ],
-    "de": [
-      {
-        "word": "Auditorium maximum"
-      }
-    ]
-  },
-  {
-    "id": "15ede1ac-ec87-49b7-834f-efbec55adc62",
-    "en": [
-      {
-        "word": "enrolment"
-      }
-    ],
-    "de": [
-      {
-        "word": "Einschreibung"
-      }
-    ]
-  },
-  {
-    "id": "f4323972-5bf6-498c-a492-97b357cbe68c",
-    "en": [
-      {
-        "word": "Honorary Doctoral Degree"
-      }
-    ],
-    "de": [
-      {
-        "word": "Ehrenpromotion"
-      }
-    ]
-  },
-  {
-    "id": "5eae3d2a-cf07-496c-b4fa-40f5cd9747d8",
-    "en": [
-      {
-        "word": "oral defence"
-      }
-    ],
-    "de": [
-      {
-        "word": "Disputation"
-      }
-    ]
-  },
-  {
-    "id": "59398224-39a5-473a-9dcc-389e8b0bd3e2",
-    "en": [
-      {
-        "word": "Board of Directors"
-      }
-    ],
-    "de": [
-      {
-        "word": "Direktorium",
-        "comment": "Kontext: PLAZ"
-      }
-    ]
-  },
-  {
-    "id": "6ec601c2-5a16-436a-a62e-f9382c7835b2",
-    "en": [
-      {
-        "word": "Campus Management"
-      }
-    ],
-    "de": [
-      {
-        "word": "Campusmanagement"
-      }
-    ]
-  },
-  {
-    "id": "5645f55e-9a96-44c6-beb3-742b0e6cc90b",
-    "en": [
-      {
-        "word": "supervision agreement"
-      }
-    ],
-    "de": [
-      {
-        "word": "Betreuungsvereinbarung"
-      }
-    ]
-  },
-  {
-    "id": "51910b20-0345-403e-bcf4-84e043dc40b4",
-    "en": [
-      {
-        "word": "Main Event Management"
-      }
-    ],
-    "de": [
-      {
-        "word": "Zentrales Veranstaltungsmanagement"
-      }
-    ]
-  },
-  {
-    "id": "dc684181-9f28-4fdf-b2d6-733c37467ef6",
-    "en": [
-      {
-        "word": "Studierendengewinnungsstrategie 2026"
-      }
-    ],
-    "de": [
-      {
-        "word": "Studierendengewinnungsstrategie 2026"
-      }
-    ]
-  },
-  {
-    "id": "959822f0-47fa-45b0-b13d-d0a55959c26b",
-    "en": [
-      {
-        "word": "Assistance to Academic Bodies and Academic Affairs Unit"
-      }
-    ],
-    "de": [
-      {
-        "word": "Sachgebiet Gremienbetreuung und akademische Angelegenheiten"
-      }
-    ]
-  },
-  {
-    "id": "612831b6-45e9-4ad0-9c94-5af0fb721750",
-    "en": [
-      {
-        "word": "1,250th anniversary of the City of Paderborn"
-      }
-    ],
-    "de": [
-      {
-        "word": "1250-jähriges Stadtjubiläums der Stadt Paderborn"
-      }
-    ]
-  },
-  {
-    "id": "f3a80c8f-045a-40ee-8a1b-acbe22708c4a",
-    "en": [
-      {
-        "word": "(front row, from left to right)"
-      }
-    ],
-    "de": [
-      {
-        "word": "(v. v. l.)"
-      }
-    ]
-  },
-  {
-    "id": "2a0ad1e3-407c-4caa-aaa5-781ab3dd188f",
-    "en": [
-      {
-        "word": "Prof."
-      }
-    ],
-    "de": [
-      {
-        "word": "Prof."
-      }
-    ]
-  },
-  {
-    "id": "1ab34771-ef21-4ab6-b513-bab274eb9c7b",
-    "en": [
-      {
-        "word": "Higher Education Development Office"
-      }
-    ],
-    "de": [
-      {
-        "word": "Stabsstelle Bildungsinnovation und Hochschuldidaktik"
-      }
-    ]
-  },
-  {
-    "id": "86b7ad3a-ac5f-4fcd-93e3-559345499908",
-    "en": [
-      {
-        "word": "Federal State"
-      }
-    ],
-    "de": [
-      {
-        "word": "Bundesland"
-      }
-    ]
-  },
-  {
-    "id": "fa7e183a-0a0f-4897-a3a5-9527e3c00827",
-    "en": [
-      {
-        "word": "Federal Ministry of Agriculture, Food and Regional Identity (BMLEH)"
-      }
-    ],
-    "de": [
-      {
-        "word": "Bundesministerium für Landwirtschaft, Ernährung und Heimat (BMLEH)"
-      }
-    ]
-  },
-  {
-    "id": "11e96b36-dadb-4dfb-abe3-533e46898329",
-    "en": [
-      {
-        "word": "Landesnachwuchspreis Sportwissenschaft NRW (state award for early-career researchers in sports science)"
-      }
-    ],
-    "de": [
-      {
-        "word": "Landesnachwuchspreis Sportwissenschaft Nordrhein-Westfalen (NRW)"
-      }
-    ]
-  },
-  {
-    "id": "9178d042-6dfd-4f57-a290-31832c768abb",
-    "en": [
-      {
-        "word": "State Prize for Sports Science of North Rhine-Westphalia"
-      }
-    ],
-    "de": [
-      {
-        "word": "Landespreis Sportwissenschaft Nordrhein-Westfalen"
-      }
-    ]
-  },
-  {
-    "id": "21c12ade-c914-42f7-a610-7306ee8513ce",
-    "en": [
-      {
-        "word": "Staatssekretärin für Sport und Ehrenamt (state secretary for sport and civic engagement)"
-      }
-    ],
-    "de": [
-      {
-        "word": "Staatssekretärin für Sport und Ehrenamt"
-      }
-    ]
-  },
-  {
-    "id": "9be3c141-f9d3-4172-8863-b411f8420658",
-    "en": [
-      {
-        "word": "(second from the left)"
-      }
-    ],
-    "de": [
-      {
-        "word": "(2. v. l.)"
-      }
-    ]
-  },
-  {
-    "id": "57b1f9e7-b48d-4cf0-89b4-097e32f2c48d",
-    "en": [
-      {
-        "word": "Teaching Innovation Exchange"
-      }
-    ],
-    "de": [
-      {
-        "word": "Transferbörse für Lehrinnovationen"
-      }
-    ]
-  },
-  {
-    "id": "eb31933e-58d6-4ef2-916c-e4609174b633",
-    "en": [
-      {
-        "word": "cyber security"
-      }
-    ],
-    "de": [
-      {
-        "word": "Cybersicherheit"
-      }
-    ]
-  },
-  {
-    "id": "d75a403e-8695-4713-8c65-eb5af2ce5538",
-    "en": [
-      {
-        "word": "Innovation Airport PAD"
-      }
-    ],
-    "de": [
-      {
-        "word": "Innovationsflughafen PAD"
-      }
-    ]
-  },
-  {
-    "id": "0c440795-9e56-44c6-abaa-2457eb334fb4",
-    "en": [
-      {
-        "word": "(from left to right)"
-      }
-    ],
-    "de": [
-      {
-        "word": "(v.l.)"
-      }
-    ]
   },
   {
     "id": "6d017ae5-3615-4f82-8e8d-7f600a3559b7",
@@ -1979,33 +32,46 @@
         "word": "Doktorarbeit",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "13.4.2026, 12:50:34",
+    "hide": false
   },
   {
     "id": "d9147a5a-1f0f-4823-865b-cdb334b91700",
     "en": [
       {
-        "word": "subject areas"
+        "word": "Fachgebiete",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Fachgebiete"
+        "word": "subject areas",
+        "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "13.4.2026, 12:50:33",
+    "hide": false
   },
   {
     "id": "98a021ea-c39f-4e1f-a106-2f9a4ba59380",
     "en": [
       {
-        "word": "projects"
+        "word": "Projekte",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Projekte"
+        "word": "projects",
+        "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "13.4.2026, 12:50:32",
+    "hide": false
   },
   {
     "id": "439bf59f-3160-43ab-9fcf-da95d7f3e256",
@@ -2020,7 +86,10 @@
         "word": "Hochschulrat",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:01:59",
+    "hide": false
   },
   {
     "id": "4193761d-79d5-48e3-a510-dc433bde8cf3",
@@ -2056,12 +125,13 @@
     "id": "a6888292-62fb-4380-88e8-f3c971d462c5",
     "en": [
       {
-        "word": "front office"
+        "word": "front office (of xyz)",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Vorzimmer",
+        "word": "Vorzimmer (von xyz)",
         "comment": "Kontext: Präsidium"
       }
     ]
@@ -2070,56 +140,74 @@
     "id": "6a26615b-2bc2-44b0-bd5f-7fc930bb190a",
     "en": [
       {
-        "word": "Vice-President for Transfer and Sustainability"
+        "word": "Vice-President for Transfer and Sustainability",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Vizepräsident für Transfer und Nachhaltigkeit"
+        "word": "Vizepräsident für Transfer und Nachhaltigkeit",
+        "comment": ""
       },
       {
-        "word": "Vizepräsidentin für Transfer und Nachhaltigkeit"
+        "word": "Vizepräsidentin für Transfer und Nachhaltigkeit",
+        "comment": ""
       },
       {
-        "word": "Vizepräsident*in für Transfer und Nachhaltigkeit"
+        "word": "Vizepräsident*in für Transfer und Nachhaltigkeit",
+        "comment": ""
       }
-    ]
+    ],
+    "hide": false,
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:01:57"
   },
   {
     "id": "980b8945-2d1d-42bc-872b-b5f62449f229",
     "en": [
       {
-        "word": "Vice-President for Teaching, Studies and Quality Management"
+        "word": "Vice-President for Teaching, Studies and Quality Management",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Vizepräsident für Lehre, Studium und Qualitätsmanagement"
+        "word": "Vizepräsident für Lehre, Studium und Qualitätsmanagement",
+        "comment": ""
       },
       {
-        "word": "Vizepräsidentin für Lehre, Studium und Qualitätsmanagement"
+        "word": "Vizepräsidentin für Lehre, Studium und Qualitätsmanagement",
+        "comment": ""
       },
       {
-        "word": "Vizepräsident*in für Lehre, Studium und Qualitätsmanagement"
+        "word": "Vizepräsident*in für Lehre, Studium und Qualitätsmanagement",
+        "comment": ""
       }
-    ]
+    ],
+    "hide": false,
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:01:56"
   },
   {
     "id": "a538fc18-3044-4537-a91b-0ebf066356f0",
     "en": [
       {
-        "word": "Vice-President for Research and Academic Careers"
+        "word": "Vice-President for Research and Academic Careers",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Vizepräsident für Forschung und Akademische Karrierewege"
+        "word": "Vizepräsident für Forschung und Akademische Karrierewege",
+        "comment": ""
       },
       {
-        "word": "Vizepräsidentin für Forschung und Akademische Karrierewege"
+        "word": "Vizepräsidentin für Forschung und Akademische Karrierewege",
+        "comment": ""
       },
       {
-        "word": "Vizepräsident*in für Forschung und Akademische Karrierewege"
+        "word": "Vizepräsident*in für Forschung und Akademische Karrierewege",
+        "comment": ""
       }
     ]
   },
@@ -2394,12 +482,14 @@
     "id": "86e43476-5a7b-49cf-bdda-73ce5fd280a6",
     "en": [
       {
-        "word": "Head of Unit"
+        "word": "head of unit",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Sachgebietsleitung"
+        "word": "Sachgebietsleitung",
+        "comment": ""
       }
     ]
   },
@@ -2552,7 +642,9 @@
         "word": "Prüfungsart",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 15:24:18"
   },
   {
     "id": "07bb5572-1c0d-4849-b2b4-fad1a2faa126",
@@ -2773,22 +865,14 @@
     "id": "677325e2-bb86-4f43-baa5-bf4a1c7c47c5",
     "en": [
       {
-        "word": "Class Manager"
+        "word": "class manager",
+        "comment": ""
       }
     ],
     "de": [
       {
         "word": "Lehrveranstaltungsmanager",
-        "comment": "Kontext: Campusmanagementsystem PAUL",
-        "gender": "m"
-      },
-      {
-        "word": "Lehveranstaltungsmanager*in",
-        "gender": "f"
-      },
-      {
-        "word": "Lehrveranstaltungsmanager*in",
-        "gender": "n"
+        "comment": "Kontext: Campusmanagementsystem PAUL"
       }
     ]
   },
@@ -2856,12 +940,14 @@
     "id": "2ff3058c-80ac-4016-8d71-688f42641276",
     "en": [
       {
-        "word": "Committee for Teaching, Studies and Quality Management (SK)"
+        "word": "Studies and Quality Management (SK)",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Kommission für Lehre, Studium und Qualitätsmanagement (SK)"
+        "word": "Kommission für Lehre, Studium und Qualitätsmanagement (SK)",
+        "comment": ""
       }
     ]
   },
@@ -3009,18 +1095,22 @@
     "id": "dde6e88f-9f8a-44df-86c6-edf2b4e5d453",
     "en": [
       {
-        "word": "Head of Section"
+        "word": "head of section",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Dezernent"
+        "word": "Dezernent",
+        "comment": ""
       },
       {
-        "word": "Dezernentin"
+        "word": "Dezernentin",
+        "comment": ""
       },
       {
-        "word": "Dezernent*in"
+        "word": "Dezernent*in",
+        "comment": ""
       }
     ]
   },
@@ -3310,18 +1400,22 @@
     "id": "2ef08b59-4c74-43a6-9638-1396c65dbb39",
     "en": [
       {
-        "word": "former rector"
+        "word": "former rector",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Altrektor"
+        "word": "Altrektor",
+        "comment": ""
       },
       {
-        "word": "Altrektorin"
+        "word": "Altrektor",
+        "comment": ""
       },
       {
-        "word": "Altrektor*in"
+        "word": "Altrektor*in",
+        "comment": ""
       }
     ]
   },
@@ -3344,12 +1438,38 @@
     "id": "bc873656-6a58-4b5f-9269-df0f2be6c882",
     "en": [
       {
-        "word": "alumnus"
+        "word": "alumnus",
+        "comment": ""
+      },
+      {
+        "word": "alumna",
+        "comment": ""
+      },
+      {
+        "word": "alum",
+        "comment": ""
+      },
+      {
+        "word": "alumni",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Alumnus"
+        "word": "Alumnus",
+        "comment": ""
+      },
+      {
+        "word": "Alumna",
+        "comment": ""
+      },
+      {
+        "word": "Alum",
+        "comment": ""
+      },
+      {
+        "word": "Alumni",
+        "comment": ""
       }
     ]
   },
@@ -4053,6 +2173,21 @@
     ]
   },
   {
+    "id": "6c76e54a-c1c4-487c-95f1-92990df8ef43",
+    "en": [
+      {
+        "word": "supervision agreement",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Betreuungsvereinbarung",
+        "comment": ""
+      }
+    ]
+  },
+  {
     "id": "aee7260e-34bc-44e8-bc68-210a8c0856bc",
     "en": [
       {
@@ -4328,13 +2463,14 @@
     "id": "d28cd7b3-1320-4c96-bf4d-faeb0fb284fe",
     "en": [
       {
-        "word": "Dean's Office",
+        "word": "dean's office",
         "comment": "groß, wenn ein bestimmtes Dekanat innerhalb der UPB gemeint ist"
       }
     ],
     "de": [
       {
-        "word": "Dekanat"
+        "word": "Dekanat",
+        "comment": ""
       }
     ]
   },
@@ -4387,15 +2523,14 @@
     "id": "777077bf-1d8a-4932-bbc3-74b09c4871d9",
     "en": [
       {
-        "word": "German Research Foundation (DFG)"
+        "word": "German Research Foundation (DFG)",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Deutsche Forschungsgemeinschaft (DFG)"
-      },
-      {
-        "word": "Deutsche Forschungsgemeinschaft"
+        "word": "Deutsche Forschungsgemeinschaft (DFG)",
+        "comment": ""
       }
     ]
   },
@@ -4403,17 +2538,18 @@
     "id": "fc8b7fdb-2143-4ae0-b488-c8ff605cc410",
     "en": [
       {
-        "word": "German Academic Exchange Service (DAAD)"
+        "word": "German Academic Exchange Service (DAAD)",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Deutscher Akademischer Austauschdienst (DAAD)"
-      },
-      {
-        "word": "Deutscher Akademischer Austauschdienst"
+        "word": "Deutscher Akademischer Austauschdienst (DAAD)",
+        "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 15:17:48"
   },
   {
     "id": "00eb7921-61ea-48d6-9444-0ebacae19c95",
@@ -4425,10 +2561,8 @@
     ],
     "de": [
       {
-        "word": "Deutsches Studierendenwerk (DSW)"
-      },
-      {
-        "word": "Deutsches Studierendenwerk"
+        "word": "Deutsches Studierendenwerk (DSW)",
+        "comment": ""
       }
     ]
   },
@@ -5059,10 +3193,8 @@
     ],
     "de": [
       {
-        "word": "fachgebundene Hochschulreife (fgHR)"
-      },
-      {
-        "word": "fachgebundene Hochschulreife"
+        "word": "fachgebundene Hochschulreife (fgHR)",
+        "comment": ""
       }
     ]
   },
@@ -5360,7 +3492,9 @@
         "word": "Förderprogramm",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:33:52"
   },
   {
     "id": "5f88a6ae-0052-4079-aeef-8c46cff565bc",
@@ -5510,15 +3644,14 @@
     "id": "7db3a378-9a42-431e-b5e3-48ca02078407",
     "en": [
       {
-        "word": "research data management (RDM)"
+        "word": "research data management (RDM)",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Forschungsdatenmanagement (FDM)"
-      },
-      {
-        "word": "Forschungsdatenmanagement"
+        "word": "Forschungsdatenmanagement (FDM)",
+        "comment": ""
       }
     ]
   },
@@ -5914,7 +4047,7 @@
     "en": [
       {
         "word": "start-ups and entrepreneurship",
-        "comment": "ggf. auch nur start-ups\nBitte nicht im Zusammenhang mit \"garage 33\" verwenden"
+        "comment": ""
       }
     ],
     "de": [
@@ -6147,15 +4280,14 @@
     "id": "49b8b19a-a60e-4a5b-886e-8855771498ff",
     "en": [
       {
-        "word": "higher education act"
+        "word": "higher education act",
+        "comment": "Hochsschulgesetz, HG"
       }
     ],
     "de": [
       {
-        "word": "Hochschulgesetz (HG)"
-      },
-      {
-        "word": "Hochschulgesetz"
+        "word": "Hochschulgesetz (HG)",
+        "comment": ""
       }
     ]
   },
@@ -6220,15 +4352,14 @@
     "id": "40229f55-b7c3-4c71-9cec-02ece5cef1a1",
     "en": [
       {
-        "word": "German Rectors' Conference (HRK)"
+        "word": "German Rectors' Conference (HRK)",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Hochschulrektorenkonferenz (HRK)"
-      },
-      {
-        "word": "Hochschulrektorenkonferenz"
+        "word": "Hochschulrektorenkonferenz (HRK)",
+        "comment": ""
       }
     ]
   },
@@ -6592,7 +4723,9 @@
         "word": "Internationalität",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:34:35"
   },
   {
     "id": "0bb8c466-c638-4438-9da8-d452aff10745",
@@ -6620,6 +4753,21 @@
     "de": [
       {
         "word": "Jenny-Aloni-Archiv",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "2c7ccced-157d-4723-b97e-51b64e299b24",
+    "en": [
+      {
+        "word": "youth and trainee representatives (JAV)",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Jugend- und Auszubildendenvertretung (JAV)",
         "comment": ""
       }
     ]
@@ -6832,15 +4980,30 @@
     "id": "9f5fada3-41d6-4873-bc57-7ef22c83896d",
     "en": [
       {
-        "word": "university profile"
+        "word": "university profile",
+        "comment": ""
+      },
+      {
+        "word": "projects",
+        "comment": ""
+      },
+      {
+        "word": "subject areas",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Kurzporträt"
+        "word": "Kurzporträt/Uni im Profil",
+        "comment": ""
       },
       {
-        "word": "Uni im Profil"
+        "word": "Projekte",
+        "comment": ""
+      },
+      {
+        "word": "Fachgebiete",
+        "comment": ""
       }
     ]
   },
@@ -7107,6 +5270,33 @@
     "de": [
       {
         "word": "Leitbild",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "3091e587-57c6-4413-a484-3acc705708f0",
+    "en": [
+      {
+        "word": "head of (office)",
+        "comment": "groß, wenn als Titel einer Person verwendet"
+      }
+    ],
+    "de": [
+      {
+        "word": "Leiter",
+        "comment": ""
+      },
+      {
+        "word": "Leiterin",
+        "comment": ""
+      },
+      {
+        "word": "Leiter*in",
+        "comment": ""
+      },
+      {
+        "word": "Leitung (einer Stabsstelle)",
         "comment": ""
       }
     ]
@@ -8042,7 +6232,9 @@
         "word": "§",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:35:20"
   },
   {
     "id": "e3d05697-66f5-4765-988c-f125c208d774",
@@ -8061,7 +6253,9 @@
         "word": "Partnerhochschule",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:35:52"
   },
   {
     "id": "30e41be0-6321-43db-a84f-3135ab5bafc1",
@@ -8481,7 +6675,9 @@
         "word": "Profilmanager",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:36:31"
   },
   {
     "id": "fcaa9ae1-e155-415d-9b92-c695bb71be8a",
@@ -8993,13 +7189,13 @@
     "en": [
       {
         "word": "re-registration",
-        "comment": "Use re-registration in the context of enrollment/registration."
+        "comment": ""
       }
     ],
     "de": [
       {
         "word": "Rückmeldung",
-        "comment": "Verwende Rückmeldung im Kontext von Einschreibung/Immatrikulation"
+        "comment": ""
       }
     ]
   },
@@ -9385,7 +7581,9 @@
         "word": "Spitzenforschung",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:37:11"
   },
   {
     "id": "6efb0bfd-6602-4793-aef4-fb1103401201",
@@ -9422,18 +7620,21 @@
     "en": [
       {
         "word": "spokesperson",
-        "comment": "Großschreiben, falls es sich direkt auf die Rolle einer bestimmten Person bezieht."
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Sprecher"
+        "word": "Sprecher",
+        "comment": ""
       },
       {
-        "word": "Sprecherin"
+        "word": "Sprecherin",
+        "comment": ""
       },
       {
-        "word": "Sprecher*in"
+        "word": "Sprecher*in",
+        "comment": ""
       }
     ]
   },
@@ -9796,12 +7997,14 @@
     "id": "d83d5bb1-8f82-42eb-8935-c7c60902df66",
     "en": [
       {
-        "word": "academic advisory office"
+        "word": "Academic Advisory Office",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Studienbüro"
+        "word": "Studienbüro",
+        "comment": ""
       }
     ]
   },
@@ -9809,19 +8012,22 @@
     "id": "85835273-7bf6-4fff-ab9b-a24a00b70920",
     "en": [
       {
-        "word": "Dean of Studies",
-        "comment": "groß, wenn als Titel einer Person verwendet, klein wenn es sich nicht direkt auf diese Person bezieht."
+        "word": "dean of studies",
+        "comment": "groß, wenn als Titel einer Person verwendet"
       }
     ],
     "de": [
       {
-        "word": "Studiendekan"
+        "word": "Studiendekan",
+        "comment": ""
       },
       {
-        "word": "Studiendekanin"
+        "word": "Studiendekanin",
+        "comment": ""
       },
       {
-        "word": "Studiendekan*in"
+        "word": "Studiendekan*in",
+        "comment": ""
       }
     ]
   },
@@ -10082,20 +8288,34 @@
     "id": "60b6314f-49bf-4142-b3d5-cfd1f3e600b1",
     "en": [
       {
-        "word": "technical employee"
+        "word": "technical employee",
+        "comment": ""
+      },
+      {
+        "word": "technical staff",
+        "comment": ""
+      },
+      {
+        "word": "technical staff member",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "technischer Mitarbeiter"
+        "word": "technischer Mitarbeiter",
+        "comment": ""
       },
       {
-        "word": "technische Mitarbeiterin"
+        "word": "technische Mitarbeiterin",
+        "comment": ""
       },
       {
-        "word": "technische*r Mitarbeiter*in"
+        "word": "technische*r Mitarbeiter*in",
+        "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:38:01"
   },
   {
     "id": "4e06c328-9e16-493c-9f98-495a80a47832",
@@ -10356,12 +8576,14 @@
     "id": "083c3e71-f810-4d0b-ab31-298501354346",
     "en": [
       {
-        "word": "Paderborn University"
+        "word": "Paderborn University",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Universität Paderborn"
+        "word": "Universität Paderborn",
+        "comment": ""
       }
     ]
   },
@@ -10716,13 +8938,16 @@
     ],
     "de": [
       {
-        "word": "Vizepräsident"
+        "word": "Vizepräsident",
+        "comment": ""
       },
       {
-        "word": "Vizepräsidentin"
+        "word": "Vizepräsidentin",
+        "comment": ""
       },
       {
-        "word": "Vizepräsident*in"
+        "word": "Vizepräsident*in",
+        "comment": ""
       }
     ]
   },
@@ -10730,18 +8955,22 @@
     "id": "ec64ed52-2a4a-4c3a-b5a4-2eddc4fb1a1f",
     "en": [
       {
-        "word": "Vice-President for International Relations"
+        "word": "Vice-President for International Relations",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Vizepräsident für Internationale Beziehungen"
+        "word": "Vizepräsident",
+        "comment": ""
       },
       {
-        "word": "Vizepräsidentin für Internationale Beziehungen"
+        "word": "Vizepräsidentin",
+        "comment": ""
       },
       {
-        "word": "Vizepräsident*in für Internationale Beziehungen"
+        "word": "Vizepräsident*in für Internationale Beziehungen",
+        "comment": ""
       }
     ]
   },
@@ -10749,18 +8978,22 @@
     "id": "40af6b04-4ea1-4465-a534-8d1ea00dc9cf",
     "en": [
       {
-        "word": "Vice-President for Finances and Human Resources"
+        "word": "Vice-President for Finances and Human Resources",
+        "comment": ""
       }
     ],
     "de": [
       {
-        "word": "Vizepräsident für Wirtschafts- und Personalverwaltung"
+        "word": "Vizepräsident",
+        "comment": ""
       },
       {
-        "word": "Vizepräsidentin für Wirtschafts- und Personalverwaltung"
+        "word": "Vizepräsidentin",
+        "comment": ""
       },
       {
-        "word": "Vizepräsident*in für Wirtschafts- und Personalverwaltung"
+        "word": "Vizepräsident*in für Wirtschafts- und Personalverwaltung",
+        "comment": ""
       }
     ]
   },
@@ -10823,6 +9056,39 @@
         "comment": ""
       }
     ]
+  },
+  {
+    "id": "d56fc92c-9c29-4f6b-9a0c-cf3dbbe5281f",
+    "en": [
+      {
+        "word": "chairperson",
+        "comment": "je nach Kontext"
+      },
+      {
+        "word": "head of",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Vorsitzender",
+        "comment": ""
+      },
+      {
+        "word": "Vorsitzende",
+        "comment": ""
+      },
+      {
+        "word": "Vorsitz",
+        "comment": ""
+      },
+      {
+        "word": "Vorsitzende*r",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:39:04"
   },
   {
     "id": "5067b808-a8dd-45c8-8295-0b11b086bdba",
@@ -11219,7 +9485,9 @@
         "word": "wissenschaftliche Hilfskraft mit Bachelorabschluss (WHB)",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 15:19:19"
   },
   {
     "id": "941c976d-363e-4f3e-871b-fb912e4eb093",

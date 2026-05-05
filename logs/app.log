@@ -463,3 +463,9 @@
 2026-05-05 13:15:04 [INFO]: 📚 User soumitri fetched glossary
 2026-05-05 13:15:16 [WARN]: ⚠️ Duplicate glossary word rejected for soumitri: [{"type":"existing-entry","lang":"de","word":"test1","existingEntryId":"646d97f7-a049-4960-b5b7-4f28e029dbca","existingWord":"test1"}]
 2026-05-05 13:15:21 [WARN]: ⚠️ Duplicate glossary word rejected for soumitri: [{"type":"existing-entry","lang":"de","word":"test1","existingEntryId":"646d97f7-a049-4960-b5b7-4f28e029dbca","existingWord":"test1"}]
+2026-05-05 13:31:42 [INFO]: 🚀 Server running at http://localhost:3001
+2026-05-05 13:31:45 [INFO]: ✅ MongoDB connected
+2026-05-05 13:31:57 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:36:02 [INFO]: 🚀 Server running at http://localhost:3001
+2026-05-05 13:36:03 [INFO]: ✅ MongoDB connected
+2026-05-05 13:36:13 [INFO]: 📚 User soumitri fetched glossary

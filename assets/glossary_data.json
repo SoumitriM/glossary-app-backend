@@ -1,5 +1,97 @@
 [
   {
+    "id": "646d97f7-a049-4960-b5b7-4f28e029dbca",
+    "en": [
+      {
+        "word": "test2"
+      }
+    ],
+    "de": [
+      {
+        "word": "test1"
+      }
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:11:40",
+    "hide": false
+  },
+  {
+    "id": "6d017ae5-3615-4f82-8e8d-7f600a3559b7",
+    "en": [
+      {
+        "word": "doctoral dissertation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dissertation",
+        "comment": ""
+      },
+      {
+        "word": "Doktorarbeit",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "13.4.2026, 12:50:34",
+    "hide": false
+  },
+  {
+    "id": "d9147a5a-1f0f-4823-865b-cdb334b91700",
+    "en": [
+      {
+        "word": "Fachgebiete",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "subject areas",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "13.4.2026, 12:50:33",
+    "hide": false
+  },
+  {
+    "id": "98a021ea-c39f-4e1f-a106-2f9a4ba59380",
+    "en": [
+      {
+        "word": "Projekte",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "projects",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "13.4.2026, 12:50:32",
+    "hide": false
+  },
+  {
+    "id": "439bf59f-3160-43ab-9fcf-da95d7f3e256",
+    "en": [
+      {
+        "word": "University Council",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulrat",
+        "comment": ""
+      }
+    ],
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:01:59",
+    "hide": false
+  },
+  {
     "id": "4193761d-79d5-48e3-a510-dc433bde8cf3",
     "en": [
       {
@@ -65,7 +157,10 @@
         "word": "Vizepräsident*in für Transfer und Nachhaltigkeit",
         "comment": ""
       }
-    ]
+    ],
+    "hide": false,
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:01:57"
   },
   {
     "id": "980b8945-2d1d-42bc-872b-b5f62449f229",
@@ -88,7 +183,10 @@
         "word": "Vizepräsident*in für Lehre, Studium und Qualitätsmanagement",
         "comment": ""
       }
-    ]
+    ],
+    "hide": false,
+    "lastModifiedBy": "soumitri",
+    "lastModifiedAt": "5.5.2026, 13:01:56"
   },
   {
     "id": "a538fc18-3044-4537-a91b-0ebf066356f0",
@@ -531,7 +629,11 @@
     "id": "c66519b6-73e9-4d9a-a2d9-f5750412bb4a",
     "en": [
       {
-        "word": "examination type/type of examination",
+        "word": "examination type",
+        "comment": ""
+      },
+      {
+        "word": "type of examination",
         "comment": ""
       }
     ],
@@ -540,7 +642,9 @@
         "word": "Prüfungsart",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 15:24:18"
   },
   {
     "id": "07bb5572-1c0d-4849-b2b4-fad1a2faa126",
@@ -2440,10 +2544,12 @@
     ],
     "de": [
       {
-        "word": "Deutscher Akademische Austauschdienst (DAAD)",
+        "word": "Deutscher Akademischer Austauschdienst (DAAD)",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 15:17:48"
   },
   {
     "id": "00eb7921-61ea-48d6-9444-0ebacae19c95",
@@ -3373,8 +3479,12 @@
     "id": "fecf5094-fb4f-46d6-ac95-0beef8506aa7",
     "en": [
       {
-        "word": "funding/grant programme",
+        "word": "funding",
         "comment": "je nach Kontext"
+      },
+      {
+        "word": "grant programme",
+        "comment": ""
       }
     ],
     "de": [
@@ -3382,7 +3492,9 @@
         "word": "Förderprogramm",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:33:52"
   },
   {
     "id": "5f88a6ae-0052-4079-aeef-8c46cff565bc",
@@ -4598,8 +4710,12 @@
         "comment": ""
       },
       {
-        "word": "international orientation/outlook",
+        "word": "international",
         "comment": "synonym"
+      },
+      {
+        "word": "international outlook",
+        "comment": ""
       }
     ],
     "de": [
@@ -4607,7 +4723,9 @@
         "word": "Internationalität",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:34:35"
   },
   {
     "id": "0bb8c466-c638-4438-9da8-d452aff10745",
@@ -6107,17 +6225,27 @@
     ],
     "de": [
       {
-        "word": "Paragraph/§",
+        "word": "Paragraph",
+        "comment": ""
+      },
+      {
+        "word": "§",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:35:20"
   },
   {
     "id": "e3d05697-66f5-4765-988c-f125c208d774",
     "en": [
       {
-        "word": "partner university/institution",
+        "word": "partner university",
         "comment": "je nach Kontext"
+      },
+      {
+        "word": "partner intitution",
+        "comment": ""
       }
     ],
     "de": [
@@ -6125,7 +6253,9 @@
         "word": "Partnerhochschule",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:35:52"
   },
   {
     "id": "30e41be0-6321-43db-a84f-3135ab5bafc1",
@@ -6538,10 +6668,16 @@
     ],
     "de": [
       {
-        "word": "Profil-/Personenmanager",
+        "word": "Personenmanager",
+        "comment": ""
+      },
+      {
+        "word": "Profilmanager",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:36:31"
   },
   {
     "id": "fcaa9ae1-e155-415d-9b92-c695bb71be8a",
@@ -7432,8 +7568,12 @@
     "id": "57706316-5cb1-47f9-b160-25b76c8bff87",
     "en": [
       {
-        "word": "cutting-edge/top-level research",
+        "word": "cutting-edge research",
         "comment": "synonym"
+      },
+      {
+        "word": "top-level research",
+        "comment": ""
       }
     ],
     "de": [
@@ -7441,7 +7581,9 @@
         "word": "Spitzenforschung",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:37:11"
   },
   {
     "id": "6efb0bfd-6602-4793-aef4-fb1103401201",
@@ -8146,7 +8288,15 @@
     "id": "60b6314f-49bf-4142-b3d5-cfd1f3e600b1",
     "en": [
       {
-        "word": "technical employee/staff (member)",
+        "word": "technical employee",
+        "comment": ""
+      },
+      {
+        "word": "technical staff",
+        "comment": ""
+      },
+      {
+        "word": "technical staff member",
         "comment": ""
       }
     ],
@@ -8163,7 +8313,9 @@
         "word": "technische*r Mitarbeiter*in",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:38:01"
   },
   {
     "id": "4e06c328-9e16-493c-9f98-495a80a47832",
@@ -8909,8 +9061,12 @@
     "id": "d56fc92c-9c29-4f6b-9a0c-cf3dbbe5281f",
     "en": [
       {
-        "word": "chairperson/head of",
+        "word": "chairperson",
         "comment": "je nach Kontext"
+      },
+      {
+        "word": "head of",
+        "comment": ""
       }
     ],
     "de": [
@@ -8930,7 +9086,9 @@
         "word": "Vorsitzende*r",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 10:39:04"
   },
   {
     "id": "5067b808-a8dd-45c8-8295-0b11b086bdba",
@@ -9314,7 +9472,11 @@
     "id": "ae8517aa-07bd-4c39-a017-4b47653387b0",
     "en": [
       {
-        "word": "research/graduate assistant with a bachelor's degree",
+        "word": "research assistant with a bachelor's degree",
+        "comment": ""
+      },
+      {
+        "word": "graduate assistant with a bachelor's degree",
         "comment": ""
       }
     ],
@@ -9323,7 +9485,9 @@
         "word": "wissenschaftliche Hilfskraft mit Bachelorabschluss (WHB)",
         "comment": ""
       }
-    ]
+    ],
+    "lastModifiedBy": "Katrin_R",
+    "lastModifiedAt": "28.11.2025, 15:19:19"
   },
   {
     "id": "941c976d-363e-4f3e-871b-fb912e4eb093",

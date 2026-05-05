@@ -9,3 +9,457 @@
 2025-11-16 13:10:21 [INFO]: 📚 User soumitri12 fetched glossary
 2025-11-16 13:11:27 [INFO]: 📚 User soumitri12 fetched glossary
 2025-11-16 13:11:56 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-16 17:49:12 [INFO]: 🚀 Server running at http://localhost:3002
+2025-11-16 17:49:12 [INFO]: ✅ MongoDB connected
+2025-11-16 17:51:46 [INFO]: 🔐 User logged in: soumitri12
+2025-11-16 17:51:47 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-16 17:51:50 [INFO]: 🔍 Search query: "pa" by soumitri12
+2025-11-16 17:51:52 [INFO]: 🔍 Search query: "par" by soumitri12
+2025-11-16 17:51:53 [INFO]: 🔍 Search query: "parti" by soumitri12
+2025-11-16 17:51:54 [INFO]: 🔍 Search query: "partic" by soumitri12
+2025-11-16 17:51:56 [INFO]: 🔐 User logged in: soumitri12
+2025-11-16 17:51:56 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-16 17:56:11 [WARN]: ⚠️ Username already exists: soumitri123
+2025-11-16 17:56:15 [WARN]: ⚠️ Username already exists: soumitri1234
+2025-11-16 17:56:18 [INFO]: 👤 User registered: soumitri12345
+2025-11-16 17:59:53 [INFO]: 👤 User registered: sotri12
+2025-11-16 18:01:33 [INFO]: 👤 User registered: soumitri12wwww
+2025-11-16 18:01:37 [INFO]: 🔐 User logged in: soumitri12wwww
+2025-11-16 18:01:38 [INFO]: 📚 User soumitri12wwww fetched glossary
+2025-11-16 18:01:44 [WARN]: ⚠️ Login failed: user not found - qsoumitri12
+2025-11-16 18:01:50 [INFO]: 👤 User registered: qsoumitri12
+2025-11-16 18:01:53 [INFO]: 🔐 User logged in: qsoumitri12
+2025-11-16 18:01:53 [INFO]: 📚 User qsoumitri12 fetched glossary
+2025-11-16 18:12:27 [INFO]: 📚 User testUser12 fetched glossary
+2025-11-16 18:12:32 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:12:36 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:12:39 [INFO]: 👤 User registered: testUser1
+2025-11-16 18:12:41 [INFO]: 🔐 User logged in: testUser1
+2025-11-16 18:12:41 [INFO]: 📚 User testUser1 fetched glossary
+2025-11-16 18:12:58 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:13:04 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:13:17 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:19:33 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:19:39 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:19:40 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:23:15 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:23:18 [WARN]: ⚠️ Login failed: user not found - testUser12
+2025-11-16 18:23:27 [WARN]: ⚠️ Login failed: user not found - testUser12
+2025-11-16 18:23:34 [WARN]: ⚠️ Login failed: user not found - testUser12
+2025-11-16 18:23:39 [INFO]: 👤 User registered: testUser122
+2025-11-16 18:23:44 [INFO]: 🔐 User logged in: testUser122
+2025-11-16 18:23:45 [INFO]: 📚 User testUser122 fetched glossary
+2025-11-16 18:23:52 [INFO]: 🔐 User logged in: testUser122
+2025-11-16 18:23:53 [INFO]: 📚 User testUser122 fetched glossary
+2025-11-16 18:23:57 [WARN]: ⚠️ Login failed: user not found - testUser
+2025-11-16 18:24:01 [WARN]: ⚠️ Login failed: user not found - testUser12
+2025-11-16 18:24:05 [WARN]: ⚠️ Login failed: user not found - testUser12
+2025-11-16 18:24:15 [INFO]: 🔐 User logged in: testUser122
+2025-11-16 18:24:16 [INFO]: 📚 User testUser122 fetched glossary
+2025-11-16 18:24:38 [INFO]: 🔍 Search query: "part" by testUser122
+2025-11-16 18:24:39 [INFO]: 🔍 Search query: "parti" by testUser122
+2025-11-16 18:24:41 [INFO]: 🔍 Search query: "participa" by testUser122
+2025-11-16 18:24:42 [INFO]: 🔍 Search query: "particip" by testUser122
+2025-11-16 18:24:43 [INFO]: 🔍 Search query: "partici" by testUser122
+2025-11-16 18:24:44 [INFO]: 📚 User testUser122 fetched glossary
+2025-11-16 18:24:46 [INFO]: 🔍 Search query: "un" by testUser122
+2025-11-16 18:24:47 [INFO]: 🔍 Search query: "union" by testUser122
+2025-11-16 18:24:49 [INFO]: 🔍 Search query: "unio" by testUser122
+2025-11-16 18:24:50 [INFO]: 📚 User testUser122 fetched glossary
+2025-11-16 18:24:56 [INFO]: 📚 User testUser122 fetched glossary
+2025-11-25 12:37:08 [INFO]: 🚀 Server running at http://localhost:3001
+2025-11-25 12:37:08 [INFO]: ✅ MongoDB connected
+2025-11-25 12:41:14 [INFO]: Root endpoint accessed
+2025-11-25 12:41:45 [INFO]: 🚀 Server running at http://localhost:3001
+2025-11-25 12:41:45 [INFO]: ✅ MongoDB connected
+2025-11-25 12:43:00 [WARN]: ⚠️ Login failed: user not found - YOUR_USERNAME
+2025-11-25 12:43:27 [WARN]: ⚠️ Invalid password for user: soumitri
+2025-11-25 12:44:04 [INFO]: 👤 User registered: sou
+2025-11-25 13:30:39 [INFO]: 🔐 User logged in: soumitri12
+2025-11-25 13:30:39 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-25 13:58:09 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-25 13:58:36 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-25 14:17:12 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-26 13:47:17 [INFO]: 🔐 User logged in: soumitri12
+2025-11-26 13:47:18 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-26 14:07:38 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 09:29:00 [INFO]: 🔐 User logged in: soumitri12
+2025-11-27 09:29:01 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 09:39:10 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-11-27 09:39:10 [INFO]: 🟢 Entry created by soumitri12: 419faaae-2b59-45db-83a8-72217212bc7f
+2025-11-27 09:39:10 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 09:39:35 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-11-27 09:39:35 [INFO]: ✏️ Entry updated by soumitri12: 419faaae-2b59-45db-83a8-72217212bc7f
+2025-11-27 09:39:35 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 09:55:50 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 10:38:04 [ERROR]: ❌ Invalid token: jwt expired
+2025-11-27 10:38:04 [WARN]: ⚠️ Missing authorization header
+2025-11-27 10:38:06 [INFO]: 🔐 User logged in: soumitri12
+2025-11-27 10:38:06 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 10:38:11 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-11-27 10:38:11 [INFO]: 🗑️ Entry deleted by soumitri12: 419faaae-2b59-45db-83a8-72217212bc7f
+2025-11-27 10:38:11 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 11:13:32 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 11:13:35 [INFO]: 📚 User soumitri12 fetched glossary
+2025-11-27 11:55:27 [INFO]: 🔐 User logged in: soumitri12
+2025-11-27 11:55:28 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-02 14:30:08 [INFO]: 🔐 User logged in: soumitri12
+2025-12-02 14:30:09 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-02 16:38:31 [INFO]: 🔐 User logged in: soumitri12
+2025-12-02 16:38:31 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-02 16:40:09 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-02 16:40:09 [INFO]: ✏️ Entry updated by soumitri12: 4193761d-79d5-48e3-a510-dc433bde8cf3
+2025-12-02 16:40:10 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:07:33 [INFO]: 🔐 User logged in: soumitri12
+2025-12-06 11:07:33 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:11:02 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:18:38 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:18:42 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:19:24 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:30:40 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:33:11 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:34:04 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:48:47 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 11:48:47 [INFO]: 🟢 Entry created by soumitri12: 0ff7f5a8-589c-4d2a-9b9a-6432fdce49ad
+2025-12-06 11:48:47 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:50:05 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 11:50:05 [INFO]: 🗑️ Entry deleted by soumitri12: 0ff7f5a8-589c-4d2a-9b9a-6432fdce49ad
+2025-12-06 11:50:05 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:50:22 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 11:50:22 [INFO]: 🟢 Entry created by soumitri12: 5ccde78f-2eca-46e8-9300-f52477aa3c0f
+2025-12-06 11:50:23 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:51:56 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 11:51:56 [INFO]: 🟢 Entry created by soumitri12: bea3b416-1c93-40d4-8195-4d8000b12e38
+2025-12-06 11:51:56 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 11:58:50 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 11:58:50 [INFO]: ✏️ Entry updated by soumitri12: bea3b416-1c93-40d4-8195-4d8000b12e38
+2025-12-06 11:58:50 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:04:15 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:19:33 [INFO]: 🔐 User logged in: soumitri12
+2025-12-06 12:19:33 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:21:23 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:21:23 [INFO]: ✏️ Entry updated by soumitri12: bea3b416-1c93-40d4-8195-4d8000b12e38
+2025-12-06 12:21:23 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:21:39 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:21:39 [INFO]: 🧹 3 entries deleted by soumitri12
+2025-12-06 12:21:39 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:22:08 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:22:08 [INFO]: 🟢 Entry created by soumitri12: 8f03c01a-b6e2-4162-83e8-82a74fd8fb27
+2025-12-06 12:22:08 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:22:34 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:22:34 [INFO]: ✏️ Entry updated by soumitri12: 8f03c01a-b6e2-4162-83e8-82a74fd8fb27
+2025-12-06 12:22:34 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:28:19 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:28:29 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:28:29 [INFO]: 🟢 Entry created by soumitri12: 1cffec40-7b96-4349-8f4f-6eefbc1d6b02
+2025-12-06 12:28:29 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:28:53 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:28:53 [INFO]: ✏️ Entry updated by soumitri12: 1cffec40-7b96-4349-8f4f-6eefbc1d6b02
+2025-12-06 12:28:53 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:29:17 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:29:17 [INFO]: ✏️ Entry updated by soumitri12: 1cffec40-7b96-4349-8f4f-6eefbc1d6b02
+2025-12-06 12:29:17 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:30:04 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:30:04 [INFO]: 🟢 Entry created by soumitri12: 8b985e87-faea-49e8-9372-6b63928ca4d0
+2025-12-06 12:30:04 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:31:30 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:31:30 [INFO]: 🟢 Entry created by soumitri12: f71d298c-ff9c-44d0-bdc0-333ce36a17f8
+2025-12-06 12:31:30 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:31:45 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:31:45 [INFO]: ✏️ Entry updated by soumitri12: f71d298c-ff9c-44d0-bdc0-333ce36a17f8
+2025-12-06 12:31:45 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:41:17 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:41:24 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:41:24 [INFO]: 🧹 4 entries deleted by soumitri12
+2025-12-06 12:41:24 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:41:32 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:41:32 [INFO]: 🟢 Entry created by soumitri12: cdaf7f3f-e421-4d0f-80d1-06a0ced47aac
+2025-12-06 12:41:32 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:42:22 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:42:22 [INFO]: ✏️ Entry updated by soumitri12: cdaf7f3f-e421-4d0f-80d1-06a0ced47aac
+2025-12-06 12:42:22 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:47:08 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:47:08 [INFO]: ✏️ Entry updated by soumitri12: cdaf7f3f-e421-4d0f-80d1-06a0ced47aac
+2025-12-06 12:47:08 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:47:17 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:47:17 [INFO]: ✏️ Entry updated by soumitri12: cdaf7f3f-e421-4d0f-80d1-06a0ced47aac
+2025-12-06 12:47:17 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:48:26 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:48:26 [INFO]: 🟢 Entry created by soumitri12: c0feca2b-5cca-4952-8aa7-87d7bb01d83e
+2025-12-06 12:48:26 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:48:37 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_bilingual.json
+2025-12-06 12:48:37 [INFO]: 📦 Glossary exported by soumitri12
+2025-12-06 12:48:41 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:48:46 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_bilingual.json
+2025-12-06 12:48:46 [INFO]: 📦 Glossary exported by soumitri12
+2025-12-06 12:49:23 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:49:23 [INFO]: ✏️ Entry updated by soumitri12: c0feca2b-5cca-4952-8aa7-87d7bb01d83e
+2025-12-06 12:49:23 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:53:59 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:53:59 [INFO]: ✏️ Entry updated by soumitri12: c0feca2b-5cca-4952-8aa7-87d7bb01d83e
+2025-12-06 12:53:59 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:54:20 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:54:20 [INFO]: ✏️ Entry updated by soumitri12: c0feca2b-5cca-4952-8aa7-87d7bb01d83e
+2025-12-06 12:54:20 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:54:33 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:54:33 [INFO]: ✏️ Entry updated by soumitri12: c0feca2b-5cca-4952-8aa7-87d7bb01d83e
+2025-12-06 12:54:33 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:54:53 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:54:53 [INFO]: ✏️ Entry updated by soumitri12: c0feca2b-5cca-4952-8aa7-87d7bb01d83e
+2025-12-06 12:54:53 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:55:28 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:55:28 [INFO]: 🟢 Entry created by soumitri12: c4f8a56f-1952-4af0-a300-8825566b1d3e
+2025-12-06 12:55:28 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:55:35 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 12:55:35 [INFO]: 🧹 3 entries deleted by soumitri12
+2025-12-06 12:55:35 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:59:27 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 12:59:33 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:00:17 [INFO]: 🔐 User logged in: soumitri12
+2025-12-06 13:00:18 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:00:30 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:00:30 [INFO]: 🟢 Entry created by soumitri12: b9777203-55ac-4a9e-9939-7efe70233021
+2025-12-06 13:00:30 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:04:28 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:04:28 [INFO]: ✏️ Entry updated by soumitri12: b9777203-55ac-4a9e-9939-7efe70233021
+2025-12-06 13:04:28 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:04:45 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:04:45 [INFO]: 🗑️ Entry deleted by soumitri12: b9777203-55ac-4a9e-9939-7efe70233021
+2025-12-06 13:04:45 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:06:44 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:06:44 [INFO]: 🟢 Entry created by soumitri12: 0e2f3476-262f-4fea-b5a8-5e0b18770c7b
+2025-12-06 13:06:44 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:06:50 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:06:50 [INFO]: 🟢 Entry created by soumitri12: 2a28cad1-6c14-4a67-aa58-c05cb396b7d5
+2025-12-06 13:06:50 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:07:52 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:07:52 [INFO]: 🗑️ Entry deleted by soumitri12: 2a28cad1-6c14-4a67-aa58-c05cb396b7d5
+2025-12-06 13:07:52 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:08:11 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:08:11 [INFO]: ✏️ Entry updated by soumitri12: 0e2f3476-262f-4fea-b5a8-5e0b18770c7b
+2025-12-06 13:08:11 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:08:28 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:08:28 [INFO]: ✏️ Entry updated by soumitri12: 0e2f3476-262f-4fea-b5a8-5e0b18770c7b
+2025-12-06 13:08:28 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:08:37 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:08:37 [INFO]: ✏️ Entry updated by soumitri12: 0e2f3476-262f-4fea-b5a8-5e0b18770c7b
+2025-12-06 13:08:37 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:08:45 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:08:45 [INFO]: 🗑️ Entry deleted by soumitri12: 0e2f3476-262f-4fea-b5a8-5e0b18770c7b
+2025-12-06 13:08:45 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:09:00 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:09:00 [INFO]: 🟢 Entry created by soumitri12: 7f9d508f-ac78-4844-b039-9fb02b1fc783
+2025-12-06 13:09:00 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:09:20 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:09:20 [INFO]: ✏️ Entry updated by soumitri12: 7f9d508f-ac78-4844-b039-9fb02b1fc783
+2025-12-06 13:09:20 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:09:34 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:09:34 [INFO]: 🗑️ Entry deleted by soumitri12: 7f9d508f-ac78-4844-b039-9fb02b1fc783
+2025-12-06 13:09:34 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:13:53 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:14:03 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:14:11 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:14:11 [INFO]: 🟢 Entry created by soumitri12: 7129a22c-1b15-40b0-9369-503486f76c12
+2025-12-06 13:14:11 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:14:15 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:14:15 [INFO]: 🗑️ Entry deleted by soumitri12: 7129a22c-1b15-40b0-9369-503486f76c12
+2025-12-06 13:14:15 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:16:01 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:16:01 [INFO]: 🟢 Entry created by soumitri12: 36a9223d-24a6-4f28-b6cf-293dc31b9efe
+2025-12-06 13:16:01 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:16:24 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:16:24 [INFO]: ✏️ Entry updated by soumitri12: 36a9223d-24a6-4f28-b6cf-293dc31b9efe
+2025-12-06 13:16:24 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:16:32 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:16:32 [INFO]: 🗑️ Entry deleted by soumitri12: 36a9223d-24a6-4f28-b6cf-293dc31b9efe
+2025-12-06 13:16:32 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:18:46 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:22:00 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:22:00 [INFO]: 🟢 Entry created by soumitri12: 2c0453ce-a645-473b-9250-06caf9aff4f4
+2025-12-06 13:22:00 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:22:06 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:22:06 [INFO]: 🟢 Entry created by soumitri12: a5427b41-4f97-470b-9cb6-f02f17001f9c
+2025-12-06 13:22:06 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:22:16 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:22:16 [INFO]: 🟢 Entry created by soumitri12: 12f37a34-161d-4e84-88f4-b9576cb524ed
+2025-12-06 13:22:16 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:24:31 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:24:41 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2025-12-06 13:24:41 [INFO]: ✏️ Entry updated by soumitri12: 12f37a34-161d-4e84-88f4-b9576cb524ed
+2025-12-06 13:24:41 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:31:52 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:32:10 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-06 13:36:25 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-09 11:32:59 [INFO]: 🚀 Server running at http://localhost:3001
+2025-12-09 11:32:59 [INFO]: ✅ MongoDB connected
+2025-12-09 11:33:39 [INFO]: 🔐 User logged in: soumitri12
+2025-12-09 11:33:40 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-09 11:37:07 [INFO]: 🚀 Server running at http://localhost:3001
+2025-12-09 11:37:07 [INFO]: ✅ MongoDB connected
+2025-12-09 11:39:25 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-09 11:42:05 [INFO]: 📚 User soumitri12 fetched glossary
+2025-12-09 11:45:01 [INFO]: 📚 User soumitri12 fetched glossary
+2026-04-13 11:58:01 [INFO]: 🚀 Server running at http://localhost:3001
+2026-04-13 11:58:01 [INFO]: ✅ MongoDB connected
+2026-04-13 11:59:05 [INFO]: 🚀 Server running at http://localhost:3001
+2026-04-13 11:59:05 [INFO]: ✅ MongoDB connected
+2026-04-13 11:59:07 [INFO]: 🔐 User logged in: soumitri
+2026-04-13 11:59:07 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:04:22 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:11:46 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:11:46 [INFO]: 🟢 Entry created by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:11:46 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:22 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:22 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:22 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:24 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:24 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:24 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:25 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:25 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:25 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:26 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:26 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:26 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:27 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:27 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:27 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:32 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:32 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:32 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:33 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:33 [INFO]: ✏️ Entry updated by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:34 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:17:39 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:17:39 [INFO]: 🗑️ Entry deleted by soumitri: 910a180e-81af-4e29-b4e0-52cf55829f68
+2026-04-13 12:17:39 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:18:45 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:42:48 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:43:41 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:46:24 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:46:24 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:46:24 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:46:25 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:46:25 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:46:25 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:02 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:02 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:02 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:03 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:03 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:03 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:22 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:26 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:26 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:26 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:27 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:27 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:28 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:28 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:28 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:28 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:30 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:30 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:31 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:47:31 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:47:31 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:47:32 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:48:28 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:05 [INFO]: 🚀 Server running at http://localhost:3001
+2026-04-13 12:49:05 [INFO]: ✅ MongoDB connected
+2026-04-13 12:49:08 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:08 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:49:08 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:10 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:10 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:49:10 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:11 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:11 [INFO]: ✏️ Entry updated by soumitri: d9147a5a-1f0f-4823-865b-cdb334b91700
+2026-04-13 12:49:12 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:12 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:12 [INFO]: ✏️ Entry updated by soumitri: d9147a5a-1f0f-4823-865b-cdb334b91700
+2026-04-13 12:49:13 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:14 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:14 [INFO]: ✏️ Entry updated by soumitri: d9147a5a-1f0f-4823-865b-cdb334b91700
+2026-04-13 12:49:14 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:15 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:15 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:49:15 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:16 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:16 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:49:16 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:17 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:17 [INFO]: ✏️ Entry updated by soumitri: d9147a5a-1f0f-4823-865b-cdb334b91700
+2026-04-13 12:49:17 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:18 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:18 [INFO]: ✏️ Entry updated by soumitri: d9147a5a-1f0f-4823-865b-cdb334b91700
+2026-04-13 12:49:18 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:20 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:49:20 [INFO]: ✏️ Entry updated by soumitri: 98a021ea-c39f-4e1f-a106-2f9a4ba59380
+2026-04-13 12:49:20 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:49:45 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_bilingual.json
+2026-04-13 12:49:45 [INFO]: 📦 Glossary exported by soumitri
+2026-04-13 12:50:32 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:50:32 [INFO]: ✏️ Entry updated by soumitri: 98a021ea-c39f-4e1f-a106-2f9a4ba59380
+2026-04-13 12:50:32 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:50:33 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:50:33 [INFO]: ✏️ Entry updated by soumitri: d9147a5a-1f0f-4823-865b-cdb334b91700
+2026-04-13 12:50:33 [INFO]: 📚 User soumitri fetched glossary
+2026-04-13 12:50:34 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-04-13 12:50:34 [INFO]: ✏️ Entry updated by soumitri: 6d017ae5-3615-4f82-8e8d-7f600a3559b7
+2026-04-13 12:50:34 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:47:35 [INFO]: 🚀 Server running at http://localhost:3001
+2026-05-05 12:47:35 [INFO]: ✅ MongoDB connected
+2026-05-05 12:47:37 [INFO]: 🔐 User logged in: soumitri
+2026-05-05 12:47:38 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:47:52 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 12:47:52 [INFO]: 🟢 Entry created by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 12:47:52 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:49:47 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:56:12 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:56:30 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:56:36 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 12:57:36 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:06 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:41 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:43 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:43 [INFO]: ✏️ Entry updated by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 13:01:44 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:45 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:45 [INFO]: ✏️ Entry updated by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 13:01:46 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:48 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:48 [INFO]: ✏️ Entry updated by soumitri: 439bf59f-3160-43ab-9fcf-da95d7f3e256
+2026-05-05 13:01:48 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:52 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:52 [INFO]: ✏️ Entry updated by soumitri: 6a26615b-2bc2-44b0-bd5f-7fc930bb190a
+2026-05-05 13:01:52 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:54 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:54 [INFO]: ✏️ Entry updated by soumitri: 980b8945-2d1d-42bc-872b-b5f62449f229
+2026-05-05 13:01:54 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:56 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:56 [INFO]: ✏️ Entry updated by soumitri: 980b8945-2d1d-42bc-872b-b5f62449f229
+2026-05-05 13:01:56 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:57 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:57 [INFO]: ✏️ Entry updated by soumitri: 6a26615b-2bc2-44b0-bd5f-7fc930bb190a
+2026-05-05 13:01:58 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:01:59 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:01:59 [INFO]: ✏️ Entry updated by soumitri: 439bf59f-3160-43ab-9fcf-da95d7f3e256
+2026-05-05 13:01:59 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:02:09 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:02:09 [INFO]: ✏️ Entry updated by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 13:02:09 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:02:20 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:02:20 [INFO]: ✏️ Entry updated by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 13:02:20 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:11:39 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:11:39 [INFO]: ✏️ Entry updated by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 13:11:40 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:11:40 [INFO]: 💾 Successfully wrote to file: /Users/soumitri/Desktop/Glossary-App/backend/assets/glossary_data.json
+2026-05-05 13:11:40 [INFO]: ✏️ Entry updated by soumitri: 646d97f7-a049-4960-b5b7-4f28e029dbca
+2026-05-05 13:11:41 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:14:54 [INFO]: 🚀 Server running at http://localhost:3001
+2026-05-05 13:14:54 [INFO]: ✅ MongoDB connected
+2026-05-05 13:15:04 [INFO]: 📚 User soumitri fetched glossary
+2026-05-05 13:15:16 [WARN]: ⚠️ Duplicate glossary word rejected for soumitri: [{"type":"existing-entry","lang":"de","word":"test1","existingEntryId":"646d97f7-a049-4960-b5b7-4f28e029dbca","existingWord":"test1"}]
+2026-05-05 13:15:21 [WARN]: ⚠️ Duplicate glossary word rejected for soumitri: [{"type":"existing-entry","lang":"de","word":"test1","existingEntryId":"646d97f7-a049-4960-b5b7-4f28e029dbca","existingWord":"test1"}]

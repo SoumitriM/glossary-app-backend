@@ -13,7 +13,7 @@ const { randomUUID } = require("crypto");
 const logger = require("./src/utils/logger.js");
 
 const app = express();
-const PORT = process.env.PORT || 3002;
+const PORT = process.env.PORT;
 
 // ---------------- MIDDLEWARE ----------------
 app.use(cors());
@@ -65,6 +65,107 @@ function writeJsonFile(filePath, data) {
 
 function getGermanTimestamp() {
   return new Date().toLocaleString("de-DE", { timeZone: "Europe/Berlin" });
+}
+
+function normalizeWord(word) {
+  return String(word || "")
+    .trim()
+    .replace(/\s+/g, " ")
+    .toLocaleLowerCase("de-DE");
+}
+
+function collectDuplicateWords(entry, existingEntries, options = {}) {
+  const { excludeId = null } = options;
+  const duplicates = [];
+  const seenInEntry = new Map();
+  const existingWords = new Map();
+
+  existingEntries.forEach((existingEntry) => {
+    if (excludeId && existingEntry.id === excludeId) return;
+
+    ["en", "de"].forEach((lang) => {
+      if (!Array.isArray(existingEntry[lang])) return;
+
+      existingEntry[lang].forEach(({ word }) => {
+        const normalized = normalizeWord(word);
+        if (!normalized || existingWords.has(`${lang}:${normalized}`)) return;
+
+        existingWords.set(`${lang}:${normalized}`, {
+          id: existingEntry.id,
+          lang,
+          word: String(word).trim(),
+        });
+      });
+    });
+  });
+
+  ["en", "de"].forEach((lang) => {
+    if (!Array.isArray(entry[lang])) return;
+
+    entry[lang].forEach(({ word }) => {
+      const normalized = normalizeWord(word);
+      if (!normalized) return;
+
+      const key = `${lang}:${normalized}`;
+      const displayWord = String(word).trim();
+
+      if (seenInEntry.has(key)) {
+        duplicates.push({
+          type: "within-entry",
+          lang,
+          word: displayWord,
+        });
+        return;
+      }
+
+      seenInEntry.set(key, true);
+
+      const existingMatch = existingWords.get(key);
+      if (existingMatch) {
+        duplicates.push({
+          type: "existing-entry",
+          lang,
+          word: displayWord,
+          existingEntryId: existingMatch.id,
+          existingWord: existingMatch.word,
+        });
+      }
+    });
+  });
+
+  return duplicates;
+}
+
+function formatDuplicateMessage(duplicates) {
+  const langLabels = { en: "English", de: "Deutsch" };
+  const existingDuplicates = duplicates.filter(
+    (duplicate) => duplicate.type === "existing-entry"
+  );
+  const withinEntryDuplicates = duplicates.filter(
+    (duplicate) => duplicate.type === "within-entry"
+  );
+  const formatWords = (items) =>
+    items
+      .map((duplicate) => `${langLabels[duplicate.lang]} "${duplicate.word}"`)
+      .join(", ");
+
+  if (existingDuplicates.length > 0) {
+    return `This word already exists in the glossary: ${formatWords(existingDuplicates)}.`;
+  }
+
+  const duplicateWords = withinEntryDuplicates
+    .map((duplicate) => `${langLabels[duplicate.lang]} "${duplicate.word}"`)
+    .join(", ");
+
+  return `This word is entered more than once in this entry: ${duplicateWords}.`;
+}
+
+function sendDuplicateResponse(res, duplicates) {
+  return res.status(409).json({
+    error: formatDuplicateMessage(duplicates),
+    code: "DUPLICATE_WORD",
+    duplicates,
+  });
 }
 
 // ---------------- AUTH MIDDLEWARE ----------------
@@ -192,6 +293,14 @@ app.post("/api/glossary/create", verifyToken, (req, res) => {
   const glossary = readJsonFile();
   const username = req.user.username;
   const timestamp = getGermanTimestamp();
+  const duplicates = collectDuplicateWords(req.body, glossary);
+
+  if (duplicates.length > 0) {
+    logger.warn(
+      `⚠️ Duplicate glossary word rejected for ${username}: ${JSON.stringify(duplicates)}`
+    );
+    return sendDuplicateResponse(res, duplicates);
+  }
 
   const newEntry = {
     id: randomUUID(),
@@ -217,9 +326,27 @@ app.put("/api/glossary/update/:id", verifyToken, (req, res) => {
     return res.status(404).json({ error: "Entry not found" });
   }
 
-  glossary[index] = {
+  const updatedEntry = {
     ...glossary[index],
     ...req.body,
+  };
+  const updatesWords = "en" in req.body || "de" in req.body;
+
+  if (updatesWords) {
+    const duplicates = collectDuplicateWords(updatedEntry, glossary, {
+      excludeId: id,
+    });
+
+    if (duplicates.length > 0) {
+      logger.warn(
+        `⚠️ Duplicate glossary word rejected for ${req.user.username}: ${JSON.stringify(duplicates)}`
+      );
+      return sendDuplicateResponse(res, duplicates);
+    }
+  }
+
+  glossary[index] = {
+    ...updatedEntry,
     lastModifiedBy: req.user.username,
     lastModifiedAt: getGermanTimestamp(),
   };
@@ -267,7 +394,7 @@ app.post("/api/glossary/delete-multiple", verifyToken, (req, res) => {
 // 📦 Export (clean JSON)
 app.get("/api/glossary/export", verifyToken, (req, res) => {
   const data = readJsonFile(dataFilePath);
-  const cleaned = data.map(({ lastModifiedBy, lastModifiedAt, ...rest }) => rest);
+  const cleaned = data.map(({ lastModifiedBy, lastModifiedAt, hide, ...rest }) => rest);
   writeJsonFile(exportFilePath, cleaned);
 
   logger.info(`📦 Glossary exported by ${req.user.username}`);

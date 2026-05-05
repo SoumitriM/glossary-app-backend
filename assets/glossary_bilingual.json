@@ -1,5 +1,69 @@
 [
   {
+    "id": "6d017ae5-3615-4f82-8e8d-7f600a3559b7",
+    "en": [
+      {
+        "word": "doctoral dissertation",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Dissertation",
+        "comment": ""
+      },
+      {
+        "word": "Doktorarbeit",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "d9147a5a-1f0f-4823-865b-cdb334b91700",
+    "en": [
+      {
+        "word": "Fachgebiete",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "subject areas",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "98a021ea-c39f-4e1f-a106-2f9a4ba59380",
+    "en": [
+      {
+        "word": "Projekte",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "projects",
+        "comment": ""
+      }
+    ]
+  },
+  {
+    "id": "439bf59f-3160-43ab-9fcf-da95d7f3e256",
+    "en": [
+      {
+        "word": "University Council",
+        "comment": ""
+      }
+    ],
+    "de": [
+      {
+        "word": "Hochschulrat",
+        "comment": ""
+      }
+    ]
+  },
+  {
     "id": "4193761d-79d5-48e3-a510-dc433bde8cf3",
     "en": [
       {
@@ -531,7 +595,11 @@
     "id": "c66519b6-73e9-4d9a-a2d9-f5750412bb4a",
     "en": [
       {
-        "word": "examination type/type of examination",
+        "word": "examination type",
+        "comment": ""
+      },
+      {
+        "word": "type of examination",
         "comment": ""
       }
     ],
@@ -2440,7 +2508,7 @@
     ],
     "de": [
       {
-        "word": "Deutscher Akademische Austauschdienst (DAAD)",
+        "word": "Deutscher Akademischer Austauschdienst (DAAD)",
         "comment": ""
       }
     ]
@@ -3373,8 +3441,12 @@
     "id": "fecf5094-fb4f-46d6-ac95-0beef8506aa7",
     "en": [
       {
-        "word": "funding/grant programme",
+        "word": "funding",
         "comment": "je nach Kontext"
+      },
+      {
+        "word": "grant programme",
+        "comment": ""
       }
     ],
     "de": [
@@ -4598,8 +4670,12 @@
         "comment": ""
       },
       {
-        "word": "international orientation/outlook",
+        "word": "international",
         "comment": "synonym"
+      },
+      {
+        "word": "international outlook",
+        "comment": ""
       }
     ],
     "de": [
@@ -6107,7 +6183,11 @@
     ],
     "de": [
       {
-        "word": "Paragraph/§",
+        "word": "Paragraph",
+        "comment": ""
+      },
+      {
+        "word": "§",
         "comment": ""
       }
     ]
@@ -6116,8 +6196,12 @@
     "id": "e3d05697-66f5-4765-988c-f125c208d774",
     "en": [
       {
-        "word": "partner university/institution",
+        "word": "partner university",
         "comment": "je nach Kontext"
+      },
+      {
+        "word": "partner intitution",
+        "comment": ""
       }
     ],
     "de": [
@@ -6538,7 +6622,11 @@
     ],
     "de": [
       {
-        "word": "Profil-/Personenmanager",
+        "word": "Personenmanager",
+        "comment": ""
+      },
+      {
+        "word": "Profilmanager",
         "comment": ""
       }
     ]
@@ -7432,8 +7520,12 @@
     "id": "57706316-5cb1-47f9-b160-25b76c8bff87",
     "en": [
       {
-        "word": "cutting-edge/top-level research",
+        "word": "cutting-edge research",
         "comment": "synonym"
+      },
+      {
+        "word": "top-level research",
+        "comment": ""
       }
     ],
     "de": [
@@ -8146,7 +8238,15 @@
     "id": "60b6314f-49bf-4142-b3d5-cfd1f3e600b1",
     "en": [
       {
-        "word": "technical employee/staff (member)",
+        "word": "technical employee",
+        "comment": ""
+      },
+      {
+        "word": "technical staff",
+        "comment": ""
+      },
+      {
+        "word": "technical staff member",
         "comment": ""
       }
     ],
@@ -8909,8 +9009,12 @@
     "id": "d56fc92c-9c29-4f6b-9a0c-cf3dbbe5281f",
     "en": [
       {
-        "word": "chairperson/head of",
+        "word": "chairperson",
         "comment": "je nach Kontext"
+      },
+      {
+        "word": "head of",
+        "comment": ""
       }
     ],
     "de": [
@@ -9314,7 +9418,11 @@
     "id": "ae8517aa-07bd-4c39-a017-4b47653387b0",
     "en": [
       {
-        "word": "research/graduate assistant with a bachelor's degree",
+        "word": "research assistant with a bachelor's degree",
+        "comment": ""
+      },
+      {
+        "word": "graduate assistant with a bachelor's degree",
         "comment": ""
       }
     ],

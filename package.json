@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "check": "node --check server.js",
     "scrape:iaf": "node scripts/iafcertsearch-scraper.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --test"
   },
   "keywords": [],
   "author": "",
@@ -12,15 +15,11 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^6.0.0",
-    "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
-    "express-session": "^1.18.2",
     "jsonwebtoken": "^9.0.2",
-    "ldapjs": "^3.0.7",
     "mongoose": "^8.19.3",
-    "openai": "^6.8.1",
     "winston": "^3.18.3"
   }
 }

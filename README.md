@@ -1,49 +1,56 @@
 # Glossary Backend
 
-Express backend for the bilingual glossary app. It provides authentication, glossary CRUD routes, search, export, and duplicate-word validation.
+Express backend for the bilingual glossary app. It provides authentication, glossary CRUD routes, search, export, duplicate-word validation, and MongoDB-backed glossary storage.
 
 ## Requirements
 
 - Node.js 20+
 - npm
-- MongoDB running locally
-
-The current MongoDB connection string in `server.js` is:
-
-```text
-mongodb://appUser:AppPass456@127.0.0.1:27017/glossary_app
-```
+- MongoDB running locally or remotely
 
 ## Setup
 
 ```bash
 npm install
+cp .env.example .env
 ```
 
-Create a local `.env` file:
+Update `.env`:
 
 ```env
+MONGO_URI=mongodb://appUser:AppPass456@127.0.0.1:27017/glossary_app
+JWT_SECRET=replace-with-a-long-random-secret
 PORT=3001
 ```
 
-## Run
-
-There is currently no `start` script, so run the server directly:
+## Scripts
 
 ```bash
-node server.js
+npm start       # run server.js
+npm run dev     # run server.js with Node watch mode
+npm run check   # syntax-check server.js
+npm test        # run backend unit tests
 ```
 
-The server listens on `PORT` from `.env`.
+## Storage
 
-## Data Files
+MongoDB is now the primary data store for:
 
-Glossary data is stored in JSON files under `assets/`:
+- users
+- glossary entries
+
+The first time the backend starts with an empty glossary collection, it seeds MongoDB from:
 
 ```text
-assets/glossary_data.json       main editable glossary data
-assets/glossary_bilingual.json  generated export file
-assets/*_backup.json            backups
+assets/glossary_data.json
+```
+
+After seeding, glossary reads/writes use MongoDB. The JSON file remains useful as source seed data and backup material, but the table data no longer comes directly from JSON.
+
+Exports are still written to:
+
+```text
+assets/glossary_bilingual.json
 ```
 
 Logs are written under `logs/`.
@@ -76,6 +83,22 @@ DELETE /api/glossary/delete/:id
 POST   /api/glossary/delete-multiple
 GET    /api/glossary/export
 ```
+
+## Validation
+
+Create requests require at least one English word and one Deutsch word.
+
+Update requests may update:
+
+- `en`
+- `de`
+- `hide`
+
+Word entries are normalized before saving:
+
+- leading/trailing whitespace is trimmed
+- repeated whitespace inside a word is collapsed
+- empty optional fields are removed
 
 ## Duplicate Word Validation
 
@@ -112,14 +135,11 @@ Hide-only updates do not run duplicate validation.
 
 ## Export
 
-`GET /api/glossary/export` writes a cleaned export file to `assets/glossary_bilingual.json` and downloads it. The export removes metadata fields such as `lastModifiedBy`, `lastModifiedAt`, and `hide`.
+`GET /api/glossary/export` reads entries from MongoDB, writes the cleaned export file to `assets/glossary_bilingual.json`, and downloads it.
 
-## Verification
+The export removes:
 
-Syntax-check the backend:
-
-```bash
-node --check server.js
-```
-
-The current `npm test` script is a placeholder and does not run tests yet.
+- entry ids
+- visibility fields such as `hide` and `hidden`
+- metadata fields such as `lastModifiedBy` and `lastModifiedAt`
+- empty optional word fields such as `comment`, `note`, `pos`, or `gender`
